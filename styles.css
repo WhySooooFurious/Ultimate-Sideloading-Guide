@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, rgb(29, 29, 30), rgb(255, 255, 255));
+    background: linear-gradient(135deg, rgb(87, 87, 255), rgb(255, 255, 255));
     color: #333;
     display: flex;
     flex-direction: column;
@@ -52,9 +52,22 @@ main {
     padding-bottom: 10px;
 }
 
-footer {
-    text-align: center;
-    padding: 15px;
-    background: rgba(255, 255, 255, 0.3);
-    border-top: 1px solid #ddd;
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #4a5b6e;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: none;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
 }
+
+#backToTop:hover {
+    opacity: 1;
+}
+
