@@ -21,9 +21,22 @@
                 <p>Follow this tutorial for a step-by-step process on sideloading apps. (Other text here)</p>
             </section>
         </main>
-        <footer>
-            <p>&copy; No copyright (for now)</p>
-        </footer>
+        <button id="backToTop" onclick="scrollToTop()">Back to Top</button>
     </div>
+
+    <script>
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        window.onscroll = function() {
+            const button = document.getElementById('backToTop');
+            if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                button.style.display = "block";
+            } else {
+                button.style.display = "none";
+            }
+        };
+    </script>
 </body>
 </html>
