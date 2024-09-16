@@ -12,12 +12,20 @@ Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I
 Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. This method will work as long as you do all of the steps required and never disable the DNS which is the main thing.
 
 ## Q/A
-Q - Won't a VPN bypass the DNS and revoke my apps?
-A - No, I have enabled preventions in NextDNS, which is the DNS service I use
-Q - Will a restart bypass the DNS and revoke my apps?
-A - Simple answer, No
-Q - OMG, Are you going to track my furry content
-A - No, I have no need to look at your expenditures
+
+**Q -** Won't a VPN bypass the DNS and revoke my apps?
+**A -** No, I have enabled preventions in NextDNS, which is the DNS service I use.
+
+---
+
+**Q -** Will a restart bypass the DNS and revoke my apps?
+**A -** Simple answer, No.
+
+---
+
+**Q -** OMG, Are you going to track my furry content?
+**A -** No, I have no need to look at your expenditures.
+
 
 
 
