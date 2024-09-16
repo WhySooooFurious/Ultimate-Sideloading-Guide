@@ -21,7 +21,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
 - This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
-- Make sure your device is compatible as seen [here](#compatability)
+- Make sure your device is compatible as seen [here](#compatibility)
 
 
 
