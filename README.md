@@ -11,13 +11,14 @@ ESign also has been widely accused of stealing data. After a few months of using
 
 My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarletfeather-and-other-sideloaders)
 
+If you are new, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
 
 ## Scarlet/Feather and other sideloaders
 My DNS is compatible with these services
 
-Follow Part 1 of my main guide to install the DNS blocker, Part 2,3 and 4 is only for ESign and how to set it up
+Follow Part 1 of my main guide to install the DNS blocker itself, Part 2,3 and 4 is only for ESign and how to set it up
 
 Part 2,3 and 4 is for ESign itself
 ## Compatibility
@@ -26,21 +27,16 @@ This should work for all iOS, iPadOS and even macOS devices, on the latest versi
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## How does this method work?
-WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple from revoking your enterprise signed apps. Preventing them from being revoked permanently. 
-
-ESign: An app manager which uses leaked enterprise business certificates to get apps running in your device in the first place
-
-## If you are new
-Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like.
 
 ## Before we start
-- Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked! 
+- Make sure you have not been using services such as Scarlet before as the certificates used to install ESign on your device will be revoked! 
 - This method will work as long as you do all of the steps required and never disable the DNS which is crucial.
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
 
-## Part [1/4] Installing the WhySooooFurious DNS Blocker
 Note: I will eventually put visual aids in the guide itself
+## Part [1/4] Installing the WhySooooFurious DNS Blocker
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
 2. Now, open settings and go to General>VPN & Device Management
 3. Click on the downloaded profile and install it, you may need to input your password
@@ -51,7 +47,6 @@ Note: I will eventually put visual aids in the guide itself
  if you want to install ESign
 
 ## Part [2/4] Installing ESign
-Note: I will eventually put visual aids in the guide itself
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
 2. Click on install once the popup comes up
 3. Open settings and go to General>VPN & Device Management
@@ -61,7 +56,6 @@ Note: I will eventually put visual aids in the guide itself
 7. ESign should now be on your home screen, fully functional
 
 ## Part [3/4] Setting up ESign
-Note: I will eventually put visual aids in the guide itself
 1. Open ESign and accept the agreements
 2. Go into settings and click on get device UDID
 3. Select allow and then you should be redirected to settings
@@ -77,7 +71,6 @@ Note: I will eventually put visual aids in the guide itself
 13. You now have setup ESign with all sources ready to install apps
 
 ## Part [4/4] Using ESign
-Note: I will eventually put visual aids in the guide itself
 1. Download any app using the AppStore in ESign
 2. Check the download status in the Download tab
 3. Click on the download and select Import App Library
@@ -98,7 +91,6 @@ Note: I will eventually put visual aids in the guide itself
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
 **A -** It shouldn't be, based on the settings I used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
-
 
 ---
 
@@ -136,7 +128,7 @@ Note: I will eventually put visual aids in the guide itself
 # Miscellaneous Guides
 
 ## Using a VPN 
-So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN supplier
+So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN company
 
 ### Method 1
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
