@@ -31,6 +31,12 @@ Make sure you have not been using services such as Scarlet before as the certifi
 
 **A -** No, I have no need to look at your expenditures.
 
+---
+
+**Q -** Um, I'm a big-time dev and I need to look at your code thingys to ensure they don't have viruses
+
+**A -** Sure! Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
+
 
 
 
