@@ -17,9 +17,9 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 ## Scarlet/Feather and other sideloaders
 My DNS is compatible with these services
 
-Follow Part 1 of my main guide to install the DNS blocker, Part 2 and 3 is only for ESign and how to set it up
+Follow Part 1 of my main guide to install the DNS blocker, Part 2,3 and 4 is only for ESign and how to set it up
 
-Part 2 and 3 is for ESign itself
+Part 2,3 and 4 is for ESign itself
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
 
@@ -37,7 +37,7 @@ ESign: An app manager which uses leaked enterprise business certificates to get 
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
 
-## Part [1/3] Installing the WhySooooFurious DNS Blocker
+## Part [1/4] Installing the WhySooooFurious DNS Blocker
 Note: I will eventually put visual aids in the guide itself
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
 2. Now, open settings and go to General>VPN & Device Management
@@ -45,10 +45,10 @@ Note: I will eventually put visual aids in the guide itself
 4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
 5. Now go back and then go to General>About>Certificate Trust Settings
 6. Enable Full trust for the NextDNS Root Certificate
-7. Continue onto [Part 2](#part-23-installing-esign)
+7. Continue onto [Part 2](#part-24-installing-esign)
  if you want to install ESign
 
-## Part [2/3] Installing ESign
+## Part [2/4] Installing ESign
 Note: I will eventually put visual aids in the guide itself
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
 2. Click on install once the popup comes up
@@ -58,9 +58,23 @@ Note: I will eventually put visual aids in the guide itself
 6. If your device was restarted, swipe up and click on install profile
 7. ESign should now be on your home screen, fully functional
 
-## Part [3/3] Setting up ESign
+## Part [3/4] Setting up ESign
 Note: I will eventually put visual aids in the guide itself
+1. Open ESign and accept the agreements
+2. Go into settings and click on get device UDID
+3. Select allow and then you should be redirected to settings
+4. After opening settings go to General>VPN & Device Management
+5. Install the Query Device UDID profile
+6. You should be redirected to ESign
+7. Now go down to [Downloads](#downloads) and click on Certificates
+8. Extract the .zip and go into ESign
+9. Go into ESign settings and click on Import Resources
+10. Select any one of the certificates and click Import
+11. Now go over to AppStore in ESign and click on App Source
+12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
+13. You now have setup ESign with all sources ready to install apps
 
+## Part [4/4] Using ESign
 
 
 
