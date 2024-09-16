@@ -10,11 +10,15 @@ INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SE
 ## Introduction
 Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I was amazed to find out this method worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by a vietnamese guy with privacy concerns. ESign also being widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. Without further ado, welcome to my Ultimate Sideloading Guide, Make sure to read it carefully! 
 
+## Compatability
+This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS
+Versions that might not be supported are below iOS 13, iPadOS 13 and macOS 11
+
 ## Before we start
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
 - This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
-- If you feel as if you are blacklisted for Apple for already using services such as scarlet you will need to follow a seperate guide down below. 
-- Please have an iCloud or Local backup of your device before doing any of this, there will be no risks of data loss but this is very important if you get revoked! Why? 
+- If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
+
 
 
 
@@ -22,7 +26,7 @@ Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** No, I have enabled preventions in NextDNS, which is the DNS service I use.
+**A -** You shouldn't be, based on the settings used, I do not recommend using a VPN at all. If you do need to use a VPN, I will make a guide
 
 ---
 
@@ -87,13 +91,6 @@ Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I
 
 
 
-## Revoked? or Blacklisted?
-So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the method listed and you will be unrevoked
-
-### Method 1
-1. Back up your iPhone, here is a [guide](https://support.apple.com/en-us/118426)
-2. After backing up, reset your iphone, here is a [guide](https://support.apple.com/en-au/guide/iphone/iphea1c2fe48/ios)
-3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your iPhone's menu
 
 
 ## Downloads
@@ -101,5 +98,14 @@ So you've gotten yourself blacklisted, either from my DNS (which seems very unli
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
 
+## Revoked? or Blacklisted?
+So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the method listed below and you should be unrevoked
+
+### Method 1
+1. Back up your iPhone, here is a [guide](https://support.apple.com/en-us/118426)
+2. After backing up, reset your iphone, here is a [guide](https://support.apple.com/en-au/guide/iphone/iphea1c2fe48/ios)
+3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your iPhone's menu
+
 ## ESign Sources
-source[5GHxhb1U7Lc5jIMpumASbN2teg9dyK5EAazzwnfm1/gPKQPTWzcz/GqmMyJ96qOpN9I+sobaxc2bOxLJOnEOvCBO0S3fPLfBifsFqblxWBSpvpIt92QQghflQC3w+Exfmk/TRgDUpbmR0WYET6IlVgzUUt7zvQnk7OiXHlKE211IckI8xJGGbC6i4pHK7a2i7uAzEJjZ612XcSAUVA/z9d09OYgTx3UQwP6vQ6pG/tTT6Miy/oiQOfn4EY1keR6ER2m4J09StZmkEnFVBn2x+CED9WuUY6lqPIE/qSQ+ituWE6E67AbhSk4crGGNzlcO9PoeyHjGA3w+SQVoiVbgetHxdx0c4fdqt+GG0vZvZK7TLp7iWFgDcewQhC9MEOuzVfQy267Uy7Ag6VAw37qcUP/WJOkbUuFRGUgICFesTlR1BDRsQyOmT3jek2XBLBC8nVR7EQlgm6Ggkf3bOhm3OBi/dHxwbtB4zPa8l3TyAwp8rhDwsE493pH84s84Bfws5KQNh2/XQRVRL4CwnkUe1eljMIZgewKrS0GR37coqecAkiPJNnurDLN0nqf5ddRd0d3+9wl40Q8LPv2vuBWk0mqwlgDaLwmJK1ZmT/ikcagjd79u3RoQo3uSZHJbGPA/WoDgxLHGPcPgC0DgzBu3/8D1dmp3nzzUtNppbr7IJkdmizglxmitKG6jbbMylxEDcBcu/b33wu2E8AsL31mmxXCHk8oqylqP8QscHrExXuIDcPck/f7596VWXDGAWxfjRi7RdJ6ePpPY3HYYkWhXjzVgzIku3iP2+8bBvZu0ZLT5BSSQN+AYBE4EkneA9340Gy2c9t9hu7ge7OGzu1paVcgGWLI+lu+v/1GnwWXycawI3fdhx9+fKOakRHEU1rEywFWWuT4TKHRl373g3e1waJR6VqYqEXiIznwKLjYHCxQkAvdvNfgyV286iYVYvmENVKdjLXwqiZXUUQLJGYhON6+PH5BQJp3YVr+jJbgg9KTQD4WZ1yqd5Ol4RY9ZB1fvURltK9j6AGTkHE63B4v0NmLzzngGPYX1bNUU45guWI3eCLBhHewWoNd24qxCv73AboaCPpxI1Z6kL+Zo9giRnC/W0ZYi1jzikwx4QN+crkJi+pl6akGe96ftaqkAlF3XgHabDaQeOIk2AmkbPkjT7JZ60sFL45l7sEEv3jH4s7cfSXQ89MrFf8j9uP/sgrMO9Ojw5jdtbUiy55LmyAahxbaaqFdJtaXf1+IAeiI9D1EpzaE78vp7xjHPvcQai7iq2NYObr0Trq7ZnQy6djhwb+0LYx2Ft9pWp7/hJHyqgPs7CD9CBq8Oh4Oc8DV42n1A7wmqu9fNVz+d1uHE4Yb5jR4mKNv9zphZnyofFZgNMtOXPUcBocbofYVaYqgRw/sO5SwQeBK9+pFRcOFkP7qbpYMPbDpB08nV3LOhRRpIYFmJ2KBVZ/gfki+QzabA5xNi8ITtahxFBqmfJSvzYs0acwfTjrmu5td6QP9cJnpaZ4zBGY7KADHUY0xs3OipGKL60Ht5KgI2j6mZ+nowRcQa1v+lZe0BgIzWdYFLnSW+vCRVyRb8iKRXSg7GW8kxiIffwxYb3IZlJDONaA3Ecc21NY+DIo0AwAWjzy1q484JF1WfdrZQo9qVU+VTtks/MXFlusUKPI3Lq7dZmwzFQWuC++XWfugDrS+b3hICJ4jmyjyDHgBpy+eHKdjKkFuiemBRowkkf/iVuJ/mzOpmbLHzibIZlc7LflYUsYgq4ScCKxrwwvnNto+Ih87CJOcIm+ad6bzzK8IGRgoNbznweAuM]
+My sources for ESign
+source[5GHxhb1U7Lc5jIMpumASbN2teg9dyK5EAazzwnfm1/gPKQPTWzcz/GqmMyJ96qOpN9I+sobaxc2bOxLJOnEOvCBO0S3fPLfBifsFqblxWBSpvpIt92QQghflQC3w+Exfmk/TRgDUpbmR0WYET6IlVgzUUt7zvQnk7OiXHlKE211IckI8xJGGbC6i4pHK7a2i7uAzEJjZ612XcSAUVA/z9d09OYgTx3UQwP6vQ6pG/tTT6Miy/oiQOfn4EY1keR6ER2m4J09StZmkEnFVBn2x+CED9WuUY6lqPIE/qSQ+ituWE6E67AbhSk4crGGNzlcO9PoeyHjGA3w+SQVoiVbgetHxdx0c4fdqt+GG0vZvZK7TLp7iWFgDcewQhC9MEOuzVfQy267Uy7Ag6VAw37qcUP/WJOkbUuFRGUgICFesTlR1BDRsQyOmT3jek2XBLBC8nVR7EQlgm6Ggkf3bOhm3OBi/dHxwbtB4zPa8l3TyAwp8rhDwsE493pH84s84Bfws5KQNh2/XQRVRL4CwnkUe1eljMIZgewKrS0GR37coqecAkiPJNnurDLN0nqf5ddRd0d3+9wl40Q8LPv2vuBWk0mqwlgDaLwmJK1ZmT/ikcagjd79u3RoQo3uSZHJbGPA/WoDgxLHGPcPgC0DgzBu3/8D1dmp3nzzUtNppbr7IJkdmizglxmitKG6jbbMylxEDcBcu/b33wu2E8AsL31mm33Ce05UtkFWT5xYaGe07XqM9dPo7kO/3+eFnEhCOThXkUTPHC7WlXJDf1kh+jG9ikzIpl8ku2nu1/cbb+o+mYbSyHTSQN54VHk5agiLC91gnHiqL5Mp9p7JCm9KWpkZKZ4oaRNwgh+y04wynnWH0duxNz+h/vpmBL/m5dDZP0KQxlVTKqS0IKGlwzaeg2vFxBZV6SqM7BT7Ik2sfMXcNTQEnDvUvafsxMmlElYFf9D0YCe1hJyIoxpbMVQPGF4oFJ+DDetcuOpnfHOO2a/49v63WUYyVwnSK6LclXpojAA3xUgU5Dp/8EWT4CAz5FZLjN2LgzyUKOt6IZdMFvYx9A8rKA/EmC6oHvMZguLFZqr3RY5eDfpNXyd/MMuBu7w/EwG/B1oc1kSL+jw0UXNyJrFR2st98Y0PSvqf2Lb0OlV3GnWeRTLMTN5N2BGoFPn7O+6p6wcZM4Y1nkEtl0Tb/8t4fT28h7oWHfdPzvP7mirQS5Piq9D5rfVOz4ZKlz0e32LjQ0lVflKKy1+IZaz9ETxov1qR55Pxg3SWLqdlHkfmqnt8Kbr0ZruSWmBfmcT5mb6MXYQWCutYMtOLkORms/uc/D3UeE+NOiIedsDB1jGQR1gqs+ZKuWy6a0v2Mq4fig0Z7JtbsxYJWhywUDo8bcs2BPF0lqt3xIpcSJOQbxf1O5TpJKVC1xbASJ5llKKaEpNdMLD5F1obewemuWQxVZl7V0qAUfvwYiC6S0ructE9h4IPsEhpdHa+JbUWQRIMMLwnZkr6p6s5mU+hNKHhaLIXcQ4XQDzDcfgpi1e61Wa/l1m05ZQQxz6bh+20sWsVOlb+hYehOi5GMep1dgCO54C5ViA/4j75WSBHbB4YpkovZpgwBxJlge27DdhicPti1Io+ZMpYfygGl0iJy8o4aUEKYbvsSpZjZX+Jf9xM3L3Ji+8FUMo+1sLdCmRrQAyWZ9L2ZafEE6zCKxA9tPZ/91DvcX1slwfzEas2Kyk27aXYSvQI4bf6Dpt7y05R9bKrxn6db28bVIURKr5pm8TcBJH62wOTN6sfC2MPYf6wXi66EsrTuKA==]
