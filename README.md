@@ -26,7 +26,7 @@ Versions that might not be supported are below iOS 13, iPadOS 13 and macOS 11
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** You shouldn't be, based on the settings used, I do not recommend using a VPN at all. If you do need to use a VPN, I will make a guide
+**A -** You shouldn't be, based on the settings used, I still do not recommend using a VPN at all. If you need to use a VPN, Look here
 
 ---
 
@@ -97,6 +97,8 @@ Versions that might not be supported are below iOS 13, iPadOS 13 and macOS 11
 [WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
+
+## Using a  VPN 
 
 ## Revoked? or Blacklisted?
 So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the method listed below and you should be unrevoked
