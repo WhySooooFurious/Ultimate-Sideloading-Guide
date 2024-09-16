@@ -42,7 +42,7 @@ Note: I will eventually put visual aids in the guide itself
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** You shouldn't be, based on the settings used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
+**A -** It shouldn't be, based on the settings I used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
 
 
 ---
