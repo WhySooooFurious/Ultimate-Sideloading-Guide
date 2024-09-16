@@ -11,7 +11,11 @@ INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SE
 Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I was amazed to find out this method worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by a vietnamese guy with privacy concerns. ESign also being widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. Without further ado, welcome to my Ultimate Sideloading Guide, Make sure to read it carefully! 
 
 ## Before we start
-Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. If you feel as if you are blacklisted for Apple for already using services such as scarlet you will need to follow a seperate guide down below
+- Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
+- This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
+- If you feel as if you are blacklisted for Apple for already using services such as scarlet you will need to follow a seperate guide down below. 
+- Please have an iCloud or Local backup of your device before doing any of this, there will be no risks of data loss but this is very important if you get revoked! Why? [Here!](##Revoked/Blacklisted)
+
 
 ## Q/A
 
@@ -82,7 +86,8 @@ Make sure you have not been using services such as Scarlet before as the certifi
 
 
 
-
+## Revoked/Blacklisted?
+So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. There are mainly 2 ways to go about this; Either you fully reset your device
 
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
