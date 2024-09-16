@@ -14,7 +14,7 @@ Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
 - This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
 - If you feel as if you are blacklisted for Apple for already using services such as scarlet you will need to follow a seperate guide down below. 
-- Please have an iCloud or Local backup of your device before doing any of this, there will be no risks of data loss but this is very important if you get revoked! Why? [Here!](##Revoked/Blacklisted)
+- Please have an iCloud or Local backup of your device before doing any of this, there will be no risks of data loss but this is very important if you get revoked! Why? [Here!](#revoked/blacklisted)
 
 
 ## Q/A
