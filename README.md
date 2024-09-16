@@ -65,7 +65,7 @@ Note: I will eventually put visual aids in the guide itself
 
 ---
 
-**Q -** Can I see your NextDNS settings?
+**Q -** Can I see the NextDNS settings used?
 
 **A -** Yes, make an issue and mention your email and I will send you a viewing invitation.
 
