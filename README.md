@@ -14,6 +14,7 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS
+
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 
 ## Before we start
