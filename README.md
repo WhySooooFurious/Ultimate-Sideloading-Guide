@@ -153,6 +153,8 @@ Note: I will eventually put visual aids in the guide itself
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
 
+[Certificates](https://shorturl.at/cWdt0)
+
 # Miscellaneous Guides
 
 ## Using a VPN 
