@@ -1,5 +1,5 @@
 # Verified to be working, however there will be numerous changes up until tomorrow so please refrain from using this
-
+## DO NOT USE ANY OTHER CERTIFICATE FROM THE CERTIFICATES FOLDER APART FROM HDFC Life Insurance Co!
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. 
 
