@@ -173,7 +173,7 @@ body {
 
 .guide-title {
     position: absolute;
-    top: 0px;
+    top: -20px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 3em;
