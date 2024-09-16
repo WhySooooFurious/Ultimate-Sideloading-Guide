@@ -14,6 +14,8 @@ This should work for all iOS, iPadOS and even macOS devices, on the latest versi
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
+You can also follow Part 1 to prevent revokes for apps such as scarlet as well! Just don't follow Part 2 or Part 3 of the main guide
+
 ## How does this method work?
 WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple from revoking your enterprise signed apps. Preventing them from being revoked permanently. 
 
