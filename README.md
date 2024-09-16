@@ -87,11 +87,14 @@ Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I
 
 
 
-## Revoked?/Blacklisted?
-So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. There are mainly 2 ways to go about this;
+## Revoked? or Blacklisted?
+So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the method listed and you will be unrevoked
 
 ### Method 1
-You 
+1. Back up your iPhone, here is a [guide](https://support.apple.com/en-us/118426)
+2. After backing up, reset your iphone, here is a [guide](https://support.apple.com/en-au/guide/iphone/iphea1c2fe48/ios)
+3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your iPhone's menu
+
 
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
