@@ -8,7 +8,17 @@ INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SE
 ## Introduction
 Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I was amazed to find out this method worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by a vietnamese guy with privacy concerns. ESign also being widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. Without further ado, welcome to my Ultimate Sideloading Guide, Make sure to read it carefully!
 
-#### Notes
+## Before we start
+Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. This method will work as long as you do all of the steps required and never disable the DNS which is the main thing.
+
+## Q/A
+Q - Won't a VPN bypass the DNS and revoke my apps?
+A - No, I have enabled preventions in NextDNS, which is the DNS service I use
+Q - Will a restart bypass the DNS and revoke my apps?
+A - Simple answer, No
+Q - OMG, Are you going to track my furry content
+A - No, I have no need to look at your expenditures
+
 
 
 
