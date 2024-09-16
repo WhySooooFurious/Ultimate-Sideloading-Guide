@@ -10,12 +10,12 @@ INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SE
 ## Introduction
 Hi, I'm WhySooooFurious. I came across this sideloading method a while ago and I was amazed to find out this method worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by a vietnamese guy with privacy concerns. ESign also being widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
-Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue
+Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
 
 ## Compatibility
-This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS
+This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
 
-Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
+Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## Before we start
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
