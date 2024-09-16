@@ -1,8 +1,8 @@
 # Ultimate-Sideloading-Guide 
 
-# IN PROGRESS, MIGHT NOT WORK FOR YOU, INSTALL THE DNS AT YOUR OWN RISK, APPS MAY GET REVOKED AS IT IS INCOMPLETE!
-# THE GUIDE IS IN PROGRESS DO NOT USE!!! 
-## I will remove all of these warnings AFTER the guide is done!
+# Verified to be working, however there will be numerous changes up until tomorrow so please refrain from using this
+# If you want to use it, follow the guides *very* closely, I will not be providing support for beta testers as of now
+# Goodluck!
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. 
