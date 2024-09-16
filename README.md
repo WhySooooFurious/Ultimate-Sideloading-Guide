@@ -21,6 +21,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
 - This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
+- Make sure your device is compatible as seen [here](#compatability)
 
 
 
@@ -46,9 +47,17 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 
 ---
 
-**Q -** Um, I'm a big-time dev and I need to look at your code thingys to ensure they don't have viruses
+**Q -** Um, I'm a big-time dev and I need to look at your code thingies to ensure they don't have viruses
 
 **A -** Sure! Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
+
+---
+
+**Q -** Can I see your NextDNS settings?
+
+**A -** Yes, make an issue and mention your email and I will send you a viewing invitation.
+
+---
 
 
 
@@ -111,12 +120,19 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
 
 ## Revoked? or Blacklisted?
-So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the method listed below and you should be unrevoked
+So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
+
+Use method 2 if method 1 does not work
+
+You must not use your backups with method 2 otherwise you will get revoked again
 
 ### Method 1
 1. Back up your iPhone, here is a [guide](https://support.apple.com/en-us/118426)
 2. After backing up, reset your iphone, here is a [guide](https://support.apple.com/en-au/guide/iphone/iphea1c2fe48/ios)
 3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your iPhone's menu
+
+### Method 2
+1. Follow this [guide](https://support.apple.com/en-au/guide/iphone/iph7a2a9399b/ios)
 
 ## ESign Sources
 My sources for ESign
