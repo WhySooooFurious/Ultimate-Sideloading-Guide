@@ -5,16 +5,23 @@
 ## I will remove all of these warnings AFTER the guide is done!
 
 ## Introduction
-Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also has been widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
+Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. 
+
+ESign also has been widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
+
+My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarletfeather-and-other-sideloaders)
+
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
 
+## Scarlet/Feather and other sideloaders
+My DNS is compatible with both of these services!
+Follow Part 1 of my main guide
+Part 2 and 3 is for ESign itself
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
-
-You can also follow Part 1 to prevent revokes for apps such as scarlet as well! Just don't follow Part 2 or Part 3 of the main guide
 
 ## How does this method work?
 WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple from revoking your enterprise signed apps. Preventing them from being revoked permanently. 
@@ -36,6 +43,8 @@ Note: I will eventually put visual aids in the guide itself
 4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
 5. Now go back and then go to General>About>Certificate Trust Settings
 6. Enable Full trust for the NextDNS Root Certificate
+7. Continue onto [Part 2](#part-23-installing-esign)
+ if you want to install ESign
 
 ## Part [2/3] Installing ESign
 Note: I will eventually put visual aids in the guide itself
@@ -48,7 +57,7 @@ Note: I will eventually put visual aids in the guide itself
 7. ESign should now be on your home screen, fully functional
 
 ## Part [3/3] Setting up ESign
-
+Note: I will eventually put visual aids in the guide itself
 
 
 
