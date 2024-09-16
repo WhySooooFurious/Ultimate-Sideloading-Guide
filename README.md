@@ -27,6 +27,14 @@ WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple f
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
 
+## Part 1/2 Installing the WhySooooFurious DNS Blocker
+Note: I will eventually put visual aids in the guide itself
+1. Go down to [Downloads(#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and continue onto step 2
+2. Close the prompt and open settings, Go to General>VPN & Device management>
+3. Click on the downloaded profile and install it, you may need to input your password
+4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
+5. Now go back and then go to General>About>Certificate Trust Settings
+6. Enable Full trust for the NextDNS Root Certificate
 
 ## Q/A
 
