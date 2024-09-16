@@ -5,8 +5,9 @@ iOS Sideloading guide, Apps will not get revoked at all.
 
 INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SETTINGS>GENERAL>ABOUT>CERTIFICATE TRUST SETTINGS AND ENABLE NEXTDNS
 
-
-[WhySooooFurious DNS Blocker](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/releases/download/bin/WhySooooFurious.DNS.Blocker.mobileconfig)
+### Introduction
+## Introduction
+[WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
 
