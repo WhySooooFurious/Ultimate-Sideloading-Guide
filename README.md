@@ -15,9 +15,9 @@ My DNS is compatible with other services such as Scarlet, Feather and any other 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
 
 ## Scarlet/Feather and other sideloaders
-My DNS is compatible with both of these services!
+My DNS is compatible with these services
 
-Follow Part 1 of my main guide to install the DNS blocker
+Follow Part 1 of my main guide to install the DNS blocker, Part 2 and 3 is only for ESign and how to set it up
 
 Part 2 and 3 is for ESign itself
 ## Compatibility
