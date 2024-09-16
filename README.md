@@ -14,16 +14,19 @@ Make sure you have not been using services such as Scarlet before as the certifi
 ## Q/A
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
+
 **A -** No, I have enabled preventions in NextDNS, which is the DNS service I use.
 
 ---
 
 **Q -** Will a restart bypass the DNS and revoke my apps?
+
 **A -** Simple answer, No.
 
 ---
 
 **Q -** OMG, Are you going to track my furry content?
+
 **A -** No, I have no need to look at your expenditures.
 
 
