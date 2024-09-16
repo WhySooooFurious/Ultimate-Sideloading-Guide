@@ -104,7 +104,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 
 # Miscellaneous Guides
 
-## Using a  VPN 
+## Using a VPN 
 So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still not not recommend using a VPN with the DNS regardless. You should know how to configure your VPN's DNS server
 
 ### Method 1
