@@ -178,12 +178,19 @@ Useful ESign settings
 3. Click the Select button on the bottom right
 4. Select which sources you want and then click on delete
 
-### Enabling Auto Import and Auto Delete
+### Enabling Auto Import
 When downloading .ipa, ESign will automatically import your files into your app library
 1. Go into the Download tab
 2. Click on the 3 dots on to top left corner
 3. Click on settings
-4. Enable both settings
+4. Enable both Auto Import
+
+### Enabling Auto Delete
+When downloading .ipa, ESign will automatically import your files into your app library
+1. Go into the Download tab
+2. Click on the 3 dots on to top left corner
+3. Click on settings
+4. Enable Auto Delete
 
 ### Default Sign Config
 This will let you pick a predefined config for your apps
