@@ -29,8 +29,8 @@ WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple f
 
 ## Part [1/2] Installing the WhySooooFurious DNS Blocker
 Note: I will eventually put visual aids in the guide itself
-1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and continue
-2. Close the prompt and open settings, Go to General>VPN & Device management>
+1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
+2. Now, open settings and go to General>VPN & Device management
 3. Click on the downloaded profile and install it, you may need to input your password
 4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
 5. Now go back and then go to General>About>Certificate Trust Settings
