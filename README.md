@@ -5,10 +5,11 @@ iOS Sideloading guide, Apps will not get revoked at all.
 
 INSTALLING THE DNS: MAKE SURE TO DOWNLOAD THE PROFILE AND ENABLE FULLTRUST IN SETTINGS>GENERAL>ABOUT>CERTIFICATE TRUST SETTINGS AND ENABLE NEXTDNS
 
-# THE GUIDE IS IN PROGRESS DO NOT USE!!!!
+# THE GUIDE IS IN PROGRESS DO NOT USE!!! 
+## I will remove all of these warnings AFTER the guide is done!
 
 ## Introduction
-Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across a while back. This sideloading method  worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by a vietnamese guy with privacy concerns. ESign also being widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
+Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also has been widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
 
@@ -18,8 +19,9 @@ This should work for all iOS, iPadOS and even macOS devices, on the latest versi
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## How does this method work?
-ESign: An app manager which uses leaked enterprise business certificates to get apps running in your device in the first place
 WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple from revoking your enterprise signed apps. Preventing them from being revoked permanently. 
+ESign: An app manager which uses leaked enterprise business certificates to get apps running in your device in the first place
+
 
 ## Before we start
 - Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
@@ -124,7 +126,7 @@ Note: I will eventually put visual aids in the guide itself
 # Miscellaneous Guides
 
 ## Using a VPN 
-So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still not not recommend using a VPN with the DNS regardless. You should know how to configure your VPN's DNS server
+So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN supplier
 
 ### Method 1
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
