@@ -30,10 +30,12 @@ WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple f
 
 ESign: An app manager which uses leaked enterprise business certificates to get apps running in your device in the first place
 
+## If you are new
+Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading
 
 ## Before we start
-- Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked!. 
-- This method will work as long as you do all of the steps required and never disable the DNS which is the main thing. 
+- Make sure you have not been using services such as Scarlet before as the certificates used by me will be revoked! 
+- This method will work as long as you do all of the steps required and never disable the DNS which is crucial.
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
 
@@ -73,6 +75,7 @@ Note: I will eventually put visual aids in the guide itself
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
+
 ## Part [4/4] Using ESign
 Note: I will eventually put visual aids in the guide itself
 1. Download any app using the AppStore in ESign
@@ -161,6 +164,31 @@ My sources for ESign
     source[5GHxhb1U7Lc5jIMpumASbN2teg9dyK5EAazzwnfm1/gPKQPTWzcz/GqmMyJ96qOpN9I+sobaxc2bOxLJOnEOvCBO0S3fPLfBifsFqblxWBSpvpIt92QQghflQC3w+Exfmk/TRgDUpbmR0WYET6IlVgzUUt7zvQnk7OiXHlKE211IckI8xJGGbC6i4pHK7a2i7uAzEJjZ612XcSAUVA/z9d09OYgTx3UQwP6vQ6pG/tTT6Miy/oiQOfn4EY1keR6ER2m4J09StZmkEnFVBn2x+CED9WuUY6lqPIE/qSQ+ituWE6E67AbhSk4crGGNzlcO9PoeyHjGA3w+SQVoiVbgetHxdx0c4fdqt+GG0vZvZK7TLp7iWFgDcewQhC9MEOuzVfQy267Uy7Ag6VAw37qcUP/WJOkbUuFRGUgICFesTlR1BDRsQyOmT3jek2XBLBC8nVR7EQlgm6Ggkf3bOhm3OBi/dHxwbtB4zPa8l3TyAwp8rhDwsE493pH84s84Bfws5KQNh2/XQRVRL4CwnkUe1eljMIZgewKrS0GR37coqecAkiPJNnurDLN0nqf5ddRd0d3+9wl40Q8LPv2vuBWk0mqwlgDaLwmJK1ZmT/ikcagjd79u3RoQo3uSZHJbGPA/WoDgxLHGPcPgC0DgzBu3/8D1dmp3nzzUtNppbr7IJkdmizglxmitKG6jbbMylxEDcBcu/b33wu2E8AsL31mm33Ce05UtkFWT5xYaGe07XqM9dPo7kO/3+eFnEhCOThXkUTPHC7WlXJDf1kh+jG9ikzIpl8ku2nu1/cbb+o+mYbSyHTSQN54VHk5agiLC91gnHiqL5Mp9p7JCm9KWpkZKZ4oaRNwgh+y04wynnWH0duxNz+h/vpmBL/m5dDZP0KQxlVTKqS0IKGlwzaeg2vFxBZV6SqM7BT7Ik2sfMXcNTQEnDvUvafsxMmlElYFf9D0YCe1hJyIoxpbMVQPGF4oFJ+DDetcuOpnfHOO2a/49v63WUYyVwnSK6LclXpojAA3xUgU5Dp/8EWT4CAz5FZLjN2LgzyUKOt6IZdMFvYx9A8rKA/EmC6oHvMZguLFZqr3RY5eDfpNXyd/MMuBu7w/EwG/B1oc1kSL+jw0UXNyJrFR2st98Y0PSvqf2Lb0OlV3GnWeRTLMTN5N2BGoFPn7O+6p6wcZM4Y1nkEtl0Tb/8t4fT28h7oWHfdPzvP7mirQS5Piq9D5rfVOz4ZKlz0e32LjQ0lVflKKy1+IZaz9ETxov1qR55Pxg3SWLqdlHkfmqnt8Kbr0ZruSWmBfmcT5mb6MXYQWCutYMtOLkORms/uc/D3UeE+NOiIedsDB1jGQR1gqs+ZKuWy6a0v2Mq4fig0Z7JtbsxYJWhywUDo8bcs2BPF0lqt3xIpcSJOQbxf1O5TpJKVC1xbASJ5llKKaEpNdMLD5F1obewemuWQxVZl7V0qAUfvwYiC6S0ructE9h4IPsEhpdHa+JbUWQRIMMLwnZkr6p6s5mU+hNKHhaLIXcQ4XQDzDcfgpi1e61Wa/l1m05ZQQxz6bh+20sWsVOlb+hYehOi5GMep1dgCO54C5ViA/4j75WSBHbB4YpkovZpgwBxJlge27DdhicPti1Io+ZMpYfygGl0iJy8o4aUEKYbvsSpZjZX+Jf9xM3L3Ji+8FUMo+1sLdCmRrQAyWZ9L2ZafEE6zCKxA9tPZ/91DvcX1slwfzEas2Kyk27aXYSvQI4bf6Dpt7y05R9bKrxn6db28bVIURKr5pm8TcBJH62wOTN6sfC2MPYf6wXi66EsrTuKA==]
 
 ## Tips & Tricks for ESign
+Useful ESign settings
+
+### Enabling Auto Import and Auto Delete
+When downloading .ipa, ESign will automatically import your files into your app library
+1. Go into the Download tab
+2. Click on the 3 dots on to top left corner
+3. Click on settings
+4. Enable both settings
+
+### Default Sign Config
+This will let you pick a predefined config for your apps
+1. Go onto the Settings Tab
+2. Click on Sign Default Config
+3. Change the settings as desired
+
+### Keep running in background and Lock vertical
+Let ESign run in the background (won't work while signing an app) and keep ESign vertical
+1. Go onto the Settings Tab
+2. Select both Lock Vertical and Keep Running in Background enabled
+
+### Change Theme
+Change app theme and icon, you can change icon only when using with Altstore
+1. Go onto the Settings Tab
+2. Click on Theme
+3. Change the settings as desired
 
 ## Wiki
 
@@ -193,3 +221,12 @@ A method used by organizations to distribute apps internally via an enterprise c
 
 ### App Re-signing
 The process of updating an app’s signature, often done to extend the validity of a sideloaded app. Since sideloaded apps are subject to certificate expirations, app re-signing helps maintain functionality.
+
+### Revokes/Blacklisting
+Is when Apple bans the certification signature from running on your device remotely, this results with a "App integrity not verified error".
+
+### ESign
+App manager that can install apps and sign them on device, makes everything a lot easier.
+
+### WhySooooFurious DNS Blocker
+Blocks Apple servers from revoking certificates on your device.
