@@ -117,14 +117,13 @@ body {
     padding: 20px;
     border-radius: 0 10px 10px 0;
     width: 20%;
-    height: 275px;
-    overflow-y: auto; 
-    position: static;
+    max-height: auto;
+    overflow-y: auto;
+    position: sticky;
     top: 0;
     box-sizing: border-box;
     color: #333;
 }
-
 
 .contents ul {
     list-style: none;
@@ -139,6 +138,11 @@ body {
     color: #333;
     text-decoration: none;
     font-size: 1.1em;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.contents a:active {
+    opacity: 0;
 }
 
 .steps {
@@ -158,10 +162,8 @@ body {
     width: 100%;
     box-sizing: border-box;
     color: #333;
-    min-height: auto;
-    max-height: none;
+    min-height: 15cm;
 }
-
 
 .step-box h3 {
     font-size: 1.5em;
@@ -173,7 +175,7 @@ body {
 
 .guide-title {
     position: absolute;
-    top: -30px;
+    top: 20px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 3em;
