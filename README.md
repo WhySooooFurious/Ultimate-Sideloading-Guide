@@ -20,6 +20,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## How does this method work?
 WhySooooFurious DNS Blocker: This is the base of everything. This blocks Apple from revoking your enterprise signed apps. Preventing them from being revoked permanently. 
+
 ESign: An app manager which uses leaked enterprise business certificates to get apps running in your device in the first place
 
 
