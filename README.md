@@ -158,6 +158,26 @@ My sources for ESign
 ## Tips & Tricks for ESign
 Useful ESign settings
 
+### Adding sources to ESign
+1. Either copy a link that looks like the one above, or copy a link, note that not all links are compatible with ESign
+2. Go to the AppStore tab in ESign
+3. Click on App Source on the top left
+4. Click the plus button on the top right
+5. ESign should prompt you to paste the contents in, if not copy in the prompt and click on add
+
+### Exporting sources
+1. Either copy a link that looks like the one above, or copy a link, note that not all links are compatible with ESign
+2. Go to the AppStore tab in ESign
+3. Click on App Source on the top left
+4. Click the Select button on the bottom right
+5. Select which sources you want and then click share
+
+### Deleting sources
+1. Go to the AppStore tab in ESign
+2. Click on App Source on the top left
+3. Click the Select button on the bottom right
+4. Select which sources you want and then click on delete
+
 ### Enabling Auto Import and Auto Delete
 When downloading .ipa, ESign will automatically import your files into your app library
 1. Go into the Download tab
