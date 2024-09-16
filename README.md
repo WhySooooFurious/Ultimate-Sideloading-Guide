@@ -35,6 +35,39 @@ Note: I will eventually put visual aids in the guide itself
 5. Now go back and then go to General>About>Certificate Trust Settings
 6. Enable Full trust for the NextDNS Root Certificate
 
+## Part [2/3] Installing ESign
+Note: I will eventually put visual aids in the guide itself
+1. Go down to [Downloads](#downloads) and click on ESign Direct Install
+2. Click on install once the popup comes up
+3. Open settings and go to General>VPN & Device Management
+4. Select the HDFC app and click on Trust
+5. Click on allow, after this your device might need to be restarted
+6. If your device was restarted, swipe up and click on install profile
+7. ESign should now be on your home screen, fully functional
+
+## Part [3/3] Setting up ESign
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Q/A
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
