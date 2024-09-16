@@ -29,7 +29,7 @@ ESign: An app manager which uses leaked enterprise business certificates to get 
 ## Part [1/3] Installing the WhySooooFurious DNS Blocker
 Note: I will eventually put visual aids in the guide itself
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
-2. Now, open settings and go to General>VPN & Device management
+2. Now, open settings and go to General>VPN & Device Management
 3. Click on the downloaded profile and install it, you may need to input your password
 4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
 5. Now go back and then go to General>About>Certificate Trust Settings
