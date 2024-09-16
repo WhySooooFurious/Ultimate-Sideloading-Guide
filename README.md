@@ -101,7 +101,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
 
-### Miscellaneous Guides
+# Miscellaneous Guides
 
 ## Using a  VPN 
 So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still not not recommend using a VPN with the DNS regardless. You should know how to configure your VPN's DNS server
