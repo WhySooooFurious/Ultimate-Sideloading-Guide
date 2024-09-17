@@ -24,7 +24,7 @@ This should work for all iOS, iPadOS and even macOS devices, on the latest versi
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics as a bonus!
 
 ## Before we start
 - Make sure you have not been using services such as Scarlet before as the certificates used to install ESign on your device will be revoked! 
@@ -97,7 +97,7 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** It shouldn't be, based on the settings I used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
+**A -** It shouldn't , based on the settings I used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
 
 ---
 
@@ -121,7 +121,7 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 **Q -** Can I see the NextDNS settings used?
 
-**A -** Yes, make an issue and mention your email and I will send you a viewing invitation.
+**A -** Yes, make an issue and mention your email and I will send you a viewing invitation if you're that concerned about safety
 
 ---
 
