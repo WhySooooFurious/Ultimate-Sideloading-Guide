@@ -1,5 +1,6 @@
-# Verified to be working, however there will be numerous changes up until tomorrow so please refrain from using this
-## DO NOT USE ANY OTHER CERTIFICATE FROM THE CERTIFICATES FOLDER APART FROM HDFC Life Insurance Co!
+# Verified to be working with many users reporting valid results
+
+
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the DNS at the time was and is still made by some random vietnamese guy with no open-sourced data which naturally has some privacy concerns. 
 
@@ -31,7 +32,6 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
 
-Note: I will eventually put visual aids in the guide itself
 ## Part [1/4] Installing the WhySooooFurious DNS Blocker
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
 2. Now, open settings and go to General>VPN & Device Management
@@ -58,10 +58,9 @@ Note: I will eventually put visual aids in the guide itself
 4. After opening settings go to General>VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected to ESign
-7. Now go down to [Downloads](#downloads) and click on Certificates
-8. Extract the .zip and go into ESign
+7. Now go down to [Downloads](#downloads) and click on Certificate
 9. Go into ESign settings and click on Import Resources
-10. Select any one of the certificates and click Import
+10. Select the certificate and click on Import
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
@@ -81,6 +80,11 @@ Note: I will eventually put visual aids in the guide itself
 12. Click on allow, after this your device might need to be restarted
 13. If your device was restarted, swipe up and click on install profile
 14. The app should now be on your home screen, fully functional
+
+## Post-Install-Notes
+- You must never disable the DNS otherwise your apps will revoke almost instantly
+- Don't exit ESign while the app is being signed
+
 
 ## Q/A
 
@@ -119,7 +123,7 @@ Note: I will eventually put visual aids in the guide itself
 
 [ESign Direct Install](https://shorturl.at/Jx5gX)
 
-[Certificates](https://shorturl.at/cWdt0)
+[Certificate](https://shorturl.at/xs6K8)
 
 # Miscellaneous Guides
 
