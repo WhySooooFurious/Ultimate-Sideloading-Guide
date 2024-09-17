@@ -85,6 +85,13 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - You must never disable the DNS otherwise your apps will revoke almost instantly
 - Don't exit ESign while the app is being signed
 
+## Downloads
+[WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
+
+[ESign Direct Install](https://shorturl.at/Jx5gX)
+
+[Certificate](https://shorturl.at/xs6K8)
+
 
 ## Q/A
 
@@ -117,13 +124,6 @@ By using leaked business enterprise certificates, We can sign apps using their c
 **A -** Yes, make an issue and mention your email and I will send you a viewing invitation.
 
 ---
-
-## Downloads
-[WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
-
-[ESign Direct Install](https://shorturl.at/Jx5gX)
-
-[Certificate](https://shorturl.at/xs6K8)
 
 # Miscellaneous Guides
 
