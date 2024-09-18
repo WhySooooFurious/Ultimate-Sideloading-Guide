@@ -24,9 +24,8 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 ## Before we start
 - Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked! 
-- This method will work as long as you do all of the steps required and never disable the DNS which is crucial.
-- If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
-- Make sure your device is compatible as seen [here](#compatibility)
+- If you are blacklisted from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked-or-blacklisted)
+- This method will work as long as you read and do all of the steps required
 
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
@@ -37,8 +36,8 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
 2. Now, open settings and go to General > VPN & Device Management
 3. Click on the downloaded profile and install it, you may need to input your password
-4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
-5. Now go back and then go to General > About > Certificate Trust Settings
+4. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+5. Now, go back and then go to General > About > Certificate Trust Settings
 6. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
 7. Continue onto [Part 2](#part-24-installing-esign)
  if you want to install ESign
@@ -85,8 +84,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 15. Now read the [Post Install Notes](#postinstsllnotes)
 
 ## Post-Install-Notes
-- You must never disable the DNS otherwise your apps will revoke almost instantly
+- You must never disable the DNS otherwise your apps will get revoked almost instantly
 - Don't exit ESign while the app is being signed
+- Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make s guide soon
 
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
@@ -95,8 +95,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 [Certificate](https://shorturl.at/xs6K8)
 
-
-## Q/A
+## Questions/Answers
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
@@ -116,7 +115,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ---
 
-**Q -** Um, I'm a big-time dev and I need to look at your code thingies to ensure they don't have viruses
+**Q -** Um, I'm a cocky big-time dev and I need to look at your code thingies to ensure they don't have viruses.
 
 **A -** Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
 
@@ -124,7 +123,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 **Q -** Can I see the NextDNS settings used?
 
-**A -** Yes, make an issue and mention your email and I will send you a viewing invitation if you're that concerned about safety
+**A -** Yes, make an issue and mention your email and I will send you a viewing invitation if you're that paranoid.
 
 ---
 
