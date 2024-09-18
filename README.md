@@ -141,7 +141,7 @@ So you've gotten yourself blacklisted, either from my DNS (which seems very unli
 
 Use Method 2 if Method 1 does not work.
 
-You must not use your backups with method 2 otherwise you will get revoked again.
+You must not use your backups with Method 2 otherwise you will get revoked again.
 
 ### Method 1
 1. Back up your device, here is a [guide](https://support.apple.com/en-us/118426)
