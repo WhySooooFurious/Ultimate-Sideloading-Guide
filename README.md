@@ -18,10 +18,6 @@ My DNS is compatible with these services
 Follow Part 1 of my main guide to install the DNS blocker.
 
 Part 2,3 and 4 is for ESign itself.
-## Compatibility
-This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
-
-Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics as a bonus!
@@ -31,6 +27,11 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - This method will work as long as you do all of the steps required and never disable the DNS which is crucial.
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
+
+## Compatibility
+This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
+
+Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## Part [1/4] Installing the WhySooooFurious DNS Blocker
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
