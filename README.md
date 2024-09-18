@@ -46,18 +46,17 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [2/4] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
 2. Click on install once the popup comes up
-3. Open settings and go to General>VPN & Device Management
-4. Select the HDFC app and click on Trust
-5. Click on allow, after this your device might need to be restarted
-6. If your device was restarted, swipe up and click on install profile
-7. ESign should now be on your home screen, fully functional
-8. Continue onto [Part 3](#part-34-setting-up-esign) to setup ESign
-9. 
+3. Open settings and go to General > VPN & Device Management > HDFC Life Insurance Company Limited
+4. Click on Trust at the top then click on allow, after this your device might need to be restarted
+5. If your device was restarted, swipe up and click on install profile
+6. ESign should now be on your home screen, fully functional
+7. Continue onto [Part 3](#part-34-setting-up-esign) to setup ESign
+ 
 ## Part [3/4] Setting up ESign
 1. Open ESign and accept the agreements
 2. Go into settings and click on get device UDID
 3. Select allow and then you should be redirected to settings
-4. After opening settings go to General>VPN & Device Management
+4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
 7. Now go down to [Downloads](#downloads) and click on Certificate
@@ -83,6 +82,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 12. Click on allow, after this your device might need to be restarted
 13. If your device was restarted, swipe up and click on install profile
 14. The app should now be on your home screen, fully functional
+15. Now read the [Post Install Notes](#postinstsllnotes)
 
 ## Post-Install-Notes
 - You must never disable the DNS otherwise your apps will revoke almost instantly
