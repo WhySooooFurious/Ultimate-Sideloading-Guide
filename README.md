@@ -6,7 +6,7 @@ Hello, Welcome to my guide on how to sideload on Apple Devices using a method I 
 
 ESign also has been widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
-My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarletfeather-and-other-sideloaders).
+My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarletfeather-and-other-sideloaders) .
 
 If you are new to sideloading, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading.
 
@@ -35,11 +35,11 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## Part [1/4] Installing the WhySooooFurious DNS Blocker
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
-2. Now, open settings and go to General>VPN & Device Management
+2. Now, open settings and go to General > VPN & Device Management
 3. Click on the downloaded profile and install it, you may need to input your password
 4. The DNS should now automatically be enabled, Do not change the DNS to automatic otherwise your apps will get revoked!
-5. Now go back and then go to General>About>Certificate Trust Settings
-6. Enable Full trust for the NextDNS Root Certificate
+5. Now go back and then go to General > About > Certificate Trust Settings
+6. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
 7. Continue onto [Part 2](#part-24-installing-esign)
  if you want to install ESign
 
@@ -51,32 +51,34 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 5. Click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. ESign should now be on your home screen, fully functional
-
+8. Continue onto [Part 3](#part-34-setting-up-esign) to setup ESign
+9. 
 ## Part [3/4] Setting up ESign
 1. Open ESign and accept the agreements
 2. Go into settings and click on get device UDID
 3. Select allow and then you should be redirected to settings
 4. After opening settings go to General>VPN & Device Management
 5. Install the Query Device UDID profile
-6. You should be redirected to ESign
+6. You should be redirected back to ESign
 7. Now go down to [Downloads](#downloads) and click on Certificate
 9. Go into ESign settings and click on Import Resources
-10. Select the certificate and click on Import
+10. Find and select the certificate you downloaded back in Step 7 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
+14. Continue onto [Part 4](#part-44-using-esign)
 
 ## Part [4/4] Using ESign
-1. Download any app using the AppStore in ESign
-2. Check the download status in the Download tab
+1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
+2. Check the download status in the Download tab if downloading from the ESign AppStore
 3. Click on the download and select Import App Library
-4. After the .ipa is imported, it should be visible in the Unsigned Apps tab, select unigned or signed by selecting it on the top of ESign
+4. Your app should now be visible in the Unsigned Apps tab, select unsigned or signed by selecting the bar on top of ESign
 5. Click on the app and select Signature
-6. You can change your app and edit it here, We won't be doing that now
-7. Select Signature and ESign should package the file using the Cert you selected before
-8. Click on the blue button saying install, then click install on the prompt again
+6. You can change your app and edit it here
+7. Select Signature and ESign should sign the app using the certificate you selected before
+8. There might be red text saying this certificae is revoked, this is normal! Click on the blue button saying install, then click install on the prompt again
 9. The app should be on your homescreen now
-10. Open settings and go to General>VPN & Device Management
+10. Open settings and go to General > VPN & Device Management
 11. Select the app you installed and click on Trust
 12. Click on allow, after this your device might need to be restarted
 13. If your device was restarted, swipe up and click on install profile
@@ -98,7 +100,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 **Q -** Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** It shouldn't , based on the settings I used, I still do not recommend using a VPN at all. If you need to use a VPN, Use this [guide](#using-a-vpn)
+**A -** It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn)
 
 ---
 
@@ -116,7 +118,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 **Q -** Um, I'm a big-time dev and I need to look at your code thingies to ensure they don't have viruses
 
-**A -** Sure! Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
+**A -** Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
 
 ---
 
@@ -129,7 +131,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 # Miscellaneous Guides
 
 ## Using a VPN 
-So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN company
+So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
 ### Method 1
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
@@ -137,9 +139,9 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 ## Revoked? or Blacklisted?
 So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
 
-Use method 2 if method 1 does not work
+Use Method 2 if Method 1 does not work.
 
-You must not use your backups with method 2 otherwise you will get revoked again
+You must not use your backups with method 2 otherwise you will get revoked again.
 
 ### Method 1
 1. Back up your device, here is a [guide](https://support.apple.com/en-us/118426)
@@ -157,55 +159,62 @@ My sources for ESign
     source[5GHxhb1U7Lc5jIMpumASbN2teg9dyK5EAazzwnfm1/gPKQPTWzcz/GqmMyJ96qOpN9I+sobaxc2bOxLJOnEOvCBO0S3fPLfBifsFqblxWBSpvpIt92QQghflQC3w+Exfmk/TRgDUpbmR0WYET6IlVgzUUt7zvQnk7OiXHlKE211IckI8xJGGbC6i4pHK7a2i7uAzEJjZ612XcSAUVA/z9d09OYgTx3UQwP6vQ6pG/tTT6Miy/oiQOfn4EY1keR6ER2m4J09StZmkEnFVBn2x+CED9WuUY6lqPIE/qSQ+ituWE6E67AbhSk4crGGNzlcO9PoeyHjGA3w+SQVoiVbgetHxdx0c4fdqt+GG0vZvZK7TLp7iWFgDcewQhC9MEOuzVfQy267Uy7Ag6VAw37qcUP/WJOkbUuFRGUgICFesTlR1BDRsQyOmT3jek2XBLBC8nVR7EQlgm6Ggkf3bOhm3OBi/dHxwbtB4zPa8l3TyAwp8rhDwsE493pH84s84Bfws5KQNh2/XQRVRL4CwnkUe1eljMIZgewKrS0GR37coqecAkiPJNnurDLN0nqf5ddRd0d3+9wl40Q8LPv2vuBWk0mqwlgDaLwmJK1ZmT/ikcagjd79u3RoQo3uSZHJbGPA/WoDgxLHGPcPgC0DgzBu3/8D1dmp3nzzUtNppbr7IJkdmizglxmitKG6jbbMylxEDcBcu/b33wu2E8AsL31mm33Ce05UtkFWT5xYaGe07XqM9dPo7kO/3+eFnEhCOThXkUTPHC7WlXJDf1kh+jG9ikzIpl8ku2nu1/cbb+o+mYbSyHTSQN54VHk5agiLC91gnHiqL5Mp9p7JCm9KWpkZKZ4oaRNwgh+y04wynnWH0duxNz+h/vpmBL/m5dDZP0KQxlVTKqS0IKGlwzaeg2vFxBZV6SqM7BT7Ik2sfMXcNTQEnDvUvafsxMmlElYFf9D0YCe1hJyIoxpbMVQPGF4oFJ+DDetcuOpnfHOO2a/49v63WUYyVwnSK6LclXpojAA3xUgU5Dp/8EWT4CAz5FZLjN2LgzyUKOt6IZdMFvYx9A8rKA/EmC6oHvMZguLFZqr3RY5eDfpNXyd/MMuBu7w/EwG/B1oc1kSL+jw0UXNyJrFR2st98Y0PSvqf2Lb0OlV3GnWeRTLMTN5N2BGoFPn7O+6p6wcZM4Y1nkEtl0Tb/8t4fT28h7oWHfdPzvP7mirQS5Piq9D5rfVOz4ZKlz0e32LjQ0lVflKKy1+IZaz9ETxov1qR55Pxg3SWLqdlHkfmqnt8Kbr0ZruSWmBfmcT5mb6MXYQWCutYMtOLkORms/uc/D3UeE+NOiIedsDB1jGQR1gqs+ZKuWy6a0v2Mq4fig0Z7JtbsxYJWhywUDo8bcs2BPF0lqt3xIpcSJOQbxf1O5TpJKVC1xbASJ5llKKaEpNdMLD5F1obewemuWQxVZl7V0qAUfvwYiC6S0ructE9h4IPsEhpdHa+JbUWQRIMMLwnZkr6p6s5mU+hNKHhaLIXcQ4XQDzDcfgpi1e61Wa/l1m05ZQQxz6bh+20sWsVOlb+hYehOi5GMep1dgCO54C5ViA/4j75WSBHbB4YpkovZpgwBxJlge27DdhicPti1Io+ZMpYfygGl0iJy8o4aUEKYbvsSpZjZX+Jf9xM3L3Ji+8FUMo+1sLdCmRrQAyWZ9L2ZafEE6zCKxA9tPZ/91DvcX1slwfzEas2Kyk27aXYSvQI4bf6Dpt7y05R9bKrxn6db28bVIURKr5pm8TcBJH62wOTN6sfC2MPYf6wXi66EsrTuKA==]
 
 ## Tips & Tricks for ESign
-Useful ESign settings
+Making use of ESign settings!
 
-### Adding sources to ESign
+### Adding sources
+Adding sources to ESign
 1. Either copy a link that looks like the one above, or copy a link, note that not all links are compatible with ESign
 2. Go to the AppStore tab in ESign
 3. Click on App Source on the top left
 4. Click the plus button on the top right
-5. ESign should prompt you to paste the contents in, if not copy in the prompt and click on add
+5. ESign should prompt you to paste the contents in, if not, copy in the prompt and click on add
 
 ### Exporting sources
-1. Either copy a link that looks like the one above, or copy a link, note that not all links are compatible with ESign
-2. Go to the AppStore tab in ESign
-3. Click on App Source on the top left
-4. Click the Select button on the bottom right
-5. Select which sources you want and then click share
+Export selected sources from ESign.
+1.  Go to the AppStore tab in ESign
+2. Click on App Source on the top left
+3.  Click the Select button on the bottom right
+4. Select which sources you want and then click share
 
 ### Deleting sources
+This will delete selected sources from ESign.
 1. Go to the AppStore tab in ESign
 2. Click on App Source on the top left
 3. Click the Select button on the bottom right
 4. Select which sources you want and then click on delete
 
 ### Enabling Auto Import
-When downloading .ipa, ESign will automatically import your files into your app library
+When downloading .ipa, ESign will automatically import your files into your app library.
 1. Go into the Download tab
 2. Click on the 3 dots on to top left corner
 3. Click on settings
-4. Enable both Auto Import
+4. Enable Auto Import
 
 ### Enabling Auto Delete
-When downloading .ipa, ESign will automatically import your files into your app library
+When downloading a .ipa, ESign will automatically import your files into your app library and delete the remaining downloaded app.
 1. Go into the Download tab
 2. Click on the 3 dots on to top left corner
 3. Click on settings
 4. Enable Auto Delete
 
 ### Default Sign Config
-This will let you pick a predefined config for your apps
+This will let you pick a predefined config for your apps.
 1. Go onto the Settings Tab
 2. Click on Sign Default Config
 3. Change the settings as desired
 
-### Keep running in background and Lock vertical
+### Keep Running in Background
 Let ESign run in the background (won't work while signing an app) and keep ESign vertical
 1. Go onto the Settings Tab
-2. Select both Lock Vertical and Keep Running in Background enabled
+2. Enable Keep Running in Background
+
+### Lock Vertical
+Keep ESign vertical.
+1. Go onto the Settings Tab
+2. Enable Lock Vertical
 
 ### Change Theme
-Change app theme and icon, you can change icon only when using with Altstore
+Change the ESign theme and icon, you can change the icon only when using with Altstore.
 1. Go onto the Settings Tab
 2. Click on Theme
 3. Change the settings as desired
@@ -215,7 +224,7 @@ Change app theme and icon, you can change icon only when using with Altstore
 ### Sideloading
 The process of installing apps on iOS or iPadOS devices from sources other than the Apple App Store. This often involves using alternative methods or tools to bypass the App Store’s restrictions.
 
-### IPA (iOS App Store Package)
+### IPA
 The file format used to package iOS applications for distribution and installation. Sideloading an app typically involves downloading an IPA file and using tools to install it on the device.
 
 ### Provisioning Profile
