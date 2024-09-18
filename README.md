@@ -17,7 +17,7 @@ My DNS is compatible with these services
 
 Follow Part 1 of my main guide to install the DNS blocker.
 
-Part 2,3 and 4 is for ESign itself.
+Part 2, 3 and 4 is for ESign itself.
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics as a bonus!
