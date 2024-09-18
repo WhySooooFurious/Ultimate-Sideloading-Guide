@@ -6,7 +6,7 @@ Hello, Welcome to my guide on how to sideload on Apple Devices using a method I 
 
 ESign also has been widely accused of stealing data. After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
-My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarlet-feather-and-other-sideloaders)
+My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](#scarlet-feather-and-other-sideloaders)
 
 If you are new to sideloading, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading.
 
