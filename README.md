@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. 
+Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
 
 After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
@@ -15,15 +15,15 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 ## Scarlet, Feather and other sideloaders
 My DNS is compatible with all services as long as they rely on enterprise certificates to install.
 
-Follow Part 1 of my main guide to install the DNS blocker for these services
+Follow Part 1 of my main guide to install the DNS blocker for these services.
 
 You do not need to follow Part 2, 3 and 4 as these install ESign itself.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics as a bonus!
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
 
 ## Before we start
-- Make sure you have not been using services such as Scarlet before as the certificates used to install ESign on your device will be revoked! 
+- Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked! 
 - This method will work as long as you do all of the steps required and never disable the DNS which is crucial.
 - If you are blacklisted from Apple for already using services such as Scarlet you will need to follow this [guide](#revoked-or-blacklisted)
 - Make sure your device is compatible as seen [here](#compatibility)
