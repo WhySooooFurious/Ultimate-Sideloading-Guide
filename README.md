@@ -8,9 +8,9 @@ ESign also has been widely accused of stealing data. After a few months of using
 
 My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [Here](scarletfeather-and-other-sideloaders).
 
-If you are new to sideloading, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading
+If you are new to sideloading, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading.
 
-Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue.
+Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## Scarlet/Feather and other sideloaders
 My DNS is compatible with these services
