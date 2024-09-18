@@ -15,9 +15,9 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 ## Scarlet/Feather and other sideloaders
 My DNS is compatible with these services
 
-Follow Part 1 of my main guide to install the DNS blocker itself, Part 2,3 and 4 is only for ESign and how to set it up
+Follow Part 1 of my main guide to install the DNS blocker.
 
-Part 2,3 and 4 is for ESign itself
+Part 2,3 and 4 is for ESign itself.
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
 
