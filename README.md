@@ -32,6 +32,8 @@ This should work for all iOS, iPadOS and even macOS devices, on the latest versi
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
+iOS Betas are not compatible as they will eventually become revoked within a 7 day period.
+
 ## Part [1/4] Installing the WhySooooFurious DNS Blocker
 1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
 2. Now, open settings and go to General > VPN & Device Management
