@@ -1,7 +1,10 @@
 # Verified to be working with many users reporting valid results
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
+
 [Here](https://shorturl.at/82U3M) is the PayPal donation link! 
+
+This will help me keep this service free and not charge $20 like signing services
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
