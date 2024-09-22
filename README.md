@@ -94,7 +94,7 @@ iOS Betas are not compatible as they will eventually become revoked within a 7 d
 ## Post-Install-Notes
 - You must never disable the DNS otherwise your apps will get revoked almost instantly
 - Don't exit ESign while the app is being signed
-- Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make s guide soon
+- Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
 
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
