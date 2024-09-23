@@ -13,8 +13,6 @@ After a few months of using both of these services I decided to reverse-engineer
 
 My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
 
-If you are new to sideloading, Please read the [wiki](#wiki) and learn about simple terms in the world of sideloading.
-
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## Scarlet, Feather and other sideloaders
@@ -223,44 +221,3 @@ Change the ESign theme and icon, you can change the icon only when using with Al
 1. Go onto the Settings Tab
 2. Click on Theme
 3. Change the settings as desired
-
-## Wiki
-
-### Sideloading
-The process of installing apps on iOS or iPadOS devices from sources other than the Apple App Store. This often involves using alternative methods or tools to bypass the App Store’s restrictions.
-
-### IPA
-The file format used to package iOS applications for distribution and installation. Sideloading an app typically involves downloading an IPA file and using tools to install it on the device.
-
-### Provisioning Profile
-A file that ties an app to a specific developer account and device. It includes certificates and app-specific permissions. When sideloading an app, the provisioning profile ensures the app is allowed to run on the target device.
-
-### Enterprise Certificate
-A special type of certificate used by organizations to distribute apps internally to employees. Enterprise certificates are managed through the Apple Developer Enterprise Program and allow sideloading apps outside the App Store for internal use. Misuse of enterprise certificates for distributing apps to the public can lead to revocation by Apple.
-
-### Developer Certificate
-A certificate issued by Apple to developers, used to sign apps and verify their authenticity. Developer certificates are necessary for sideloading apps through methods like Cydia Impactor or AltStore.
-
-### App Signing
-The process of applying a digital signature to an IPA file to ensure it is trusted and verified by iOS. App signing involves using a valid developer or enterprise certificate and provisioning profile.
-
-### UDID (Unique Device Identifier)
-A unique identifier assigned to each iOS device. UDIDs are used in provisioning profiles to specify which devices are allowed to run a particular app. When sideloading apps, a UDID may be required to register the device for app installation.
-
-### Ad-Hoc Distribution
-A method of distributing iOS apps to a limited number of devices for testing or internal use. Ad-Hoc distribution involves creating a provisioning profile that includes the UDIDs of the devices allowed to install the app.
-
-### Enterprise Distribution
-A method used by organizations to distribute apps internally via an enterprise certificate. This method is intended for distributing apps within an organization, not to the general public.
-
-### App Re-signing
-The process of updating an app’s signature, often done to extend the validity of a sideloaded app. Since sideloaded apps are subject to certificate expirations, app re-signing helps maintain functionality.
-
-### Revokes/Blacklisting
-Is when Apple bans the certification signature from running on your device remotely, this results with a "App integrity not verified error".
-
-### ESign
-App manager that can install apps and sign them on device, makes everything a lot easier.
-
-### WhySooooFurious DNS Blocker
-Blocks Apple servers from revoking certificates on your device.
