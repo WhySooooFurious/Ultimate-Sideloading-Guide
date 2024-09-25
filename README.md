@@ -26,9 +26,9 @@ You do not need to follow Part 2, 3 and 4 as these install ESign itself.
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
 
 ## Before we start
-- This will NOT unrevoke your apps!
+- This will NOT unrevoke your apps! If you need to fix revokes, use this [guide](#revoked-or-blacklisted)
 - Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked! 
-- If you are blacklisted from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked-or-blacklisted)
+- If you are blacklisted or revoked from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked-or-blacklisted)
 - This method will work as long as you read and do all of the steps required
 
 ## Compatibility
