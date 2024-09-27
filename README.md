@@ -34,6 +34,8 @@ By using leaked business enterprise certificates, We can sign apps using their c
 ## Compatibility
 This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
 
+Beta versions will work but *may* become revoked around the 1 week mark. It is better to be on a release version!
+
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## Part [1/4] Installing the WhySooooFurious DNS Blocker
