@@ -71,7 +71,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
-7. Now go down to [Downloads](#downloads) and click on Certificate
+7. Now go down to [Downloads](#downloads) and click on Certificate and then select any file to download
 9. Go into ESign settings and click on Import Resources
 10. Find and select the certificate you downloaded back in Step 7 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
