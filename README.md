@@ -1,4 +1,4 @@
-# Switching up directories RIGHT NOW, will take around 30 mins, LINKS WILL NOT WORK, Be excited for Feather support!
+# Switching up directories RIGHT NOW, LINKS WILL NOT WORK, will remove this message once done Be excited for Feather support!
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
@@ -104,7 +104,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/1dwxx)
 
-[ESign Direct Install](https://shorturl.at/UkhCm)
+[ESign Direct Install](https://shorturl.at/R6bNv)
+
+[Feather Direct Install](https://shorturl.at/xTb4K)
 
 [Certificate](https://shorturl.at/xs6K8)
 
