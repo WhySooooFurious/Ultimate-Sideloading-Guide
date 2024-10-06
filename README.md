@@ -99,9 +99,13 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 15. Now read the [Post Install Notes](#postinstallnotes)
 
 ## Post-Install-Notes
-- You must never disable the DNS otherwise your apps will get revoked almost instantly
-- Don't exit ESign while the app is being signed
+- You must never disable the DNS
+- Don't exit ESign while the app is being signed!
+- Don't install a lot of apps at once!
+- Don't install Safari extensionsn
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
+
+Not following the above will make your apps revoked!
 
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/AjEER)
