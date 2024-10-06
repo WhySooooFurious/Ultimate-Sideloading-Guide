@@ -1,4 +1,4 @@
-# Switching up directories RIGHT NOW, LINKS WILL NOT WORK, will remove this message once done Be excited for Feather support!
+# Made a Feather install link now. I might add Scarlet later.
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
