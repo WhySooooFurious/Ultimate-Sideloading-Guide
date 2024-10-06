@@ -104,11 +104,11 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Downloads
 [WhySooooFurious DNS Blocker](https://shorturl.at/AjEER)
 
-[ESign Direct Install](https://shorturl.at/R6bNv)
+[ESign Install](https://shorturl.at/R6bNv)
 
-[Feather Direct Install](https://shorturl.at/xTb4K)
+[Feather Install](https://shorturl.at/xTb4K)
 
-[Certificate](https://shorturl.at/4Zdn4)
+[Certificates](https://shorturl.at/4Zdn4)
 
 ## Questions/Answers
 
