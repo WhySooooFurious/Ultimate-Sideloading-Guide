@@ -102,9 +102,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
 
 ## Downloads
-[WhySooooFurious DNS Blocker](https://shorturl.at/fwIJk)
+[WhySooooFurious DNS Blocker](https://shorturl.at/1dwxx)
 
-[ESign Direct Install](https://shorturl.at/Jx5gX)
+[ESign Direct Install](https://shorturl.at/UkhCm)
 
 [Certificate](https://shorturl.at/xs6K8)
 
