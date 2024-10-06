@@ -102,13 +102,13 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
 
 ## Downloads
-[WhySooooFurious DNS Blocker](https://shorturl.at/1dwxx)
+[WhySooooFurious DNS Blocker](https://shorturl.at/AjEER)
 
 [ESign Direct Install](https://shorturl.at/R6bNv)
 
 [Feather Direct Install](https://shorturl.at/xTb4K)
 
-[Certificate](https://shorturl.at/xs6K8)
+[Certificate](https://shorturl.at/4Zdn4)
 
 ## Questions/Answers
 
@@ -158,13 +158,13 @@ Use Method 2 if Method 1 does not work.
 You must not use your backups with Method 2 otherwise you will get revoked again.
 
 ### Method 1
-1. Back up your device, here is a [guide](https://support.apple.com/en-us/118426)
-2. After backing up, reset your device, here is a [guide](https://support.apple.com/en-au/guide/iphone/iphea1c2fe48/ios)
+1. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
+2. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
 3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 4. Then follow the guide for Part 1 of the WhySooooFurious DNS Blocker to prevent revokes in the future
 
 ### Method 2
-1. Follow this [guide](https://support.apple.com/en-au/guide/iphone/iph7a2a9399b/ios)
+1. Follow this [guide](https://shorturl.at/JKnhG)
 2. Then follow the guide for Part 1 of the WhySooooFurious DNS Blocker to prevent revokes in the future
 
 ## ESign Sources
