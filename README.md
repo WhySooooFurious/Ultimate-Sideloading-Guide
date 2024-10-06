@@ -25,6 +25,8 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 ## Scarlet, Feather and other sideloaders
 My DNS is compatible with all services as long as they rely on enterprise certificates to install.
 
+Feather is also available to download and the steps should be similar as ESign's
+
 Follow Part 1 of my main guide to install the DNS blocker for these services.
 
 You do not need to follow Part 2, 3 and 4 as these install ESign itself.
