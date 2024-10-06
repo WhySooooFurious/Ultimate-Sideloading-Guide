@@ -1,4 +1,4 @@
-# Verified to be working with many users reporting valid results
+# Switching up directories RIGHT NOW, will take around 30 mins, be excited for Feather support!
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
