@@ -12,11 +12,12 @@ Hello, Welcome to my guide on how to sideload on Apple Devices using a method I 
 After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
 
 Some of the advantages with using this method
-- Free
-- No PC at all
-- On Device Signing
-- No App Limit
-- Easy to setup and use
+- Free!
+- No PC at all!
+- On Device Signing!
+- No App Limit!
+- Easy to setup and use!
+- Takes 5 minutes to setup!
 
 My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
 
