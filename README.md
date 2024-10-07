@@ -96,9 +96,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 12. Click on allow, after this your device might need to be restarted
 13. If your device was restarted, swipe up and click on install profile
 14. The app should now be on your home screen, fully functional
-15. Now read the [Post Install Notes](#postinstallnotes)
+15. Now read the [Post Install Notes](#post-install-notes)
 
-## Post-Install-Notes
+## Post Install Notes
 - You must never disable the DNS
 - Don't exit ESign while the app is being signed!
 - Don't install a lot of apps at once!
