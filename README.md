@@ -1,6 +1,6 @@
 # NEXTDNS WILL STOP WORKING WITHIN THE NEXT WEEK! 
 
-# FOLLOW STEP 1 TO MAKE YOUR OWN DNS!
+# FOLLOW STEP 1 AND 2 TO MAKE YOUR OWN DNS!
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
