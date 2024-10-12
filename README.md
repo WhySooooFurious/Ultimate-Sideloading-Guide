@@ -75,10 +75,10 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
    
    app.localhost.direct
 
-12. Go to the Setup tab and click on the apple.nextdns.io which should redirect you to the Configuration Profile maker
+12. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
 13. Select the profile you edited
-14. Toggle the "Trust NextDNS Root CA"
-15. Toggle the "Bootstrap IPs"
+14. Enable the "Trust NextDNS Root CA" toggle
+15. Enable the "Bootstrap IPs" toggle
 16. The other settings are optional, I recommend inputting your Device Name and Device Model
 17. Click on Download, and the profile should be imported into settings
 18. Now, open settings and go to General > VPN & Device Management
