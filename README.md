@@ -72,7 +72,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
-5. Continue onto [Part 2](#part-25-installing-the-dns) if you want to install ESign
+5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
