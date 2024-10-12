@@ -56,27 +56,37 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 5. Change settings in the Privacy tab to your liking, you don't have to change anything
 6. Change settings in the Settings tab to your liking, you don't have to change anything
 7. Go to the Denylist tab and add the following domains:
+   
    vpp.itunes.apple.com
+   
    appattest.apple.com
+   
    certs.apple.com
+   
    crl.apple.com
+   
    valid.apple.com
+   
    ocsp2.apple.com
+   
    ocsp.apple.com
-8. Go to the Allowlist and add the following domain:
+   
+9. Go to the Allowlist and add the following domain:
+   
    app.localhost.direct
-9. Go to the Setup tab and click on the apple.nextdns.io which should redirect you to the Configuration Profile maker
-10. Select the profile you edited
-11. Toggle the "Trust NextDNS Root CA"
-12. Toggle the "Bootstrap IPs"
-13. The other settings are optional, I recommend inputting your Device Name and Device Model
-14. Click on Download, and the profile should be imported into settings
-15. Now, open settings and go to General > VPN & Device Management
-16. Click on the downloaded profile and install it, you may need to input your password
-17. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
-18. Now, go back and then go to General > About > Certificate Trust Settings
-19. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
-20. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
+
+12. Go to the Setup tab and click on the apple.nextdns.io which should redirect you to the Configuration Profile maker
+13. Select the profile you edited
+14. Toggle the "Trust NextDNS Root CA"
+15. Toggle the "Bootstrap IPs"
+16. The other settings are optional, I recommend inputting your Device Name and Device Model
+17. Click on Download, and the profile should be imported into settings
+18. Now, open settings and go to General > VPN & Device Management
+19. Click on the downloaded profile and install it, you may need to input your password
+20. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+21. Now, go back and then go to General > About > Certificate Trust Settings
+22. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
+23. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ## Part [2/4] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
