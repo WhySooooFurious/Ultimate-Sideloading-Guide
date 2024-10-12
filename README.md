@@ -161,21 +161,9 @@ A - Simple answer, No.
 
 ---
 
-Q - OMG, Are you going to track my furry content?
-
-A - No, I have no need to look at your expenditures.
-
----
-
 Q - Um, I'm a cocky big-time dev and I need to look at your code thingies to ensure they don't have viruses.
 
 A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
-
----
-
-Q - Can I see the NextDNS settings used?
-
-A - Yes, make an issue and mention your email and I will send you a viewing invitation if you're that paranoid.
 
 ---
 
