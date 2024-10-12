@@ -1,4 +1,4 @@
-# Made a Feather install link now. I might add Scarlet later.
+# NEXTDNS WILL STOP WORKING WITHIN THE NEXT WEEK! I WILL MAKE A GUIDE ON HOW TO MAKE YOUR OWN DNS SERVICE!
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
@@ -48,15 +48,35 @@ Beta versions will work but *may* become revoked around the 1 week mark. It is b
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
-## Part [1/4] Installing the WhySooooFurious DNS Blocker
-1. Go down to [Downloads](#downloads) and click on the WhySooooFurious DNS Blocker, allow the download and close the prompt
-2. Now, open settings and go to General > VPN & Device Management
-3. Click on the downloaded profile and install it, you may need to input your password
-4. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
-5. Now, go back and then go to General > About > Certificate Trust Settings
-6. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
-7. Continue onto [Part 2](#part-24-installing-esign)
- if you want to install ESign
+## Part [1/4] Making your DNS!
+1. Go to this [website](https://shorturl.at/hfr4V)
+2. Make your account
+3. Change settings in the Security tab to your liking, you don't have to change anything
+4. Change settings in the Privacy tab to your liking, you don't have to change anything
+5. Change settings in the Privacy tab to your liking, you don't have to change anything
+6. Change settings in the Settings tab to your liking, you don't have to change anything
+7. Go to the Denylist tab and add the following domains:
+   vpp.itunes.apple.com
+   appattest.apple.com
+   certs.apple.com
+   crl.apple.com
+   valid.apple.com
+   ocsp2.apple.com
+   ocsp.apple.com
+8. Go to the Allowlist and add the following domain:
+   app.localhost.direct
+9. Go to the Setup tab and click on the apple.nextdns.io which should redirect you to the Configuration Profile maker
+10. Select the profile you edited
+11. Toggle the "Trust NextDNS Root CA"
+12. Toggle the "Bootstrap IPs"
+13. The other settings are optional, I recommend inputting your Device Name and Device Model
+14. Click on Download, and the profile should be imported into settings
+15. Now, open settings and go to General > VPN & Device Management
+16. Click on the downloaded profile and install it, you may need to input your password
+17. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+18. Now, go back and then go to General > About > Certificate Trust Settings
+19. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
+20. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ## Part [2/4] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
@@ -69,13 +89,13 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
  
 ## Part [3/4] Setting up ESign
 1. Open ESign and accept the agreements
-2. Go into settings and click on get device UDID
+2. Go into Settings and click on Get Device UDID
 3. Select allow and then you should be redirected to settings
 4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
 7. Now go down to [Downloads](#downloads) and click on Certificate and then select any file to download
-9. Go into ESign settings and click on Import Resources
+9. Go into ESign Settings and click on Import Resources
 10. Find and select the certificate you downloaded back in Step 7 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
@@ -85,17 +105,17 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [4/4] Using ESign
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
 2. Check the download status in the Download tab if downloading from the ESign AppStore
-3. Click on the download and select Import App Library
+3. Click on the downloaded IPA and select Import App Library
 4. Your app should now be visible in the Unsigned Apps tab, select unsigned or signed by selecting the bar on top of ESign
 5. Click on the app and select Signature
 6. You can change your app and edit it here
 7. Select Signature and ESign should sign the app using the certificate you selected before
-8. There might be red text saying this certificae is revoked, this is normal! Click on the blue button saying install, then click install on the prompt again
+8. There might be red text saying this certificate is revoked, this is normal! Click on the blue button saying Install, then click Install on the prompt again
 9. The app should be on your homescreen now
 10. Open settings and go to General > VPN & Device Management
 11. Select the app you installed and click on Trust
-12. Click on allow, after this your device might need to be restarted
-13. If your device was restarted, swipe up and click on install profile
+12. Click on Allow, after this your device might need to be restarted
+13. If your device was restarted, swipe up and click on Install Profile
 14. The app should now be on your home screen, fully functional
 15. Now read the [Post Install Notes](#post-install-notes)
 
@@ -119,33 +139,33 @@ Not following the above will make your apps revoked!
 
 ## Questions/Answers
 
-**Q -** Won't a VPN bypass the DNS and revoke my apps?
+Q - Won't a VPN bypass the DNS and revoke my apps?
 
-**A -** It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn)
-
----
-
-**Q -** Will a restart bypass the DNS and revoke my apps?
-
-**A -** Simple answer, No.
+A - It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn)
 
 ---
 
-**Q -** OMG, Are you going to track my furry content?
+Q - Will a restart bypass the DNS and revoke my apps?
 
-**A -** No, I have no need to look at your expenditures.
-
----
-
-**Q -** Um, I'm a cocky big-time dev and I need to look at your code thingies to ensure they don't have viruses.
-
-**A -** Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
+A - Simple answer, No.
 
 ---
 
-**Q -** Can I see the NextDNS settings used?
+Q - OMG, Are you going to track my furry content?
 
-**A -** Yes, make an issue and mention your email and I will send you a viewing invitation if you're that paranoid.
+A - No, I have no need to look at your expenditures.
+
+---
+
+Q - Um, I'm a cocky big-time dev and I need to look at your code thingies to ensure they don't have viruses.
+
+A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
+
+---
+
+Q - Can I see the NextDNS settings used?
+
+A - Yes, make an issue and mention your email and I will send you a viewing invitation if you're that paranoid.
 
 ---
 
