@@ -32,7 +32,7 @@ Feather is also available to download and the steps should be similar as ESign's
 
 Follow Part 1 of my main guide to install the DNS blocker for these services.
 
-You do not need to follow Part 2, 3 and 4 as these install ESign itself.
+You do not need to follow Part 3, 4 and 5 as these install ESign itself.
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
@@ -50,14 +50,10 @@ Beta versions will work but *may* become revoked around the 1 week mark. It is b
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
-## Part [1/4] Making your DNS!
+## Part [1/5] Making your DNS!
 1. Go to this [website](https://shorturl.at/hfr4V)
 2. Make your account
-3. Change settings in the Security tab to your liking, you don't have to change anything
-4. Change settings in the Privacy tab to your liking, you don't have to change anything
-5. Change settings in the Privacy tab to your liking, you don't have to change anything
-6. Change settings in the Settings tab to your liking, you don't have to change anything
-7. Go to the Denylist tab and add the following domains:
+3. Go to the Denylist tab and add the following domains:
    
    vpp.itunes.apple.com
    
@@ -73,33 +69,35 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
    
    ocsp.apple.com
    
-9. Go to the Allowlist and add the following domain:
+4. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
+5. Continue onto [Part 2](#part-25-installing-the-dns) if you want to install ESign
 
-12. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
-13. Select the profile you edited
-14. Enable the "Trust NextDNS Root CA" toggle
-15. Enable the "Bootstrap IPs" toggle
-16. The other settings are optional, I recommend inputting your Device Name and Device Model
-17. Click on Download, and the profile should be imported into settings
-18. Now, open settings and go to General > VPN & Device Management
-19. Click on the downloaded profile and install it, you may need to input your password
-20. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
-21. Now, go back and then go to General > About > Certificate Trust Settings
-22. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
-23. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
+## Part [2/5] Installing the DNS
+1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
+2. Select the profile you edited
+3. Enable the "Trust NextDNS Root CA" toggle
+4. Enable the "Bootstrap IPs" toggle
+5. The other settings are optional, I recommend inputting your Device Name and Device Model
+6. Click on Download, and the profile should be imported into settings
+7. Now, open settings and go to General > VPN & Device Management
+8. Click on the downloaded profile and install it, you may need to input your password
+9. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+10. Now, go back and then go to General > About > Certificate Trust Settings
+11. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
+12. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
 
-## Part [2/4] Installing ESign
+## Part [3/5] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
 2. Click on install once the popup comes up
 3. Open settings and go to General > VPN & Device Management > HDFC Life Insurance Company Limited
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
 5. If your device was restarted, swipe up and click on install profile
 6. ESign should now be on your home screen, fully functional
-7. Continue onto [Part 3](#part-34-setting-up-esign) to setup ESign
+7. Continue onto [Part 3](#part-45-setting-up-esign) to setup ESign
  
-## Part [3/4] Setting up ESign
+## Part [4/5] Setting up ESign
 1. Open ESign and accept the agreements
 2. Go into Settings and click on Get Device UDID
 3. Select allow and then you should be redirected to settings
@@ -112,9 +110,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
-14. Continue onto [Part 4](#part-44-using-esign)
+14. Continue onto [Part 4](#part-55-using-esign)
 
-## Part [4/4] Using ESign
+## Part [5/5] Using ESign
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
 2. Check the download status in the Download tab if downloading from the ESign AppStore
 3. Click on the downloaded IPA and select Import App Library
@@ -186,11 +184,11 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 1. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
 2. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
 3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-4. Then follow Part 1 of the guide to prevent revokes in the future
+4. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
 ### Method 2
 1. Follow this [guide](https://shorturl.at/JKnhG)
-2. Then follow Part 1 of the guide to prevent revokes in the future
+2. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
 ## ESign Sources
 My sources for ESign                    
