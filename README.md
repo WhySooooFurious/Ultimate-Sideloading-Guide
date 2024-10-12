@@ -19,7 +19,7 @@ Some of the advantages with using this method
 - On Device Signing!
 - No App Limit!
 - Easy to setup and use!
-- Takes 5 minutes to setup!
+- Takes 10 minutes to setup!
 
 My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
 
