@@ -35,7 +35,7 @@ Follow Part 1 of my main guide to install the DNS blocker for these services.
 You do not need to follow Part 2, 3 and 4 as these install ESign itself.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the WhySooooFurious DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
 
 ## Before we start
 - This will NOT unrevoke your apps! If you need to fix revokes, use this [guide](#revoked-or-blacklisted)
@@ -141,8 +141,6 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 Not following the above will make your apps revoked!
 
 ## Downloads
-[WhySooooFurious DNS Blocker](https://shorturl.at/AjEER)
-
 [ESign Install](https://shorturl.at/R6bNv)
 
 [Feather Install](https://shorturl.at/xTb4K)
@@ -200,11 +198,11 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 1. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
 2. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
 3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-4. Then follow the guide for Part 1 of the WhySooooFurious DNS Blocker to prevent revokes in the future
+4. Then follow Part 1 of the guide to prevent revokes in the future
 
 ### Method 2
 1. Follow this [guide](https://shorturl.at/JKnhG)
-2. Then follow the guide for Part 1 of the WhySooooFurious DNS Blocker to prevent revokes in the future
+2. Then follow Part 1 of the guide to prevent revokes in the future
 
 ## ESign Sources
 My sources for ESign                    
