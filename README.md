@@ -1,6 +1,4 @@
-# THE WHYSOOOOFURIOUS DNS BLOCKER WILL STOP WORKING WITHIN THE NEXT WEEK! 
-
-# FOLLOW STEP 1 AND 2 TO MAKE YOUR OWN DNS AND PREVENT YOUR APPS FROM BEING REVOKED!
+# Should be working perfectly!
 
 Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
 
@@ -92,7 +90,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
 5. If your device was restarted, swipe up and click on install profile
 6. ESign should now be on your home screen, fully functional
-7. Continue onto [Part 3](#part-45-setting-up-esign) to setup ESign
+7. Continue onto [Part 4](#part-45-setting-up-esign) to setup ESign
  
 ## Part [4/5] Setting up ESign
 1. Open ESign and accept the agreements
@@ -107,7 +105,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
-14. Continue onto [Part 4](#part-55-using-esign)
+14. Continue onto [Part 5](#part-55-using-esign)
 
 ## Part [5/5] Using ESign
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
