@@ -1,4 +1,4 @@
-# Should be working perfectly!
+# Forgot to include the ESign analytic URLS in the denylist step! First thing I get to in the morning! xoxo love y'all.
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
