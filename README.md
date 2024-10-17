@@ -175,13 +175,16 @@ So you've gotten yourself blacklisted, either from the DNS (which seems very unl
 
 Use Method 2 if Method 1 does not work.
 
+Method 2 will completely reset your device!
+
 You must not use your backups with Method 2 otherwise you will get revoked again.
 
 ### Method 1
-1. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-2. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
-3. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-4. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+1. Remove the DNS and uninstall ESign
+2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
+3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
+4. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+5. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
 ### Method 2
 1. Follow this [guide](https://shorturl.at/JKnhG)
