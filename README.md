@@ -1,6 +1,8 @@
 # Should be working perfectly!
 
-Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! eat my dust apple
+Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
+
+eat my dust apple
 
 [Here](https://shorturl.at/82U3M) is the PayPal donation link! 
 
