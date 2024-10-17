@@ -19,16 +19,16 @@ Some of the advantages with using this method
 - Easy to setup and use!
 - Takes 10 minutes to setup!
 
-My DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
+The DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## Scarlet, Feather and other sideloaders
-My DNS is compatible with all services as long as they rely on enterprise certificates to install.
+The DNS is compatible with all services as long as they rely on enterprise certificates to install.
 
 Feather is also available to download and the steps should be similar as ESign's
 
-Follow Part 1 of my main guide to install the DNS blocker for these services.
+Follow Part 1 and 2 of my guide to install the DNS blocker for these services.
 
 You do not need to follow Part 3, 4 and 5 as these install ESign itself.
 
@@ -49,9 +49,8 @@ Beta versions will work but *may* become revoked around the 1 week mark. It is b
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
 ## Part [1/5] Making your DNS!
-1. Go to this [website](https://shorturl.at/hfr4V)
-2. Make your account
-3. Go to the Denylist tab and add the following domains:
+1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
+2. Go to the Denylist tab and add the following domains:
    
    vpp.itunes.apple.com
    
@@ -67,10 +66,10 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
    
    ocsp.apple.com
    
-4. Go to the Allowlist and add the following domain:
+3. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
-5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
+4. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
@@ -169,7 +168,7 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
 
 ## Revoked? or Blacklisted?
-So you've gotten yourself blacklisted, either from my DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
+So you've gotten yourself blacklisted, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
 
 Use Method 2 if Method 1 does not work.
 
