@@ -38,9 +38,8 @@ You do not need to follow Part 3, 4 and 5 as these install ESign itself.
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
 
 ## Before we start
-- This will NOT unrevoke your apps! If you need to fix revokes, use this [guide](#revoked-or-blacklisted)
-- Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked! 
-- If you are blacklisted or revoked from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked-or-blacklisted)
+- Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked!
+- If you are blacklisted or revoked from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked)
 - This method will work as long as you read and do all of the steps required
 
 ## Compatibility
@@ -170,14 +169,13 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 ### Method 1
 1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
 
-## Revoked? or Blacklisted?
-So you've gotten yourself blacklisted, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
-
-Use Method 2 if Method 1 does not work.
+## Revoked?
+So you've gotten yourself revoked, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
 
 Method 2 will completely reset your device!
+Use Method 2 if Method 1 does not work.
 
-You must not use your backups with Method 2 otherwise you will get revoked again.
+You must not use your backups with Method 2 otherwise you will get revoked again. You *might* be able to use an iCloud backup.
 
 ### Method 1
 1. Remove the DNS and uninstall ESign
