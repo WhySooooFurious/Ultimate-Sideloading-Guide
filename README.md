@@ -148,7 +148,7 @@ Coming soon!
 
 Q - Won't a VPN bypass the DNS and revoke my apps?
 
-A - It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn)
+A - It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn).
 
 ---
 
@@ -166,7 +166,7 @@ A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in t
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn)
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn).
 
 ---
 
