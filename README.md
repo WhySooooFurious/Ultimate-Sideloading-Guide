@@ -164,13 +164,20 @@ A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in t
 
 ---
 
+Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
+
+A - No, They use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's Wireguard and edit the dns inside to match your NextDNS settings!
+
+---
+
 # Miscellaneous Guides
 
 ## Using a VPN 
 So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
 ### Method 1
-1. 45.90.28.51 and 45.90.30.51 are the DNS servers you need to replace in your VPN's settings
+1. Find the DNS under the subheading Linked IP
+2. Use either one or both if you can, and replace them in your VPN's DNS settings.
 
 ## Revoked?
 So you've gotten yourself revoked, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
