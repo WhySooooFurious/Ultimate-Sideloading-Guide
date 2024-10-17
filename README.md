@@ -138,7 +138,7 @@ Not following the above will make your apps revoked!
 Coming soon!
 
 ## Downloads
-[ESign Install](https://shorturl.at/R6bNv)
+[ESign Install](https://shorturl.at/hQFH2)
 
 [Feather Install](https://shorturl.at/xTb4K)
 
