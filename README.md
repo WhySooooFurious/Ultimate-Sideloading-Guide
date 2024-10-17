@@ -166,7 +166,7 @@ A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in t
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, They use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's Wireguard and edit the dns inside to match your NextDNS settings!
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn)
 
 ---
 
