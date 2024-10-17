@@ -1,10 +1,10 @@
 # Should be working perfectly!
 
-Disclaimer: This costs me money! While I can easily afford this, I'd really appreciate some sort of donations, even if it is 50cents lol. Thank you!
+Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! eat my dust apple
 
 [Here](https://shorturl.at/82U3M) is the PayPal donation link! 
 
-This will help me keep this service free and not charge $20 like signing services
+I'm *never* going to charge for this at all! Fuck people who do!
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
@@ -129,6 +129,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 - Don't install a lot of apps at once!
 - Don't install Safari extensions
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
+- Don't use Nugget otherwise the DNS will disappear! There is a workaround, i'll make a guide soon
 
 Not following the above will make your apps revoked!
 
