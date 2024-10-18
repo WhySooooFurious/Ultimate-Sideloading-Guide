@@ -50,7 +50,7 @@ Beta versions will work but *may* become revoked around the 1 week mark. It is b
 
 Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 
-## Part [1/5] Making your DNS!
+## Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
    If you would also like to block ESign analytics, please use this [guide](#block-esign-analytics)
