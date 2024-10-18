@@ -53,7 +53,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [1/5] Making your DNS!
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
-   If you would like to block ESign analytics, please use this [guide](#block-esign-analytics)
+   If you would also like to block ESign analytics, please use this [guide](#block-esign-analytics)
    
    vpp.itunes.apple.com
    
@@ -203,27 +203,27 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 1. Go onto your NextDNS profile [here](https://shorturl.at/LTMcd)
 2. Go to the Denylist tab and add the following domains:
    
-   https://qmuiteam.com
+   qmuiteam.com
    
-   https://h.trace.qq.com
+   h.trace.qq.com
    
-   https://ios.bugly.qq.com
+   ios.bugly.qq.com
    
-   https://ios.bugly.qcloud.com
+   ios.bugly.qcloud.com
    
-   https://ucc.umeng.com
+   ucc.umeng.com
    
-   https://aspect-upush.umeng.com
+   aspect-upush.umeng.com
    
-   https://ulogs.umeng.com
+   ulogs.umeng.com
    
-   https://ulogs.umengcloud.com
+   ulogs.umengcloud.com
    
-   https://alogus.umeng.com
+   alogus.umeng.com
    
-   https://utoken.umeng.com
+   utoken.umeng.com
    
-   http://aladdinsys.com
+   aladdinsys.com
 
 ## ESign Sources
 My sources for ESign                    
