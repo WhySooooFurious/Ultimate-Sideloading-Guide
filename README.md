@@ -137,7 +137,10 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 Not following the above guidelines will make your apps revoked!
 
 ## Troubleshooting
-Coming soon!
+
+# Unable to Install? Integrity could not be verified?
+
+You need to follow this [guide](#revoked)
 
 ## Downloads
 
