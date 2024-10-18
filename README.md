@@ -75,13 +75,14 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
 2. Select the profile you edited
-3. Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
-4. Click on Download, and the profile should be imported into settings automatically
-5. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-6. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
-7. Now, go back and then go to General > About > Certificate Trust Settings
-8. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
-9. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
+3. Click on More Options
+4. Then Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
+5. Click on Download, and the profile should be imported into settings automatically
+6. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+7. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+8. Now, go back and then go to General > About > Certificate Trust Settings
+9. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
+10. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
 
 ## Part [3/5] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
