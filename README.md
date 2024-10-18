@@ -86,7 +86,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [3/5] Installing ESign
 1. Go down to [Downloads](#downloads) and click on ESign Direct Install
 2. Click on install once the popup comes up
-3. Open settings and go to General > VPN & Device Management > HDFC Life Insurance Company Limited
+3. Open settings and go to General > VPN & Device Management > Sunrise Insurance Group
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
 5. If your device was restarted, swipe up and click on install profile
 6. ESign should now be on your home screen, fully functional
@@ -99,7 +99,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
-7. Now go down to [Downloads](#downloads) and click on Certificate and then select any file to download
+7. Now go down to [Downloads](#downloads) and click on Certificate, and the Certificate should be downloaded
 9. Go into ESign Settings and click on Import Resources
 10. Find and select the certificate you downloaded back in Step 7 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
@@ -138,11 +138,8 @@ Not following the above will make your apps revoked!
 Coming soon!
 
 ## Downloads
-[ESign Install](itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/manifest.plist)
 
-[Feather Install](http://itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/manifest.plist)
-
-[Certificates](https://shorturl.at/4Zdn4)
+[All Downloads!](https://whysoooofurious.netlify.app)
 
 ## Questions/Answers
 
