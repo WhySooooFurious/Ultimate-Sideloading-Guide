@@ -1,4 +1,4 @@
-# Reached GitHub's bandwidth limit! Am finding and creating the new hoster.
+# Fully working! ESign denylist analytics are up!
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
@@ -52,6 +52,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [1/5] Making your DNS!
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
+   If you would like to block ESign analytics, please use this [guide](#block-esign-analytics)
    
    vpp.itunes.apple.com
    
@@ -66,11 +67,11 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
    ocsp2.apple.com
    
    ocsp.apple.com
-   
-3. Go to the Allowlist and add the following domain:
+
+4. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
-4. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
+5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
@@ -195,6 +196,32 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 ### Method 2
 1. Follow this [guide](https://shorturl.at/JKnhG)
 2. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+
+### Block ESign Analytics
+1. Go onto your NextDNS profile [here](https://shorturl.at/LTMcd)
+2. Go to the Denylist tab and add the following domains:
+   
+   https://qmuiteam.com
+   
+   https://h.trace.qq.com
+   
+   https://ios.bugly.qq.com
+   
+   https://ios.bugly.qcloud.com
+   
+   https://ucc.umeng.com
+   
+   https://aspect-upush.umeng.com
+   
+   https://ulogs.umeng.com
+   
+   https://ulogs.umengcloud.com
+   
+   https://alogus.umeng.com
+   
+   https://utoken.umeng.com
+   
+   http://aladdinsys.com
 
 ## ESign Sources
 My sources for ESign                    
