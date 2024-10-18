@@ -1,5 +1,7 @@
 # Fully working! ESign denylist analytics are up!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e203d662-3e9d-457d-97a3-909e270f0195/deploy-status)](https://app.netlify.com/sites/whysoooofurious/deploys)
+
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
 eat my dust apple
