@@ -140,7 +140,7 @@ Coming soon!
 ## Downloads
 [ESign Install](itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/manifest.plist)
 
-[Feather Install](itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/manifest.plist)
+[Feather Install](http://itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/manifest.plist)
 
 [Certificates](https://shorturl.at/4Zdn4)
 
