@@ -138,9 +138,9 @@ Not following the above will make your apps revoked!
 Coming soon!
 
 ## Downloads
-[ESign Install](https://shorturl.at/hQFH2)
+[ESign Install](itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/manifest.plist)
 
-[Feather Install](https://shorturl.at/xTb4K)
+[Feather Install](itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/manifest.plist)
 
 [Certificates](https://shorturl.at/4Zdn4)
 
