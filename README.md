@@ -6,7 +6,7 @@ eat my dust apple
 
 [Here](https://shorturl.at/82U3M) is the PayPal donation link! 
 
-I'm *never* going to charge for this at all! Fuck people who do!
+I'm *never* going to charge for this at all!
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
@@ -18,6 +18,7 @@ Some of the advantages with using this method
 - No PC at all!
 - On Device Signing!
 - No App Limit!
+- No privacy concerns
 - Easy to setup and use!
 - Takes 10 minutes to setup!
 
@@ -28,11 +29,11 @@ Without further ado, welcome to my Ultimate Sideloading Guide, if you have any i
 ## Scarlet, Feather and other sideloaders
 The DNS is compatible with all services as long as they rely on enterprise certificates to install.
 
-Feather is also available to download and the steps should be similar as ESign's
+Feather is also available to download and the steps should be similar as ESign's.
 
 Follow Part 1 and 2 of my guide to install the DNS blocker for these services.
 
-You do not need to follow Part 3, 4 and 5 as these install ESign itself.
+You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
@@ -71,7 +72,8 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
-5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
+   
+6. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
@@ -134,7 +136,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
 - Don't use Nugget otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
 
-Not following the above will make your apps revoked!
+Not following the above guidelines will make your apps revoked!
 
 ## Troubleshooting
 Coming soon!
