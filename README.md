@@ -138,7 +138,7 @@ Not following the above guidelines will make your apps revoked!
 
 ## Troubleshooting
 
-# Unable to Install? Integrity could not be verified?
+### Unable to Install? Integrity could not be verified?
 
 You need to follow this [guide](#revoked)
 
