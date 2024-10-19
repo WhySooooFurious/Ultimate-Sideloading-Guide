@@ -1,5 +1,4 @@
-# New ESign links are up!
-# Feather links will soon follow!
+# Please take time to re-read Step 1 and the Post Install notes again, *Very* Important!
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
@@ -80,11 +79,13 @@ Versions that might not be supported are below iOS 12, iPadOS 13
    
    ocsp.apple.com
 
-4. Go to the Allowlist and add the following domain:
+3. Go to the Allowlist and add the following domain:
    
    app.localhost.direct
+
+4. Then go into Parental Control and toggle Block Bypass Methods on
    
-6. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
+5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
