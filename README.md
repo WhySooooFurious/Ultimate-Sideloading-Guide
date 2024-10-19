@@ -147,6 +147,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 - Don't install Safari extensions!
 - Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
 - Don't use Nugget otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
+- NextDNS has a limit of 300000 queries per month! I recommend heavily that you do not share your profile as you might reach this limit, I also recommend that you make 2 or more accounts with NextDNS and switch *if* your monthly quota is met for 1 of those profiles!
 
 Not following the above guidelines will make your apps revoked!
 
