@@ -43,11 +43,11 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - This method will work as long as you read and do all of the steps required
 
 ## Compatibility
-This should work for all iOS, iPadOS and even macOS devices, on the latest versions of all iOS, iPadOS and macOS.
+This should work for all iOS and iPadOS on the latest versions
 
-Beta versions will work but *may* become revoked around the 1 week mark. It is better to be on a release version!
+Beta versions will work but *may* become revoked around the 1-2 week mark. It is better to be on a release version!
 
-Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
+Versions that might not be supported are below iOS 12, iPadOS 13
 
 ## Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
@@ -165,12 +165,6 @@ A - It shouldn't , based on the settings I used, I do not recommend using a VPN.
 Q - Will a restart bypass the DNS and revoke my apps?
 
 A - Simple answer, No.
-
----
-
-Q - Um, I'm a cocky big-time dev and I need to look at your code thingies to ensure they don't have viruses.
-
-A - Sure, Go over [here](https://shorturl.at/zHEbJ) to look at what is used in the process!
 
 ---
 
