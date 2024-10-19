@@ -7,6 +7,8 @@ Disclaimer: This doesn't cost me anything from now on except my time, I'd apprec
 
 I'm *never* going to charge for this at all!
 
+---
+
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
 
@@ -25,6 +27,8 @@ The DNS is compatible with other services such as Scarlet, Feather and any other
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
 
+---
+
 ## Scarlet, Feather and other sideloaders
 The DNS is compatible with all services as long as they rely on enterprise certificates to install.
 
@@ -34,13 +38,19 @@ Follow Part 1 and 2 of my guide to install the DNS blocker for these services.
 
 You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
+---
+
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
+
+---
 
 ## Before we start
 - Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked!
 - If you are blacklisted or revoked from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked)
 - This method will work as long as you read and do all of the steps required
+
+---
 
 ## Compatibility
 This should work for all iOS and iPadOS on the latest versions
@@ -48,6 +58,8 @@ This should work for all iOS and iPadOS on the latest versions
 Beta versions will work but *may* become revoked around the 1-2 week mark. It is better to be on a release version!
 
 Versions that might not be supported are below iOS 12, iPadOS 13
+
+---
 
 ## Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
@@ -138,21 +150,28 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 
 Not following the above guidelines will make your apps revoked!
 
+---
+
 ## Troubleshooting
 
 ### Unable to Install? Integrity could not be verified?
 
 You need to follow this [guide](#revoked)
 
+---
+
 ## Downloads
 
 [All Downloads!](https://whysoooofurious.netlify.app)
+
+---
 
 ## ESign Sources
 My sources for ESign                    
 ###
     source[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]
 
+---
 
 ## Questions/Answers
 
@@ -172,6 +191,8 @@ Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide a
 
 A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn).
 
+---
+---
 ---
 
 # Miscellaneous Guides
