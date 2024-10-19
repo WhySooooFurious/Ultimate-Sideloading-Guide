@@ -1,4 +1,4 @@
-# Fully working! ESign denylist analytics are up!
+# New ESign and Feather installation links will be up soon!
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
