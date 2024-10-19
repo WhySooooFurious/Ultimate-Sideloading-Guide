@@ -53,7 +53,7 @@ By using leaked business enterprise certificates, We can sign apps using their c
 ---
 
 ## Compatibility
-This should work for all iOS and iPadOS on the latest versions
+This should work for all iOS and iPadOS devices on the latest versions
 
 Beta versions will work but *may* become revoked around the 1-2 week mark. It is better to be on a release version!
 
