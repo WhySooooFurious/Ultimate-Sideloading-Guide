@@ -1,4 +1,5 @@
-# New ESign and Feather installation links will be up soon!
+# New ESign links are up!
+# Feather links will soon follow!
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
