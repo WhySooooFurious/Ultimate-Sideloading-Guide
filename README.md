@@ -51,7 +51,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 ## Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
-   If you would also like to block ESign analytics, please use this [guide](#block-esign-analytics)
+   If you would also like to block ESign analytics, please use this [guide](#blocking-esign-analytics)
    
    vpp.itunes.apple.com
    
@@ -86,9 +86,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 10. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
 
 ## Part [3/5] Installing ESign
-1. Go down to [Downloads](#downloads) and click on ESign Direct Install
+1. Go down to [Downloads](#downloads) and click on the link, then click on ESign and choose any link
 2. Click on install once the popup comes up
-3. Open settings and go to General > VPN & Device Management > Sunrise Insurance Group
+3. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
 5. If your device was restarted, swipe up and click on install profile
 6. ESign should now be on your home screen, fully functional
@@ -101,9 +101,10 @@ Versions that might not be supported are below iOS 12, iPadOS 13 and macOS 11.
 4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
-7. Now go down to [Downloads](#downloads) and click on Certificate, and the Certificate should be downloaded
+7. Now go down to [Downloads](#downloads), click the link and then go into certificates, download the ESign certificates, and the Certificates should be downloaded
+8. Extract the certificates and select the one that corresponds to the ESign app in VPN & Device Management
 9. Go into ESign Settings and click on Import Resources
-10. Find and select the certificate you downloaded back in Step 7 and click on Import
+10. Find and select the certificates you downloaded back in Step 7 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
@@ -206,7 +207,7 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 1. Follow this [guide](https://shorturl.at/JKnhG)
 2. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Block ESign Analytics
+### Blocking ESign Analytics
 1. Go onto your NextDNS profile [here](https://shorturl.at/LTMcd)
 2. Go to the Denylist tab and add the following domains:
    
@@ -231,64 +232,3 @@ You must not use your backups with Method 2 otherwise you will get revoked again
    utoken.umeng.com
    
    aladdinsys.com
-
-## Tips & Tricks for ESign
-Making use of ESign settings!
-
-### Adding sources
-Adding sources to ESign
-1. Either copy a link that looks like the one above, or copy a link, note that not all links are compatible with ESign
-2. Go to the AppStore tab in ESign
-3. Click on App Source on the top left
-4. Click the plus button on the top right
-5. ESign should prompt you to paste the contents in, if not, copy in the prompt and click on add
-
-### Exporting sources
-Export selected sources from ESign.
-1.  Go to the AppStore tab in ESign
-2. Click on App Source on the top left
-3.  Click the Select button on the bottom right
-4. Select which sources you want and then click share
-
-### Deleting sources
-This will delete selected sources from ESign.
-1. Go to the AppStore tab in ESign
-2. Click on App Source on the top left
-3. Click the Select button on the bottom right
-4. Select which sources you want and then click on delete
-
-### Enabling Auto Import
-When an app is downloaded, ESign will automatically import your files into your app library.
-1. Go into the Download tab
-2. Click on the 3 dots on to top left corner
-3. Click on settings
-4. Enable Auto Import
-
-### Enabling Auto Delete
-When an app is downloaded, ESign will automatically delete the app, recommended use with Auto Import.
-1. Go into the Download tab
-2. Click on the 3 dots on to top left corner
-3. Click on settings
-4. Enable Auto Delete
-
-### Default Sign Config
-This will let you pick a predefined config for your apps.
-1. Go onto the Settings Tab
-2. Click on Sign Default Config
-3. Change the settings as desired
-
-### Keep Running in Background
-Let ESign run in the background (won't work while signing an app) and keep ESign vertical
-1. Go onto the Settings Tab
-2. Enable Keep Running in Background
-
-### Lock Vertical
-Keep ESign vertical.
-1. Go onto the Settings Tab
-2. Enable Lock Vertical
-
-### Change Theme
-Change the ESign theme and icon, you can change the icon only when using with Altstore.
-1. Go onto the Settings Tab
-2. Click on Theme
-3. Change the settings as desired
