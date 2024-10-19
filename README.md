@@ -177,16 +177,16 @@ My sources for ESign
 
 Q - Won't a VPN bypass the DNS and revoke my apps?
 
-A - It shouldn't , based on the settings I used, I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn).
+A - It probably will but the DNS settings should theoretically prevent it. I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn).
 
-
+-
 
 
 Q - Will a restart bypass the DNS and revoke my apps?
 
 A - Simple answer, No.
 
-
+-
 
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
