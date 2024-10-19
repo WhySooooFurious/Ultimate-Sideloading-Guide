@@ -79,11 +79,11 @@ Versions that might not be supported are below iOS 12, iPadOS 13
    
    ocsp.apple.com
 
-3. Go to the Allowlist and add the following domain:
+3. Go to the Allowlist tab and add the following domain:
    
    app.localhost.direct
 
-4. Then go into Parental Control and toggle Block Bypass Methods on
+4. Then go into the Parental Control tab and toggle Block Bypass Methods on
    
 5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
