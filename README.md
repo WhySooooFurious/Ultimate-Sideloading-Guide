@@ -175,12 +175,13 @@ My sources for ESign
 
 ## Questions/Answers
 
+-
+
 Q - Won't a VPN bypass the DNS and revoke my apps?
 
 A - It probably will but the DNS settings should theoretically prevent it. I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn).
 
 -
-
 
 Q - Will a restart bypass the DNS and revoke my apps?
 
@@ -188,10 +189,11 @@ A - Simple answer, No.
 
 -
 
-
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
 A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn).
+
+-
 
 ---
 
