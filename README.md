@@ -156,7 +156,7 @@ You need to follow this [guide](#revoked)
 
 ## Downloads
 
-[All Downloads!](https://whysoooofurious.netlify.app)
+[All Downloads!](https://whysoooofurious.netlify.app/downloads)
 
 ---
 
