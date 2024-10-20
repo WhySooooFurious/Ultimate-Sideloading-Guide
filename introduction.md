@@ -49,3 +49,5 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 - This method will work as long as you read and do all of the steps required
 
 ---
+
+[Back](README.md)
