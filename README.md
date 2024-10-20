@@ -203,19 +203,30 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 ## Revoked?
 So you've gotten yourself revoked, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
 
-Method 2 will completely reset your device!
-Use Method 2 if Method 1 does not work.
+Method 1 is very easy to do and has a very high success rate of removing revokes
+Method 2 is a hit or miss, but should work most of the time
+Method 3 will completely reset your device
 
-You must not use your backups with Method 2 otherwise you will get revoked again. You *might* be able to use an iCloud backup.
+You must not use your backups with Method 3 otherwise you will get revoked again.
 
 ### Method 1
+1. Remove the DNS and uninstall ESign
+2. Back up your device just in case, here is a [guide](https://shorturl.at/fnR5J)
+3. Download and install [3uTools])https://shorturl.at/3Ll9r)
+4. Connect your device and go to the Smart Flash Tab at the top
+5. Download the iOS version you currently have or higher
+6. After the download, select the firmware and toggle the Retain User's Data on
+7. Then select flash! Make sure to not disconnect your phone at all
+9. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+
+### Method 2
 1. Remove the DNS and uninstall ESign
 2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
 3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
 4. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 5. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Method 2
+### Method 3
 1. Remove the DNS and uninstall ESign
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
