@@ -1,4 +1,4 @@
-# Please take time to re-read Step 1 and the Post Install notes again, *Very* Important!
+# Everything is up and running!
 
 Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
 
