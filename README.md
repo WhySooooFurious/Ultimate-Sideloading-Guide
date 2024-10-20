@@ -1,4 +1,4 @@
-# Please use this [website](https://whysoooofurious.netlify.app) instead!
+# Please use this [website](https://whysoooofurious.netlify.app) if not using it already!
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
