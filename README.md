@@ -92,7 +92,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 10. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
 
 ## Part [3/5] Installing ESign
-1. Go down to [Downloads](#downloads) and click on the link, then click on ESign and choose any link
+1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then ESign and choose any link
 2. Click on install once the popup comes up
 3. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
@@ -212,7 +212,7 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 ### Method 1
 1. Remove the DNS and uninstall ESign
 2. Back up your device just in case, here is a [guide](https://shorturl.at/fnR5J)
-3. Download and install [3uTools])https://shorturl.at/3Ll9r)
+3. Download and install [3uTools](https://shorturl.at/3Ll9r)
 4. Connect your device and go to the Smart Flash Tab at the top
 5. Download the iOS version you currently have or higher
 6. After the download, select the firmware and toggle the Retain User's Data on
