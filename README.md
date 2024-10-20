@@ -1,10 +1,5 @@
 # Everything is up and running!
 
-Disclaimer: This doesn't cost me anything from now on except my time, I'd appreciate if you guys donated but no fucking pressure at all! 
-
-[Here](https://ko-fi.com/anmol56) is the Ko-Fi donation link! 
-
-I'm *never* going to charge for this at all!
 
 [Introduction!](introduction.md)
 
