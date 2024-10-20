@@ -224,8 +224,9 @@ You must not use your backups with Method 2 otherwise you will get revoked again
 5. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
 ### Method 2
-1. Follow this [guide](https://shorturl.at/JKnhG)
-2. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+1. Remove the DNS and uninstall ESign
+2. Follow this [guide](https://shorturl.at/JKnhG)
+3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
 ### Blocking ESign Analytics
 1. Go onto your NextDNS profile [here](https://shorturl.at/LTMcd)
