@@ -6,7 +6,8 @@ Disclaimer: This doesn't cost me anything from now on except my time, I'd apprec
 
 I'm *never* going to charge for this at all!
 
-- [introduction.md](introduction.md).
+[Introduction!](introduction.md)
+
 
 
 ## Part [1/5] Making your DNS
