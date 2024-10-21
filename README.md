@@ -232,3 +232,28 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 1. Remove the DNS and uninstall ESign
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+
+## Using Nugget or Cowabungs with the DNS blocker
+Profiles disappear when using Nugget and Cowabunga. This can easily be fixed but is a bit annoying as it requires a PC.
+
+### Fix for macOS:
+Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
+
+#### Part [1/2] Using Nugget/Cowabunga
+1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
+2. Remove every Configuration Profile you have, which are your DNS profiles. Don't delete your installed apps.
+3. Now you can use Nugget or Cowabunga as you please.
+4. Continue onto the [Part 2](#part-22-installing-the-dns)
+
+
+#### Part [2/2] Installing the DNS
+1. Go to this [website](https://shorturl.at/hfr4V) on your macOS device.
+2. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
+3. Select the profile you made and click on More Options
+4.  Then Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
+5. Click on Download, and the profile should be downloaded into your Downloads folder
+6. Download Apple Configurator from the Mac App Store
+7. Make sure your device is connected to your macOS device
+8. Input your password on your device if it requires it
+9. Find your device, right click and select Add > Profiles
+10. Select your profile and then it should be installed and activated automatically
