@@ -7,7 +7,7 @@ After a few months of using both of these services I decided to reverse-engineer
 
 Some of the advantages with using this method
 - Free!
-- No PC at all!
+- No PC!
 - No App Limits!
 - On Device Signing!
 - No Privacy Concerns!
