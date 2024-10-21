@@ -8,12 +8,11 @@ After a few months of using both of these services I decided to reverse-engineer
 Some of the advantages with using this method
 - Free!
 - No PC at all!
+- No App Limits!
 - On Device Signing!
-- No App Limit!
-- No privacy concerns
-- Easy to setup and use!
-- Takes 10 minutes to setup!
-
+- No Privacy Concerns!
+- Easy to Setup and use!
+- Takes 10 Minutes to Setup!
 The DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
 
 Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
