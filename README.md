@@ -55,7 +55,6 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 ## Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
-   If you would also like to block ESign analytics, please use this [guide](#blocking-esign-analytics)
    
    vpp.itunes.apple.com
    
@@ -229,29 +228,3 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 1. Remove the DNS and uninstall ESign
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
-
-### Blocking ESign Analytics
-1. Go onto your NextDNS profile [here](https://shorturl.at/LTMcd)
-2. Go to the Denylist tab and add the following domains:
-   
-   qmuiteam.com
-   
-   h.trace.qq.com
-   
-   ios.bugly.qq.com
-   
-   ios.bugly.qcloud.com
-   
-   ucc.umeng.com
-   
-   aspect-upush.umeng.com
-   
-   ulogs.umeng.com
-   
-   ulogs.umengcloud.com
-   
-   alogus.umeng.com
-   
-   utoken.umeng.com
-   
-   aladdinsys.com
