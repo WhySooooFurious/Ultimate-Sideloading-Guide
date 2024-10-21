@@ -134,23 +134,21 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 12. Click on Allow, after this your device might need to be restarted
 13. If your device was restarted, swipe up and click on Install Profile
 14. The app should now be on your home screen, fully functional
-15. Now read the [Post Install Notes](#post-install-notes)
+15. Now read the [Post Install Notes](#post-install-notes) carefully
 
 ### Post Install Notes
 - You must never disable the DNS!
-- Don't exit ESign while the app is being signed!
 - Don't install a lot of apps at once!
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're switching DNS
-- Don't use Cowabunga Lite otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
-- Don't use Nugget otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
+- Don't use Cowabunga otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
+- Don't use Nugget otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
 - NextDNS has a limit of 300000 queries per month! I recommend heavily that you do not share your profile as you might reach this limit, I also recommend that you make 2 or more accounts with NextDNS and switch *if* your monthly quota is met for 1 of those profiles!
 
-Not following the above guidelines will make your apps can there be 4 #### in markdown
-
+Not following the above guidelines will make your apps revoked!
 ## Troubleshooting
 
-### Unable to Install? Integrity could not be verified?
+Unable to Install? Integrity could not be verified?
 
 You need to follow this [guide](#revoked)
 
@@ -234,7 +232,7 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Using Nugget or Cowabunga with the DNS blocker
+### Using Nugget or Cowabunga
 Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
 
 #### Fix for macOS:
