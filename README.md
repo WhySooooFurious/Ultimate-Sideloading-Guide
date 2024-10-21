@@ -146,6 +146,7 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 - NextDNS has a limit of 300000 queries per month! I recommend heavily that you do not share your profile as you might reach this limit, I also recommend that you make 2 or more accounts with NextDNS and switch *if* your monthly quota is met for 1 of those profiles!
 
 Not following the above guidelines will make your apps revoked!
+
 ## Troubleshooting
 
 Unable to Install? Integrity could not be verified?
