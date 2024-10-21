@@ -51,7 +51,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 
 ---
 
-## Part [1/5] Making your DNS
+## Ultimate Sideloading Guide
+
+### Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
    
@@ -79,7 +81,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 
 5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
-## Part [2/5] Installing the DNS
+### Part [2/5] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
 2. Select the profile you edited
 3. Click on More Options
@@ -91,7 +93,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 9. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
 10. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
 
-## Part [3/5] Installing ESign
+### Part [3/5] Installing ESign
 1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then ESign and choose any link
 Some users report that the Henan, Sunshine and VietnamPost links work better than others.
 3. Click on install once the popup comes up
@@ -101,7 +103,7 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 7. ESign should now be on your home screen, fully functional
 8. Continue onto [Part 4](#part-45-setting-up-esign) to setup ESign
  
-## Part [4/5] Setting up ESign
+### Part [4/5] Setting up ESign
 1. Open ESign and accept the agreements
 2. Go into Settings and click on Get Device UDID
 3. Select allow and then you should be redirected to settings
@@ -117,7 +119,7 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 13. You now have setup ESign with all sources ready to install apps
 14. Continue onto [Part 5](#part-55-using-esign)
 
-## Part [5/5] Using ESign
+### Part [5/5] Using ESign
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
 2. Check the download status in the Download tab if downloading from the ESign AppStore
 3. Click on the downloaded IPA and select Import App Library
@@ -134,7 +136,7 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 14. The app should now be on your home screen, fully functional
 15. Now read the [Post Install Notes](#post-install-notes)
 
-## Post Install Notes
+### Post Install Notes
 - You must never disable the DNS!
 - Don't exit ESign while the app is being signed!
 - Don't install a lot of apps at once!
@@ -144,9 +146,7 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 - Don't use Nugget otherwise the DNS will disappear! There is a workaround, i'll make a guide soon!
 - NextDNS has a limit of 300000 queries per month! I recommend heavily that you do not share your profile as you might reach this limit, I also recommend that you make 2 or more accounts with NextDNS and switch *if* your monthly quota is met for 1 of those profiles!
 
-Not following the above guidelines will make your apps revoked!
-
----
+Not following the above guidelines will make your apps can there be 4 #### in markdown
 
 ## Troubleshooting
 
@@ -193,25 +193,26 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 
 ---
 
-# Miscellaneous Guides
+## Miscellaneous Guides
 
-## Using a VPN 
+### Using a VPN 
 So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
-### Method 1
-1. Find the DNS under the subheading Linked IP
-2. Use either one or both if you can, and replace them in your VPN's DNS settings.
+#### Method 1
+1. Go to this [website](https://shorturl.at/hfr4V)
+2. You should be at the Setup tab, Find your 2 DNS servers under Linked IPs
+3. Insert either one or both if you can in your VPN's DNS configuration, if you can't find that option you likely can't use that VPN with the DNS
 
-## Revoked?
-So you've gotten yourself revoked, either from the DNS (which seems very unlikely) or from another creator's DNS. Follow the methods listed below and you should be unrevoked. 
+### Revoked?
+So you've gotten yourself revoked, either from the DNS. Follow the methods listed below and you should be unrevoked.
 
 Method 1 is very easy to do and has a very high success rate of removing revokes
-Method 2 is a hit or miss, but should work most of the time
-Method 3 will completely reset your device
+Method 2 should work most of the time
+Method 3 will completely reset your device and will definitely work
 
 You must not use your backups with Method 3 otherwise you will get revoked again.
 
-### Method 1
+#### Method 1
 1. Remove the DNS and uninstall ESign
 2. Back up your device just in case, here is a [guide](https://shorturl.at/fnR5J)
 3. Download and install [3uTools](https://shorturl.at/3Ll9r)
@@ -221,32 +222,32 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 7. Then select flash! Make sure to not disconnect your phone at all
 9. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Method 2
+#### Method 2
 1. Remove the DNS and uninstall ESign
 2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
 3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
 4. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 5. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Method 3
+#### Method 3
 1. Remove the DNS and uninstall ESign
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-## Using Nugget or Cowabungs with the DNS blocker
+### Using Nugget or Cowabungs with the DNS blocker
 Profiles disappear when using Nugget and Cowabunga. This can easily be fixed but is a bit annoying as it requires a PC.
 
-### Fix for macOS:
+#### Fix for macOS:
 Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
 
-#### Part [1/2] Using Nugget/Cowabunga
+##### Part [1/2] Using Nugget/Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
 2. Remove every Configuration Profile you have, which are your DNS profiles. Don't delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
 4. Continue onto the [Part 2](#part-22-installing-the-dns)
 
 
-#### Part [2/2] Installing the DNS
+##### Part [2/2] Installing the DNS
 1. Go to this [website](https://shorturl.at/hfr4V) on your macOS device.
 2. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
 3. Select the profile you made and click on More Options
