@@ -234,8 +234,8 @@ You must not use your backups with Method 3 otherwise you will get revoked again
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
 
-### Using Nugget or Cowabungs with the DNS blocker
-Profiles disappear when using Nugget and Cowabunga. This can easily be fixed but is a bit annoying as it requires a PC.
+### Using Nugget or Cowabunga with the DNS blocker
+Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
 
 #### Fix for macOS:
 Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
