@@ -74,7 +74,9 @@ Versions that might not be supported are below iOS 12, iPadOS 13
    app.localhost.direct
 
    register.appattest.apple.com
-   
+
+4. Go into the Privcy tab and click on the cross next to the NextDNS Ads and Trackers
+
 5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
 
 ## Part [2/5] Installing the DNS
