@@ -1,5 +1,5 @@
 # Please use this [website](https://whysoooofurious.netlify.app) if not using it already!
-# New DNS redirect method is up and working
+# New DNS redirect method is up and working!
 
 ## Introduction
 Hello and welcome to my guide on how to sideload on Apple Devices!
