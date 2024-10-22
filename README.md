@@ -12,34 +12,22 @@ Some of the advantages with using this method:
 - No Privacy Concerns!
 - Easy to Setup and use!
 - Takes 5 Minutes to Setup!
+- Compatible with Scarlet/Feather/ESign/GBox/QuickSign
 
 The only disadvantage I can think of is: No VPN support, unless you're making your own DNS.
 
-If you are hesitant of the WhySooooFurious Configuration Profile, open it up on a PC using iMazing or Apple Configurator and see what's inside!
+If you are hesitant of the WhySooooFurious Configuration Profile, open it up using Notepad or TextEdit!
 
 If you have any issues, requests or ideas please make an issue here on GitHub.
 
-## Scarlet, Feather and other sideloaders
-The DNS is compatible with all services as long as they rely on enterprise certificates to install.
-
-Feather is also available to download and the steps should be similar as ESign's.
-
-Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for these services.
-
-You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
-
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, the WhySooooFurious Configuration Profile blocks Apple servers from contacting your device about the revoked certificate which in turn lets you use the apps for however long as you'd like.
-
----
 
 ## Before we start
 - This might not work for you if you've been using services such as Scarlet/Feather/Esign before as the certificates might be revoked!
 - If you are revoked you will need to follow this [guide](#revoked)
 - This will work as long as you read and do all of the steps required
 - WhySooooFurious = WSF
-
----
 
 ## Compatibility
 This should work for all iOS and iPadOS devices on the latest versions
@@ -48,7 +36,13 @@ Beta versions will work but *may* become revoked around the 1-2 week mark. It is
 
 Versions that might not be supported are below iOS 12, iPadOS 13
 
----
+The WSF Configuration Profile is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+
+Feather is also available to download and the steps should be similar as ESign's.
+
+Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for these services.
+
+You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
 ## Ultimate Sideloading Guide
 
