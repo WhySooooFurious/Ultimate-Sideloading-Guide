@@ -15,9 +15,9 @@ Some of the advantages with using this method
 
 The only disadvantage I can think of is: No VPN support at all, unless you're making your own DNS.
 
-If you have any issues, requests or ideas please make an issue here on GitHub.
+If you are hesitant of the WhySooooFurious Configuration Profile, open it up on a PC using iMazing or Apple Configurator!
 
----
+If you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## Scarlet, Feather and other sideloaders
 The DNS is compatible with all services as long as they rely on enterprise certificates to install.
@@ -28,17 +28,16 @@ Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for the
 
 You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
----
-
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, this is where the DNS Blocker comes in, the DNS blocker blocks Apple servers from contacting your device about the expired/revoked/blacklisted certificate which in turn lets you use the apps for however long you'd like. The DNS also blocks ESign analytics.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, the WhySooooFurious Configuration Profile blocks Apple servers from contacting your device about the revoked certificate which in turn lets you use the apps for however long as you'd like.
 
 ---
 
 ## Before we start
-- Make sure you have not been using services such as Scarlet and Feather before as the certificates used to install ESign on your device might be revoked!
-- If you are blacklisted or revoked from Apple for already using services such as Scarlet and Feather you will need to follow this [guide](#revoked)
-- This method will work as long as you read and do all of the steps required
+- This might not work for you if you've been using services such as Scarlet/Feather/Esign before as the certificates might be revoked!
+- If you are revoked you will need to follow this [guide](#revoked)
+- This will work as long as you read and do all of the steps required
+- WhySooooFurious = WSF
 
 ---
 
