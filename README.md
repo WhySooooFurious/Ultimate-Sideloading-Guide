@@ -16,12 +16,12 @@ Some of the advantages with using this method:
 
 The only disadvantage I can think of is: No VPN support, unless you're making your own DNS.
 
-If you are hesitant of the WhySooooFurious Configuration Profile, open it up using Notepad or TextEdit!
+If you are hesitant of the WhySooooFurious Configuration Profile, open it up using Notepad or TextEdit and see what's inside!
 
 If you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, the WhySooooFurious Configuration Profile blocks Apple servers from contacting your device about the revoked certificate which in turn lets you use the apps for however long as you'd like.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, the WhySooooFurious Configuration Profile redirects and prevents Apple servers from contacting your device about the revoked certificate which in turn lets you use the apps for however long as you'd like.
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -45,10 +45,10 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 ## Ultimate Sideloading Guide
 
 ### Part [1/4] Installing the Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select WSF's Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-4. The DNS should now automatically be enabled, this also installs a Web Clip for easy access to my website (someone please make me a logo lol)
+4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website (someone please make me a logo lol)
 5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ### Part [2/4] Installing ESign
@@ -130,13 +130,13 @@ My sources for ESign
 
 -
 
-Q - Won't a VPN bypass the DNS and revoke my apps?
+Q - Can I use a VPN?
 
-A - If you have made your own DNS, it is compatible. If you want to use a VPN, Use this [guide](#using-a-vpn).
+A - You cannot if you are using the WSF Comfiguration Profile. If you have made your own DNS, it is compatible. If you want to use a VPN, Use this [guide](#using-a-vpn).
 
 -
 
-Q - Will a restart bypass the DNS and revoke my apps?
+Q - Will a restart bypass this and revoke my apps?
 
 A - Simple answer, No.
 
@@ -153,7 +153,7 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 ## Miscellaneous Guides
 
 ### Making your own DNS
-Depreciated, I recommend installing the WhySooooFurious DNS Blocker now, although this will still work!
+Depreciated, I recommend installing the WSF Configuration Profile now, although this will still work!
 
 #### Part [1/2] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
@@ -181,7 +181,9 @@ Depreciated, I recommend installing the WhySooooFurious DNS Blocker now, althoug
 
 4. Go into the Privcy tab and click on the cross next to the NextDNS Ads and Trackers
 
-5. Continue onto [Part 2](#part-22-installing-the-dns) to finish the DNS installation
+5. Go into the Parental Control tab and enable the Block Bypass Methods
+
+6. Continue onto [Part 2](#part-22-installing-the-dns) to finish the DNS installation
 
 ### Part [2/2] Installing the DNS
 1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
@@ -203,8 +205,8 @@ So you want to use a VPN with the DNS blocker, Follow the steps below and you sh
 
 #### Method 1
 1. Go to this [website](https://shorturl.at/hfr4V)
-2. You should be at the Setup tab, Find your 2 DNS servers under Linked IPs
-3. Insert either one or both if you can in your VPN's DNS configuration, if you can't find that option you likely can't use that VPN with the DNS
+2. You should be at the Setup tab, Find your 2 DNS servers under the Linked IPs section
+3. Insert either one or both if you can in your VPN's DNS configuration, if you can't find the option, this won't work.
 
 ### Revoked?
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
@@ -227,14 +229,14 @@ You must not use your backups with Method 2
 3. Then follow Part 1 of the guide to prevent revokes
 
 ### Using Nugget or Cowabunga
-Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
+All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
 
 #### Fix for macOS:
 Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
 
 ##### Part [1/2] Using Nugget/Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
-2. Remove the WSF Configuration Profile you have or DNS profiles. Don't delete your installed apps.
+2. Remove the WSF Configuration Profile you have or DNS profile. Don't delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
 4. Continue onto the [Part 2](#part-22-installing-the-dns)
 
