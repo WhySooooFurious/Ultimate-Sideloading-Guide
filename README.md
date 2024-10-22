@@ -53,47 +53,8 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 
 ## Ultimate Sideloading Guide
 
-### Part [1/5] Making your DNS
-1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
-2. Go to the Denylist tab and add the following domains:
-   
-   vpp.itunes.apple.com
-   
-   appattest.apple.com
-   
-   certs.apple.com
-   
-   crl.apple.com
-   
-   valid.apple.com
-   
-   ocsp2.apple.com
-   
-   ocsp.apple.com
 
-3. Go to the Allowlist tab and add the following domains:
-   
-   app.localhost.direct
-
-   register.appattest.apple.com
-
-4. Go into the Privcy tab and click on the cross next to the NextDNS Ads and Trackers
-
-5. Continue onto [Part 2](#part-25-installing-the-dns) to finish the DNS installation
-
-### Part [2/5] Installing the DNS
-1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
-2. Select the profile you edited
-3. Click on More Options
-4. Then Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
-5. Click on Download, and the profile should be imported into settings automatically
-6. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-7. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
-8. Now, go back and then go to General > About > Certificate Trust Settings
-9. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
-10. Continue onto [Part 3](#part-35-installing-esign) if you want to install ESign
-
-### Part [3/5] Installing ESign
+### Part [2/4] Installing ESign
 1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then ESign and choose any link
 Some users report that the Henan, Sunshine and VietnamPost links work better than others.
 3. Click on install once the popup comes up
@@ -101,9 +62,9 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. ESign should now be on your home screen, fully functional
-8. Continue onto [Part 4](#part-45-setting-up-esign) to setup ESign
+8. Continue onto [Part 4](#part-34-setting-up-esign) to setup ESign
  
-### Part [4/5] Setting up ESign
+### Part [3/4] Setting up ESign
 1. Open ESign and accept the agreements
 2. Go into Settings and click on Get Device UDID
 3. Select allow and then you should be redirected to settings
@@ -117,9 +78,9 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
-14. Continue onto [Part 5](#part-55-using-esign)
+14. Continue onto [Part 4](#part-44-using-esign)
 
-### Part [5/5] Using ESign
+### Part [4/4] Using ESign
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
 2. Check the download status in the Download tab if downloading from the ESign AppStore
 3. Click on the downloaded IPA and select Import App Library
@@ -137,13 +98,14 @@ Some users report that the Henan, Sunshine and VietnamPost links work better tha
 15. Now read the [Post Install Notes](#post-install-notes) carefully
 
 ### Post Install Notes
+- You cannot use a VPN, unless you have made your own and are following 
 - You must never disable the DNS!
 - Don't install a lot of apps at once!
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're switching DNS
 - Don't use Cowabunga otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
 - Don't use Nugget otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
-- NextDNS has a limit of 300000 queries per month! I recommend heavily that you do not share your profile as you might reach this limit, I also recommend that you make 2 or more accounts with NextDNS and switch *if* your monthly quota is met for 1 of those profiles!
+- If you have made your own DNS, NextDNS has a limit of 300000 queries per month! If you reach this limit, you will be revoked!
 
 Not following the above guidelines will make your apps revoked!
 
@@ -194,6 +156,50 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 
 ## Miscellaneous Guides
 
+### Making your own DNS
+Depreciated, I recommend installing the WhySooooFurious DNS Blocker now
+
+#### Part [1/5] Making your DNS
+1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
+2. Go to the Denylist tab and add the following domains:
+   
+   vpp.itunes.apple.com
+   
+   appattest.apple.com
+   
+   certs.apple.com
+   
+   crl.apple.com
+   
+   valid.apple.com
+   
+   ocsp2.apple.com
+   
+   ocsp.apple.com
+
+3. Go to the Allowlist tab and add the following domains:
+   
+   app.localhost.direct
+
+   register.appattest.apple.com
+
+4. Go into the Privcy tab and click on the cross next to the NextDNS Ads and Trackers
+
+5. Continue onto [Part 2](#part-22-installing-the-dns) to finish the DNS installation
+
+### Part [2/2] Installing the DNS
+1. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
+2. Select the profile you edited
+3. Click on More Options
+4. Then Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
+5. Click on Download, and the profile should be imported into settings automatically
+6. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+7. The DNS should now automatically be enabled, Do not change the DNS settings to automatic otherwise your apps will get revoked!
+8. Now, go back and then go to General > About > Certificate Trust Settings
+9. Enable Full Trust for the NextDNS Root Certificate, if Full Trust does not show you cannot use VPNs at all
+10. Continue onto [Part 2](#part-35-installing-esign) of the main guide if you want to install ESign
+
+
 ### Using a VPN 
 So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
@@ -203,35 +209,24 @@ So you want to use a VPN with the DNS blocker, follow the steps below and you sh
 3. Insert either one or both if you can in your VPN's DNS configuration, if you can't find that option you likely can't use that VPN with the DNS
 
 ### Revoked?
-So you've gotten yourself revoked, either from the DNS. Follow the methods listed below and you should be unrevoked.
+So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
 
-Method 1 is very easy to do and has a very high success rate of removing revokes
-Method 2 should work most of the time
+Method 1 should work
 Method 3 will completely reset your device and will definitely work
 
-You must not use your backups with Method 3 otherwise you will get revoked again.
+You must not use your backups with Method 2 otherwise you will get revoked again.
 
 #### Method 1
 1. Remove the DNS and uninstall ESign
-2. Back up your device just in case, here is a [guide](https://shorturl.at/fnR5J)
-3. Download and install [3uTools](https://shorturl.at/3Ll9r)
-4. Connect your device and go to the Smart Flash Tab at the top
-5. Download the iOS version you currently have or higher
-6. After the download, select the firmware and toggle the Retain User's Data on
-7. Then select flash! Make sure to not disconnect your phone at all
-9. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
+3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is heavily recommended
+5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+6. Then follow Part 1 of the guide to prevent revokes
 
 #### Method 2
 1. Remove the DNS and uninstall ESign
-2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG)
-4. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-5. Then follow Part 1 and 2 of the guide to prevent revokes in the future
-
-#### Method 3
-1. Remove the DNS and uninstall ESign
 2. Follow this [guide](https://shorturl.at/JKnhG)
-3. Then follow Part 1 and 2 of the guide to prevent revokes in the future
+3. Then follow Part 1 of the guide to prevent revokes
 
 ### Using Nugget or Cowabunga
 Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
