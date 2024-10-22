@@ -53,10 +53,15 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 
 ## Ultimate Sideloading Guide
 
+### Part [1/4] Installing the Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then Configuration Profiles and then click on WSF's Configuration Profile
+2. Click on Download, and the profile should be imported into settings automatically
+3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+4. The DNS should now automatically be enabled
+5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ### Part [2/4] Installing ESign
 1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then ESign and choose any link
-Some users report that the Henan, Sunshine and VietnamPost links work better than others.
 3. Click on install once the popup comes up
 4. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
