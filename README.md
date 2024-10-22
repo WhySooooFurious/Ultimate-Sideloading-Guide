@@ -1,4 +1,6 @@
 # Please use this [website](https://whysoooofurious.netlify.app) if not using it already!
+# New DNS redirect method is up and working!
+# I will abbreviate WhySooooFurious into WSF soon lol, I know it's annoying!
 
 ## Introduction
 Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
@@ -54,10 +56,10 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 ## Ultimate Sideloading Guide
 
 ### Part [1/4] Installing the Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then Configuration Profiles and then click on WSF's Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select WSF's Configuration Profile
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-4. The DNS should now automatically be enabled
+4. The DNS should now automatically be enabled, this also installs a WebClip for easy access to my website
 5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ### Part [2/4] Installing ESign
@@ -103,14 +105,14 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 15. Now read the [Post Install Notes](#post-install-notes) carefully
 
 ### Post Install Notes
-- You cannot use a VPN, unless you have made your own and are following 
+- You cannot use a VPN, unless you have made your own DNS and are following the VPN [guide](#using-a-vpn)
 - You must never disable the DNS!
 - Don't install a lot of apps at once!
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're switching DNS
 - Don't use Cowabunga otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
 - Don't use Nugget otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
-- If you have made your own DNS, NextDNS has a limit of 300000 queries per month! If you reach this limit, you will be revoked!
+- If you have made your own DNS, NextDNS has a limit of 300000 queries per month! If you reach this limit, you will be revoked! It is recommended to make multiple accounts and making more profiles or using the WhySooooFurious Configuration Profile
 
 Not following the above guidelines will make your apps revoked!
 
@@ -162,7 +164,7 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 ## Miscellaneous Guides
 
 ### Making your own DNS
-Depreciated, I recommend installing the WhySooooFurious DNS Blocker now
+Depreciated, I recommend installing the WhySooooFurious DNS Blocker now, although this will still work!
 
 #### Part [1/5] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
@@ -206,7 +208,9 @@ Depreciated, I recommend installing the WhySooooFurious DNS Blocker now
 
 
 ### Using a VPN 
-So you want to use a VPN with the DNS blocker, follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
+This will not work with the WhySooooFurious Configuration Profile!
+
+So you want to use a VPN with the DNS blocker, Follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
 #### Method 1
 1. Go to this [website](https://shorturl.at/hfr4V)
@@ -219,7 +223,7 @@ So you've gotten yourself revoked, Follow the methods listed below and you shoul
 Method 1 should work
 Method 3 will completely reset your device and will definitely work
 
-You must not use your backups with Method 2 otherwise you will get revoked again.
+You must not use your backups with Method 2
 
 #### Method 1
 1. Remove the DNS and uninstall ESign
@@ -241,19 +245,16 @@ Only the macOS version of Nugget is compatible with this guide. Not the app itse
 
 ##### Part [1/2] Using Nugget/Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
-2. Remove every Configuration Profile you have, which are your DNS profiles. Don't delete your installed apps.
+2. Remove every Configuration Profile you have or DNS profiles. Don't delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
 4. Continue onto the [Part 2](#part-22-installing-the-dns)
 
 
-##### Part [2/2] Installing the DNS
-1. Go to this [website](https://shorturl.at/hfr4V) on your macOS device.
-2. Go to the Setup tab, find and click on the hyperlinked apple.nextdns.io which should redirect you to the NextDNS Profile website
-3. Select the profile you made and click on More Options
-4.  Then Enable the Trust NextDNS Root CA and Bootstrap IPs toggle
-5. Click on Download, and the profile should be downloaded into your Downloads folder
+##### Part [2/2] Installing the WhysooooFurious Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WhySooooFurious Configuration Profile
+2. Click on Download, and the profile should be downloaded to your Downloads folder
 6. Download Apple Configurator from the Mac App Store
 7. Make sure your device is connected to your macOS device
 8. Input your password on your device if it requires it
 9. Find your device, right click and select Add > Profiles
-10. Select your profile and then it should be installed and activated automatically
+10. Select the WhySooooFurious Configuration Profile and then it should be installed and activated automatically
