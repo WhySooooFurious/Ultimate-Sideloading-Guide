@@ -13,9 +13,9 @@ Some of the advantages with using this method:
 - Easy to Setup and use!
 - Takes 5 Minutes to Setup!
 
-The only disadvantage I can think of is: No VPN support at all, unless you're making your own DNS.
+The only disadvantage I can think of is: No VPN support, unless you're making your own DNS.
 
-If you are hesitant of the WhySooooFurious Configuration Profile, open it up on a PC using iMazing or Apple Configurator!
+If you are hesitant of the WhySooooFurious Configuration Profile, open it up on a PC using iMazing or Apple Configurator and see what's inside!
 
 If you have any issues, requests or ideas please make an issue here on GitHub.
 
