@@ -16,7 +16,7 @@ Some of the advantages with using this method:
 
 The only disadvantage I can think of is: No VPN support, unless you're making your own DNS.
 
-If you are hesitant of the WhySooooFurious Configuration Profile, open it up using Notepad or TextEdit and see what's inside!
+If you are hesitant of the WhySooooFurious Configuration Profile, open it up on your PC using Notepad or TextEdit and see what's inside!
 
 If you have any issues, requests or ideas please make an issue here on GitHub.
 
