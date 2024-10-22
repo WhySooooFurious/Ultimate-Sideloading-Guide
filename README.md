@@ -229,7 +229,7 @@ You must not use your backups with Method 2
 3. Then follow Part 1 of the guide to prevent revokes
 
 ### Using Nugget or Cowabunga
-All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed but is a bit annoying as it requires a PC.
+All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed by following the steps below.
 
 #### Fix for macOS:
 Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
