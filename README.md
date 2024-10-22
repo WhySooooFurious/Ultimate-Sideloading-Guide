@@ -1,11 +1,8 @@
 # Please use this [website](https://whysoooofurious.netlify.app) if not using it already!
-# New DNS redirect method is up and working!
-# I will abbreviate WhySooooFurious into WSF soon lol, I know it's annoying!
+# New DNS redirect method is up and working
 
 ## Introduction
-Hello, Welcome to my guide on how to sideload on Apple Devices using a method I came across to a while back. This sideloading method has worked for long periods of time, without any app limits and without a pc. I eventually found some small let-downs such as the go-to DNS at the time was and is still made by some random Vietnamese guy with no open-sourced data which naturally has some privacy concerns. ESign also had undesirable analytics which are now blocked by my DNS.
-
-After a few months of using both of these services I decided to reverse-engineer the DNS and how the enterprise signed ESign was downloaded over the web with the click of a button. With enabling better preventions against revokes unlike other people who keep on using other people's DNS and put no effort in themselves with bad instructions to say the least. 
+Hello and welcome to my guide on how to sideload on Apple Devices!
 
 Some of the advantages with using this method
 - Free!
@@ -14,10 +11,11 @@ Some of the advantages with using this method
 - On Device Signing!
 - No Privacy Concerns!
 - Easy to Setup and use!
-- Takes 10 Minutes to Setup!
-The DNS is compatible with other services such as Scarlet, Feather and any other enterprise signing app, More info [here](#scarlet-feather-and-other-sideloaders)
+- Takes 5 Minutes to Setup!
 
-Without further ado, welcome to my Ultimate Sideloading Guide, if you have any issues, requests or ideas please make an issue here on GitHub.
+The only disadvantage I can think of is: No VPN support at all, unless you're making your own DNS.
+
+If you have any issues, requests or ideas please make an issue here on GitHub.
 
 ---
 
@@ -26,7 +24,7 @@ The DNS is compatible with all services as long as they rely on enterprise certi
 
 Feather is also available to download and the steps should be similar as ESign's.
 
-Follow Part 1 and 2 of my guide to install the DNS blocker for these services.
+Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for these services.
 
 You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
@@ -59,7 +57,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select WSF's Configuration Profile
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-4. The DNS should now automatically be enabled, this also installs a WebClip for easy access to my website
+4. The DNS should now automatically be enabled, this also installs a Web Clip for easy access to my website (someone please make me a logo lol)
 5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ### Part [2/4] Installing ESign
@@ -112,7 +110,7 @@ Versions that might not be supported are below iOS 12, iPadOS 13
 - Go into Airplane Mode if you're switching DNS
 - Don't use Cowabunga otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
 - Don't use Nugget otherwise the DNS will disappear! There is a [workaround](#using-nugget-or-cowabunga)
-- If you have made your own DNS, NextDNS has a limit of 300000 queries per month! If you reach this limit, you will be revoked! It is recommended to make multiple accounts and making more profiles or using the WhySooooFurious Configuration Profile
+- If you have made your own DNS, NextDNS has a limit of 300000 queries per month! If you reach this limit, you will be revoked! It is recommended to make multiple accounts and making more profiles or using the WSF Configuration Profile
 
 Not following the above guidelines will make your apps revoked!
 
@@ -143,7 +141,7 @@ My sources for ESign
 
 Q - Won't a VPN bypass the DNS and revoke my apps?
 
-A - It probably will but the DNS settings should theoretically prevent it. I do not recommend using a VPN. If you really want to use a VPN, Use this [guide](#using-a-vpn).
+A - If you have made your own DNS, it is compatible. If you want to use a VPN, Use this [guide](#using-a-vpn).
 
 -
 
@@ -155,7 +153,7 @@ A - Simple answer, No.
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn).
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You might need to edit SideStore's WireGuard and edit the DNS inside to match your NextDNS settings in this [guide](#using-a-vpn), although this isn't compatible with the WSF Configuration Profile.
 
 -
 
@@ -166,7 +164,7 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 ### Making your own DNS
 Depreciated, I recommend installing the WhySooooFurious DNS Blocker now, although this will still work!
 
-#### Part [1/5] Making your DNS
+#### Part [1/2] Making your DNS
 1. Go to this [website](https://shorturl.at/hfr4V) and make your own account
 2. Go to the Denylist tab and add the following domains:
    
@@ -208,7 +206,7 @@ Depreciated, I recommend installing the WhySooooFurious DNS Blocker now, althoug
 
 
 ### Using a VPN 
-This will not work with the WhySooooFurious Configuration Profile!
+This will not work with the WSF Configuration Profile!
 
 So you want to use a VPN with the DNS blocker, Follow the steps below and you should be able to use your VPN normally and on-demand, I still do not recommend using a VPN with the DNS, You should know how to configure your VPN's DNS server yourself as there are different steps for each VPN app.
 
@@ -221,7 +219,7 @@ So you want to use a VPN with the DNS blocker, Follow the steps below and you sh
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
 
 Method 1 should work
-Method 3 will completely reset your device and will definitely work
+Method 2 will completely reset your device and will definitely work
 
 You must not use your backups with Method 2
 
@@ -245,16 +243,16 @@ Only the macOS version of Nugget is compatible with this guide. Not the app itse
 
 ##### Part [1/2] Using Nugget/Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
-2. Remove every Configuration Profile you have or DNS profiles. Don't delete your installed apps.
+2. Remove the WSF Configuration Profile you have or DNS profiles. Don't delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
 4. Continue onto the [Part 2](#part-22-installing-the-dns)
 
 
-##### Part [2/2] Installing the WhysooooFurious Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WhySooooFurious Configuration Profile
+##### Part [2/2] Installing the WSF Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
 2. Click on Download, and the profile should be downloaded to your Downloads folder
 6. Download Apple Configurator from the Mac App Store
 7. Make sure your device is connected to your macOS device
 8. Input your password on your device if it requires it
 9. Find your device, right click and select Add > Profiles
-10. Select the WhySooooFurious Configuration Profile and then it should be installed and activated automatically
+10. Select the WSF Configuration Profile and then it should be installed and activated automatically
