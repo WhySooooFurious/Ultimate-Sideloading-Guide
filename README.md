@@ -4,7 +4,7 @@
 ## Introduction
 Hello and welcome to my guide on how to sideload on Apple Devices!
 
-Some of the advantages with using this method
+Some of the advantages with using this method:
 - Free!
 - No PC!
 - No App Limits!
