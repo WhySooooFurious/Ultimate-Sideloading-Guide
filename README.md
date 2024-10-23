@@ -14,7 +14,12 @@ Some of the advantages with using this method:
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox/QuickSign
 
-The only disadvantage I can think of is: No VPN support, unless you're making your own DNS.
+Some of the disadvantages with using this method:
+- No VPN Support (unless making your own DNS)
+- No ChatGPT Support (unless making your own DNS)
+- Feather might not work (unless making your own DNS)
+
+I will look into fixing these quirks soon.
 
 If you are hesitant of the WhySooooFurious Configuration Profile, open it up on your PC using Notepad or TextEdit and see what's inside!
 
