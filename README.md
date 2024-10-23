@@ -50,7 +50,7 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 ## Ultimate Sideloading Guide
 
 ### Part [1/4] Installing the Configuration Profile
-You can alternatively follow this [guide](#making-your-dns) to make your own DNS supporting VPNs and ChatGPT.
+You can alternatively follow this [guide](#making-your-own-dns) to make your own DNS supporting VPNs and ChatGPT.
 1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
