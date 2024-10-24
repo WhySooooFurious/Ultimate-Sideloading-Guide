@@ -101,6 +101,7 @@ You can alternatively follow this [guide](#making-your-own-dns) to make your own
 
 ### Post Install Notes
 - You cannot use a VPN, unless you have made your own DNS and are following the VPN [guide](#using-a-vpn)
+- Don't use NextDNS and the WSF Configuration Profile together
 - You must never disable the DNS!
 - Don't install a lot of apps at once!
 - Don't install Safari extensions!
