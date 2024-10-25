@@ -16,7 +16,7 @@ Some of the advantages with using this method:
 
 Some of the disadvantages with using this method:
 - No VPN Support
-- No ChatGPT Support
+- No ChatGPT Support although ChatGPT in Apple Intelligence will still work!
 
 I will look into fixing these quirks soon.
 
