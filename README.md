@@ -156,6 +156,7 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
 
 Method 1 should work
+
 Method 2 will completely reset your device and will definitely work
 
 You must not use your backups with Method 2
