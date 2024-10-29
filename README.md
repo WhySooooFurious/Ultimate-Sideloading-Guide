@@ -104,7 +104,6 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 ### Post Install Notes
 - You cannot use a VPN
 - You must never disable the Configuration Profile!
-- Don't install a lot of apps at once!
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're removing the Profile or switching
 - Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
