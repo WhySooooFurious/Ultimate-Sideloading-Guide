@@ -16,7 +16,7 @@ Some of the advantages with using this method:
 
 Some of the disadvantages with using this method:
 - No VPN Support
-- No ChatGPT Support although ChatGPT in Apple Intelligence might still work!
+- No ChatGPT Support although ChatGPT in Apple Intelligence is working!
 
 I will look into fixing these quirks soon.
 
@@ -47,6 +47,8 @@ Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for oth
 You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
 
 ## Ultimate Sideloading Guide
+
+[English Tutorial](https://www.youtube.com/watch?v=F4GAGYm1aIQ)
 [Spanish Tutorial](https://www.youtube.com/watch?v=558O5tu7D1E)
 
 ### Part [1/4] Installing the Configuration Profile
