@@ -1,5 +1,7 @@
-# Please use this [website](https://whysoooofurious.netlify.app) if not using it already!
-# Feather is finnicky, use ESign.
+# Please use this [website](https://whysoooofurious.netlify.app)
+
+## Updates
+Make sure to update the WSF Configuration Profile periodically as there are still some changes that need to be ironed out!
 
 ## Introduction
 Hello and welcome to my guide on how to sideload on Apple Devices!
@@ -35,7 +37,7 @@ The WhySooooFurious Configuration Profile redirects specific Apple servers to ht
 - This will work as long as you read and do all of the steps required
 - WhySooooFurious = WSF
 
-## Compatibility
+### Compatibility
 This should work for all iOS and iPadOS devices on the latest versions.
 iOS Versions that might not be supported are below iOS 12 and iPadOS 13.
 
@@ -56,7 +58,7 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website (someone please make me a logo lol)
+4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
 5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
 ### Part [2/4] Installing ESign
@@ -107,6 +109,7 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're removing the Profile or switching
 - Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
+- Check for updates to this guide on the top of this page!
 
 Not following the above guidelines will make your apps revoked!
 
