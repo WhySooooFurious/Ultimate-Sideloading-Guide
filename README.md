@@ -3,6 +3,8 @@
 ## Updates
 Make sure to update the WSF Configuration Profile periodically as there are still some changes that need to be ironed out!
 
+Currently working on everything from web changes, custom ESign with no logs, and of course more certificates, which will all be available in roughly 1-2 weeks.
+
 ## Introduction
 Hello and welcome to my guide on how to sideload on Apple Devices!
 
