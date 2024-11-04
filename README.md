@@ -111,6 +111,8 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 - Don't install Safari extensions!
 - Go into Airplane Mode if you're removing the Profile or switching
 - Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
+- Restarts don't revoke apps, you doing something wrong will
+- If apps are revoked they are usable, until you do a restart
 - Check for updates to this guide on the top of this page!
 
 Not following the above guidelines will make your apps revoked!
