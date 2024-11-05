@@ -150,7 +150,7 @@ A - You cannot
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Simple answer, No.
+A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable, or better yet forget your WiFi when rebooting.
 
 -
 
