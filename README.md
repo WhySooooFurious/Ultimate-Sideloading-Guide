@@ -57,7 +57,7 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 [Spanish Tutorial](https://www.youtube.com/watch?v=558O5tu7D1E)
 
 ### Part [1/4] Installing the Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select any WSF Configuration Profile, the Update Blocker one blocks iOS updates as well
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
 4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
