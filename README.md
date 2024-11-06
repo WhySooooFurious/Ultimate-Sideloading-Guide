@@ -1,37 +1,29 @@
 # Please use this [website](https://whysoooofurious.netlify.app)
 
 ## Updates
-Make sure to update the WSF Configuration Profile periodically as there are still some changes that need to be ironed out!
-
-Currently working on everything from web changes, custom ESign with no logs, and of course more certificates, which will all be available in roughly 1-2 weeks.
+Please join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
 
 ## Introduction
-Hello and welcome to my guide on how to sideload on Apple Devices!
+Welcome to my guide on how to sideload on Apple Devices!
 
 Some of the advantages with using this method:
 - Free!
 - No PC!
+- Easy to use!
 - No App Limits!
 - On Device Signing!
 - No Privacy Concerns!
-- Easy to Setup and use!
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox/QuickSign
 
-Some of the disadvantages with using this method:
-- No VPN Support
-- No ChatGPT Support although ChatGPT in Apple Intelligence is working!
-
-I will look into fixing these quirks soon.
-
-If you are hesitant of the WhySooooFurious Configuration Profile, open it up on your PC using Notepad or TextEdit and see what's inside!
-
-If you have any issues, requests or ideas please make an issue here on GitHub.
+If you have any issues, requests or ideas please make an issue here on GitHub or contact me on Discord [here](https://discord.gg/rHMa3sMse7)
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate, the WhySooooFurious Configuration Profile redirects and prevents Apple servers from contacting your device about the revoked certificate which let's you use apps forever.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed any of the two profiles below,
 
-The WhySooooFurious Configuration Profile redirects specific Apple servers to https://localhost.direct which is a fancy way of saying that it's your own local network, meaning Apple can never contact your device about the revoked certificates!
+The WhySooooFurious Configuration Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
+
+The (redacted) Configuration Profile simply blocks these Apple Servers instead of redirection. This method also supports VPNs, ChatGPT and Feather properly unlike the WhySooooFurious Configuration Profile
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -41,14 +33,8 @@ The WhySooooFurious Configuration Profile redirects specific Apple servers to ht
 
 ### Compatibility
 This should work for all iOS and iPadOS devices on the latest versions.
-iOS Versions that might not be supported are below iOS 12 and iPadOS 13.
 
-The WSF Configuration Profile is compatible with other sideloading services as long as they rely on enterprise certificates to install.
-
-Feather is also available to download and the steps should be similar as ESign's.
-
-Follow Part 1 and 2 of my guide to install the WSF Configuration Profile for other sideloaders.
-You do not need to follow Part 3, 4 and 5 as these install and setup ESign itself.
+The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install. They are also available to download, they steps should be similar to ESign's.
 
 ## Ultimate Sideloading Guide
 
@@ -56,8 +42,13 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 
 [Spanish Tutorial](https://www.youtube.com/watch?v=558O5tu7D1E)
 
+### Which Configuration Profile do I choose?
+The WSF Configuration Profile is a simple, tried and tested method althought it doesn't support a small amount of features.
+
+The other config profile isn't available yet, will be up as some milestones are achieved!
+
 ### Part [1/4] Installing the Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select any WSF Configuration Profile, the Update Blocker one blocks iOS updates as well
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you would like to install, the Update Blocker one blocks iOS updates as well
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
 4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
@@ -79,10 +70,10 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 4. After opening settings go to General > VPN & Device Management
 5. Install the Query Device UDID profile
 6. You should be redirected back to ESign
-7. Now go down to [Downloads](#downloads), click the link and then go into certificates, download the ESign certificates, and the Certificates should be downloaded
-8. Extract the ESign-Certificates.zip and select the one that corresponds to the ESign app in VPN & Device Management
+7. Now go down to [Downloads](#downloads), click the link and then go into certificates, download the certificates, and the Certificates should be downloaded
+8. Extract the Certificates.zip and keep in mind the one that corresponds to your ESign app in VPN & Device Management
 9. Go into ESign Settings and click on Import Resources
-10. Find and select the certificate you selected back in Step 8 and click on Import
+10. Find and select the .p12 file you chose back in Step 8 and click on Import
 11. Now go over to AppStore in ESign and click on App Source
 12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
 13. You now have setup ESign with all sources ready to install apps
@@ -109,19 +100,18 @@ You do not need to follow Part 3, 4 and 5 as these install and setup ESign itsel
 - You cannot use a VPN
 - You must never disable the Configuration Profile!
 - Don't install Safari extensions!
-- Go into Airplane Mode if you're removing the Profile or switching
+- Go into Airplane Mode if you're removing the Profile or switching to another
 - Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
-- Restarts don't revoke apps, you doing something wrong will
-- If apps are revoked they are usable, until you do a restart
-- Check for updates to this guide on the top of this page!
+- Restarts can revoke apps on older devices! Put your device in Airplane Mode and turning off WiFi when restarting to be safe!
+- Check for updates periodically!
 
-Not following the above guidelines will make your apps revoked!
+Not following the guidelines above will make your apps revoked!
 
 ## Troubleshooting
 
-### Unable to Install? Integrity could not be verified? App is not available?
+### Unable to Install? Integrity could not be verified? App is not available? Crashing Apps? Unverified?
 
-You need to follow this [guide](#revoked)
+You need to follow this [guide](#revoked) or try other download links!
 
 ---
 
@@ -144,23 +134,29 @@ My sources for ESign
 
 Q - Can I use a VPN?
 
-A - You cannot
+A - You can if you're using the NextDNS Configuration Profile
 
 -
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable, or better yet forget your WiFi when rebooting.
+A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable WiFi, or better yet forget your WiFi when rebooting.
 
 -
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although SideStore's WireGuard is not compatible.
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard with the guide here [
 
 -
 
 ## Miscellaneous Guides
+
+### Using VPNs
+Note that most free VPNs won't work with this.
+
+#### Method 1
+1, Find your VPN's DNS settings and replace them with (coming soon enough)
 
 ### Revoked?
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
@@ -187,30 +183,31 @@ You must not use your backups with Method 2
 All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed by following the steps below.
 
 #### Fix for macOS:
-Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget and Cowabunga!
+Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget or Cowabunga!
 
 ##### Part [1/2] Using Nugget/Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
-2. Remove the WSF Configuration Profile you have. You don't have to delete your installed apps.
+2. Remove all Configuration Profiles you have. You don't have to delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
 4. Continue onto the [Part 2](#installing-the-wsf-configuration-profile)
 
 
 ##### Part [2/2] Installing the WSF Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the WSF Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you had previously
 2. Click on Download, and the profile should be downloaded to your Downloads folder
 6. Download Apple Configurator from the Mac App Store
 7. Make sure your device is connected to your macOS device
 8. Input your password on your device if it requires it
 9. Find your device, right click and select Add > Profiles
-10. Select the WSF Configuration Profile and then it should be installed and activated automatically
+10. Select the Configuration Profile and then it should be installed and activated automatically
 
 ### Hall of Fame!
+
 u/Comfortable-Basil-47
 For introducing me to the whole method and taking the time to teach me!
 
 @timi2506
-For creating wonderful icons for the configuration profile and for making the Nothing app!
+For creating wonderful icons for the configuration profile and for making the Nothing testing app!
 
 ### Partners
 
