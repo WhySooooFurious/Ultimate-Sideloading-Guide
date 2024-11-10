@@ -146,7 +146,7 @@ A - Some users have found that on older devices, your apps might revoke, enable 
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard with the guide here [
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! wireguard is not compatible as of yet in progress
 
 -
 
