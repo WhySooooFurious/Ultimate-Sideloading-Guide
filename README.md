@@ -38,11 +38,7 @@ This should work for all iOS and iPadOS devices on the latest versions.
 
 The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install. They are also available to download, they steps should be similar to ESign's.
 
-## Ultimate Sideloading Guide
-
-[English Tutorial] - Outdated(https://www.youtube.com/watch?v=F4GAGYm1aIQ)
-
-[Spanish Tutorial] - Outdated (https://www.youtube.com/watch?v=558O5tu7D1E)
+# Starting the guide!
 
 ### Which Configuration Profile do I choose?
 If you would like a basic blocking server choose the WSF Configuration Profile
@@ -54,17 +50,7 @@ The madNS Configuration Profile supports VPNs, Feather and ChatGPT which can be 
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
 4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
-5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
-
-### Post Install Notes
-- You cannot use a VPN unless you're using the madNS Configuration Profile
-- You must never disable the Configuration Profile!
-- Go into Airplane Mode if you're removing the Profile or switching to another
-- Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
-- Restarts can revoke apps on older devices! Put your device in Airplane Mode and turning off WiFi when restarting to be safe!
-- Check for updates and announcements periodically on the [discord](https://discord.gg/rHMa3sMse7)
-
-Not following the guidelines above will make your apps revoked!
+5. Continue onto [Part 2](#part-24-installing-portal) to install Portal
 
 ## Troubleshooting
 
