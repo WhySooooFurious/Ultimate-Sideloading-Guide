@@ -45,12 +45,12 @@ If you would like a basic blocking server choose the WSF Configuration Profile
 
 The madNS Configuration Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
 
-### Part [1/4] Installing the Configuration Profile
+### Part [1/2] Installing the Configuration Profile
 1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you would like to install, the Update Blocker blocks iOS updates as well
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
-5. Continue onto [Part 2](#part-24-installing-portal) to install Portal
+4. It should now automatically be enabled
+5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
 ## Troubleshooting
 
@@ -63,54 +63,7 @@ You need to follow this [guide](#revoked) or alternatively you can try other dow
 ## Downloads
 
 ### [All Downloads!](https://whysoooofurious.netlify.app/downloads)
-
----
-
-## ESign Sources
-My sources for ESign                    
-###
-
-https://esign.yyyue.xyz/app.json
-https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
-https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
-https://qnblackcat.github.io/AltStore/apps.json
-https://randomblock1.com/altstore/apps.json
-https://wuxu1.github.io/wuxu-complete-plus.json
-https://wuxu1.github.io/wuxu-complete.json
-https://ipa.cypwn.xyz/cypwn.json
-https://driftywinds.github.io/AltStore/apps.json
-https://hann8n.github.io/JackCracks/MovieboxPro.json
-https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json
-https://repo.apptesters.org/
-https://aio.yippee.rip/repo.json
-https://community-apps.sidestore.io/sidecommunity.json
-https://raw.githubusercontent.com/arichornloverALT/arichornloveralt.github.io/main/apps2.json
-https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/apps.json
-https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json
-https://qingsongqian.github.io/all.html
-https://tiny.one/SpotC
-https://theodyssey.dev/altstore/odysseysource.json
-https://provenance-emu.com/apps.json
-https://repo.starfiles.co/
-https://ish.app/altstore.json
-https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json
-https://ipa.cypwn.xyz/cypwn_ts.json
-https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/repo.json
-https://altstore.oatmealdome.me/
-https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json
-https://alts.lao.sb
-https://xitrix.github.io/iTorrent/AltStore.json
-https://driftywinds.github.io/repos/esign.json
-https://github.com/khcrysalis/Feather/raw/main/app-repo.json
-https://apps.nabzclan.vip/repos/esign.php
-https://flyinghead.github.io/flycast-builds/altstore.json
-https://altstore.oatmealdome.me
-https://alt.crystall1ne.dev
-https://apps.nabzclan.vip/repos/altstore.php
-https://apps.sidestore.io/
-https://repos.yattee.stream/alt/apps.json
-https://alt.thatstel.la/
-
+               
 ---
 
 ## Questions/Answers
@@ -132,58 +85,3 @@ A - Some users have found that on older devices, your apps might revoke, enable 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
 A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly WireGuard by using this [guide](#using-vpns)
-
--
-
-## Miscellaneous Guides
-
-### Using VPNs
-Note that most free VPNs won't let you change DNS settings.
-
-Also note that only the madNS Configuration Profile is compatible with VPNs
-
-#### Method 1
-1, Find your VPN's DNS settings and replace them with the following (coming soon)
-
-### Revoked?
-So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
-
-Method 1 should work
-
-Method 2 will completely reset your device and will definitely work
-
-You must not use any backups with Method 2
-
-#### Method 1
-1. Remove the Configuration Profile and uninstall ESign
-2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is required
-5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-6. Then follow Part 1 of the guide to prevent revokes
-
-#### Method 2
-1. Remove the Configuration Profile and uninstall ESign
-2. Follow this [guide](https://shorturl.at/JKnhG)
-3. Then follow Part 1 of the guide to prevent revokes
-
-### Using Nugget or Cowabunga
-All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed by following the steps below.
-
-### Hall of Fame!
-
-u/Comfortable-Basil-47
-For introducing me to the whole method and taking the time to teach me!
-
-@timi2506
-For creating wonderful icons for the configuration profile and for making the Nothing testing app!
-
-@TheInterasting
-For invaluable help with the Server, Beta Testing and dealing with my insanity!
-
-### Partners
-
-@pollacongafes
-For the Spanish tutorial!
-
-@Techjunkie_Aman
-For the English tutorial!
