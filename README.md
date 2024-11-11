@@ -56,48 +56,6 @@ The madNS Configuration Profile supports VPNs, Feather and ChatGPT which can be 
 4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
 5. Continue onto [Part 2](#part-24-installing-esign) if you want to install ESign
 
-### Part [2/4] Installing ESign
-1. Go down to [Downloads](#downloads) and click on the link, then click on Downloads, then ESign and choose any link
-3. Click on install once the popup comes up
-4. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
-5. Click on Trust at the top then click on allow, after this your device might need to be restarted
-6. If your device was restarted, swipe up and click on install profile
-7. ESign should now be on your home screen, fully functional
-8. Continue onto [Part 4](#part-34-setting-up-esign) to setup ESign
- 
-### Part [3/4] Setting up ESign
-1. Open ESign and accept the agreements
-2. Go into Settings and click on Get Device UDID
-3. Select allow and then you should be redirected to settings
-4. After opening settings go to General > VPN & Device Management
-5. Install the Query Device UDID profile
-6. You should be redirected back to ESign
-7. Now go down to [Downloads](#downloads), click the link and then go into certificates, download the certificates, and the Certificates should be downloaded
-8. Extract the Certificates.zip and keep in mind the one that corresponds to your ESign app in VPN & Device Management
-9. Go into ESign Settings and click on Import Resources
-10. Find and select the .p12 file you chose back in Step 8 and click on Import
-11. Now go over to AppStore in ESign and click on App Source
-12. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
-13. You now have setup ESign with all sources ready to install apps
-14. Continue onto [Part 4](#part-44-using-esign)
-
-### Part [4/4] Using ESign
-1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in which case you can skip to step 4
-2. Check the download status in the Download tab if downloading from the ESign AppStore
-3. Click on the downloaded IPA and select Import App Library
-4. Your app should now be visible in the Unsigned Apps tab, select unsigned or signed by selecting the bar on top of ESign
-5. Click on the app and select Signature
-6. You can change your app and edit it here
-7. Select Signature and ESign should sign the app using the certificate you selected before
-8. There might be red text saying this certificate is revoked, this is normal! Click on the blue button saying Install, then click Install on the prompt again
-9. The app should be on your homescreen now
-10. Open settings and go to General > VPN & Device Management
-11. Select the app you installed and click on Trust
-12. Click on Allow, after this your device might need to be restarted
-13. If your device was restarted, swipe up and click on Install Profile
-14. The app should now be on your home screen, fully functional
-15. Now read the [Post Install Notes](#post-install-notes) carefully
-
 ### Post Install Notes
 - You cannot use a VPN unless you're using the madNS Configuration Profile
 - You must never disable the Configuration Profile!
