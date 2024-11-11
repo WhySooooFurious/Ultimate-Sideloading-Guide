@@ -40,9 +40,9 @@ The guide is compatible with other sideloading services as long as they rely on 
 
 ## Ultimate Sideloading Guide
 
-[English Tutorial](https://www.youtube.com/watch?v=F4GAGYm1aIQ)
+[English Tutorial] - Outdated(https://www.youtube.com/watch?v=F4GAGYm1aIQ)
 
-[Spanish Tutorial](https://www.youtube.com/watch?v=558O5tu7D1E)
+[Spanish Tutorial] - Outdated (https://www.youtube.com/watch?v=558O5tu7D1E)
 
 ### Which Configuration Profile do I choose?
 If you would like a basic blocking server choose the WSF Configuration Profile
