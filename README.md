@@ -57,7 +57,12 @@ The madNS Configuration Profile supports VPNs, Feather and ChatGPT which can be 
 
 ## Troubleshooting
 
-### Unable to Install? Integrity could not be verified? App is not available? Crashing Apps? Unverified? Crashing on Start?
+### Issues Installing
+- Unverified?
+- Crashing apps?
+- Unable to Install?
+- App is not available?
+- Integrity could not be verified?
 
 You need to follow this [guide](#revoked) or alternatively you can try other download links!
 
