@@ -3,6 +3,8 @@
 ## Updates
 Please join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
 
+We are going to be migrating to our own app, which will automatically be updated remotely for the most part. This means most guides on this main readme.md will be slowly removed.
+
 ## Introduction
 Welcome to my guide on how to sideload on Apple Devices!
 
