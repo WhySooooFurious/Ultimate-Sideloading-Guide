@@ -23,7 +23,7 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 The WhySooooFurious Configuration Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
 
-The (redacted) Configuration Profile simply blocks these Apple Servers instead of redirection. This method also supports VPNs, ChatGPT and Feather properly unlike the WhySooooFurious Configuration Profile
+The madNS Configuration Profile simply blocks these Apple Servers instead of redirection. This method additionally supports VPNs, ChatGPT and Feather properly.
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -43,12 +43,12 @@ The guide is compatible with other sideloading services as long as they rely on 
 [Spanish Tutorial](https://www.youtube.com/watch?v=558O5tu7D1E)
 
 ### Which Configuration Profile do I choose?
-The WSF Configuration Profile is a simple, tried and tested method althought it doesn't support a small amount of features.
+If you would like a basic blocking server choose the WSF Configuration Profile
 
-The other config profile isn't available yet, will be up as some milestones are achieved!
+The madNS Configuration Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
 
 ### Part [1/4] Installing the Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you would like to install, the Update Blocker one blocks iOS updates as well
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you would like to install, the Update Blocker blocks iOS updates as well
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
 4. It should now automatically be enabled, this also installs a Web Clip for easy access to my website
@@ -97,21 +97,20 @@ The other config profile isn't available yet, will be up as some milestones are 
 15. Now read the [Post Install Notes](#post-install-notes) carefully
 
 ### Post Install Notes
-- You cannot use a VPN
+- You cannot use a VPN unless you're using the madNS Configuration Profile
 - You must never disable the Configuration Profile!
-- Don't install Safari extensions!
 - Go into Airplane Mode if you're removing the Profile or switching to another
 - Don't use Nugget or Cowabunga otherwise the Configuration Profile will disappear! There is a [workaround](#using-nugget-or-cowabunga)
 - Restarts can revoke apps on older devices! Put your device in Airplane Mode and turning off WiFi when restarting to be safe!
-- Check for updates periodically!
+- Check for updates and announcements periodically on the [discord](https://discord.gg/rHMa3sMse7)
 
 Not following the guidelines above will make your apps revoked!
 
 ## Troubleshooting
 
-### Unable to Install? Integrity could not be verified? App is not available? Crashing Apps? Unverified?
+### Unable to Install? Integrity could not be verified? App is not available? Crashing Apps? Unverified? Crashing on Start?
 
-You need to follow this [guide](#revoked) or try other download links!
+You need to follow this [guide](#revoked) or alternatively you can try other download links!
 
 ---
 
@@ -124,7 +123,47 @@ You need to follow this [guide](#revoked) or try other download links!
 ## ESign Sources
 My sources for ESign                    
 ###
-    source[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]
+
+https://esign.yyyue.xyz/app.json
+https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
+https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json
+https://qnblackcat.github.io/AltStore/apps.json
+https://randomblock1.com/altstore/apps.json
+https://wuxu1.github.io/wuxu-complete-plus.json
+https://wuxu1.github.io/wuxu-complete.json
+https://ipa.cypwn.xyz/cypwn.json
+https://driftywinds.github.io/AltStore/apps.json
+https://hann8n.github.io/JackCracks/MovieboxPro.json
+https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json
+https://repo.apptesters.org/
+https://aio.yippee.rip/repo.json
+https://community-apps.sidestore.io/sidecommunity.json
+https://raw.githubusercontent.com/arichornloverALT/arichornloveralt.github.io/main/apps2.json
+https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/apps.json
+https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json
+https://qingsongqian.github.io/all.html
+https://tiny.one/SpotC
+https://theodyssey.dev/altstore/odysseysource.json
+https://provenance-emu.com/apps.json
+https://repo.starfiles.co/
+https://ish.app/altstore.json
+https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json
+https://ipa.cypwn.xyz/cypwn_ts.json
+https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/repo.json
+https://altstore.oatmealdome.me/
+https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json
+https://alts.lao.sb
+https://xitrix.github.io/iTorrent/AltStore.json
+https://driftywinds.github.io/repos/esign.json
+https://github.com/khcrysalis/Feather/raw/main/app-repo.json
+https://apps.nabzclan.vip/repos/esign.php
+https://flyinghead.github.io/flycast-builds/altstore.json
+https://altstore.oatmealdome.me
+https://alt.crystall1ne.dev
+https://apps.nabzclan.vip/repos/altstore.php
+https://apps.sidestore.io/
+https://repos.yattee.stream/alt/apps.json
+https://alt.thatstel.la/
 
 ---
 
@@ -134,29 +173,31 @@ My sources for ESign
 
 Q - Can I use a VPN?
 
-A - You can if you're using the NextDNS Configuration Profile
+A - You can if you're utilising the madNS Configuration Profile, follow this [guide](#using-vpns)
 
 -
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable WiFi, or better yet forget your WiFi when rebooting.
+A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and forget Wi-Fi when restarting or shutting down.
 
 -
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! wireguard is not compatible as of yet in progress
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly WireGuard by using this [guide](#using-vpns)
 
 -
 
 ## Miscellaneous Guides
 
 ### Using VPNs
-Note that most free VPNs won't work with this.
+Note that most free VPNs won't let you change DNS settings.
+
+Also note that only the madNS Configuration Profile is compatible with VPNs
 
 #### Method 1
-1, Find your VPN's DNS settings and replace them with (coming soon enough)
+1, Find your VPN's DNS settings and replace them with the following (coming soon)
 
 ### Revoked?
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
@@ -165,12 +206,12 @@ Method 1 should work
 
 Method 2 will completely reset your device and will definitely work
 
-You must not use your backups with Method 2
+You must not use any backups with Method 2
 
 #### Method 1
 1. Remove the Configuration Profile and uninstall ESign
 2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is heavily recommended
+3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is required
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
@@ -189,11 +230,11 @@ Only the macOS version of Nugget is compatible with this guide. Not the app itse
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
 2. Remove all Configuration Profiles you have. You don't have to delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
-4. Continue onto the [Part 2](#installing-the-wsf-configuration-profile)
+4. Continue onto the [Part 2](#installing-the-configuration-profile)
 
 
-##### Part [2/2] Installing the WSF Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you had previously
+##### Part [2/2] Installing the Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you had been using
 2. Click on Download, and the profile should be downloaded to your Downloads folder
 6. Download Apple Configurator from the Mac App Store
 7. Make sure your device is connected to your macOS device
@@ -209,6 +250,9 @@ For introducing me to the whole method and taking the time to teach me!
 @timi2506
 For creating wonderful icons for the configuration profile and for making the Nothing testing app!
 
+@TheInterasting
+For invaluable help with the Server, Beta Testing and dealing with my insanity!
+
 ### Partners
 
 @pollacongafes
@@ -216,4 +260,3 @@ For the Spanish tutorial!
 
 @Techjunkie_Aman
 For the English tutorial!
-
