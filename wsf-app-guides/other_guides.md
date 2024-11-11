@@ -37,11 +37,11 @@ Only the macOS version of Nugget is compatible with this guide. Not the app itse
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
 2. Remove all Configuration Profiles you have. You don't have to delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
-4. Continue onto the [Part 2](#installing-the-wsf-configuration-profile)
+4. Continue onto the [Part 2](#installing-the-configuration-profile)
 
 
-##### Part [2/2] Installing the WSF Configuration Profile
-1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you had previously
+##### Part [2/2] Installing the Configuration Profile
+1. Go down to [Downloads](#downloads) and click on the link, then Configuration Profiles and then select the Configuration Profile you had been using
 2. Click on Download, and the profile should be downloaded to your Downloads folder
 6. Download Apple Configurator from the Mac App Store
 7. Make sure your device is connected to your macOS device
