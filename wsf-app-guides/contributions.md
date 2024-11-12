@@ -6,6 +6,9 @@ For introducing me to the whole method and taking the time to teach me!
 @timi2506
 For creating wonderful icons for the configuration profile and for making the Nothing testing app!
 
+@TheInterasting
+For invaluable help with setting up the server, beta testing everything and for dealing with my insanity!
+
 ### Partners
 
 @pollacongafes
