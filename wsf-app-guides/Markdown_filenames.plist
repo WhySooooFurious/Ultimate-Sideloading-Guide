@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>file_title</key>
-		<string>Announcements and News</string>
+		<string>Announcements</string>
 		<key>file_name</key>
 		<string>news.md</string>
 	</dict>
@@ -16,7 +16,19 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Which Profile do I choose?</string>
+		<string>How does this work?</string>
+		<key>file_name</key>
+		<string>how_does_this_work.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Before we start</string>
+		<key>file_name</key>
+		<string>device_compatibility.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Which Profile do i choose?</string>
 		<key>file_name</key>
 		<string>configuration_profile_options.md</string>
 	</dict>
