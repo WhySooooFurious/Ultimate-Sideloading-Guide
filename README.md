@@ -1,3 +1,3 @@
-# Won't be working for now. Migrating to our offical app!
+# Won't be working for now.
 
-Please join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
+# Please join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
