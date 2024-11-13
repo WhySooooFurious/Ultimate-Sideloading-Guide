@@ -66,8 +66,8 @@ Additionally, the madNS Config Profile support Ad-Blocking and Update Blocking
 You need to follow this [guide](#revoked) or alternatively you can try other download links!
 ---
 ## Downloads
-### [All Downloads!](https://whysoooofurious.netlify.app/downloads)
-               
+###
+Download links are in the #links channel in the Discord [Server](https://discord.gg/3nkzu5dk2X)
 ---
 ## FAQ
 -
