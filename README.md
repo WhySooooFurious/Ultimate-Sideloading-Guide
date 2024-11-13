@@ -2,6 +2,8 @@
 
 # THE MADNS IS NOT AVAILABLE CURRENTLY! EVEN THOUGH THE GUIDE REFERS TO IT
 
+# This guide nor the app guides are not finished! Please proceed with caution!
+
 ## Introduction
 Welcome to my guide on how to sideload on Apple Devices!
 Some of the advantages with using this method:
