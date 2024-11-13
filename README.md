@@ -49,7 +49,7 @@ Additionally, the madNS Config Profile support Ad-Blocking and Update Blocking
 ### Part [2/2] Installing the WSF Portal App
 1. Go down to [Downloads](#downloads) and click on the link, then WSF Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
 3. Click on install once the popup comes up
-4. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
+4. Open settings and go to General > VPN & Device Management > (should show the WSF Portal app under the link you picked back in Step 1.)
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. WSF Portal should now be on your home screen, fully functional
@@ -89,13 +89,13 @@ You must not use your backups with Method 2
 
 
 #### Method 1
-1. Remove the Configuration Profile and uninstall ESign
+1. Remove the Configuration Profile and uninstall everything you've installed with this method
 2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
 3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is heavily recommended
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
 #### Method 2
-1. Remove the Configuration Profile and uninstall ESign
+1. Remove the Configuration Profile and uninstall everything you've installed with this method
 2. Follow this [guide](https://shorturl.at/JKnhG)
 3. Then follow Part 1 of the guide to prevent revokes
