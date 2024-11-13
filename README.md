@@ -93,7 +93,7 @@ You must not use your backups with Method 2
 #### Method 1
 1. Remove the Configuration Profile and uninstall everything you've installed with this method
 2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is heavily recommended
+3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is required!
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
