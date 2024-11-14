@@ -1,6 +1,6 @@
 
 
-# Join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
+# Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
 # THE MADNS IS NOT AVAILABLE CURRENTLY!
 
@@ -19,7 +19,7 @@ Some of the advantages with using this method:
 - No Privacy Concerns!
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox
-If you have any issues, requests or ideas please make an issue here on GitHub or contact me on Discord [here](https://discord.gg/rHMa3sMse7)
+If you have any issues, requests or ideas please make an issue here on GitHub
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using any of the two profiles below,
@@ -71,7 +71,7 @@ You need to follow this [guide](#revoked) or alternatively you can try other dow
 ---
 ## Downloads
 ###
-Link is in the #links channel in the Discord [Server](https://discord.gg/3nkzu5dk2X)
+Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
 
 ---
 ## FAQ
