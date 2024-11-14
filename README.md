@@ -17,6 +17,7 @@ Some of the advantages with using this method:
 - No Privacy Concerns!
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox
+
 If you have any issues, requests or ideas please make an issue here on GitHub
 
 ## How does this method work?
