@@ -33,11 +33,11 @@ The guide is compatible with other sideloading services as long as they rely on 
 
 ### Which Config Profile do I choose?
 The WSF Config Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
-Additionally, the WSF Config profile supports the following:
+Additionally, the WSF Config profile supports the following configurations:
 - iOS Update Blocking
 
-The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
-Additionally, the madNS Config Profile support the following: 
+The madNS Config Profile blocks Apple Certificate servers using NextDNS supports VPNs, Feather and ChatGPT which can be a deciding factor.
+Additionally, the madNS Config Profile support the following configurations:
 - Ad-Blocking
 - iOS Update Blocking
 
