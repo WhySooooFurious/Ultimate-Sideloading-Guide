@@ -91,7 +91,7 @@ A - Some users have found that on older devices, your apps might revoke, enable 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, guide is in the Portal app
 
---
+---
 
 ### Revoked?
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
