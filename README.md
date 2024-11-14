@@ -1,5 +1,3 @@
-
-
 # Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
 # THE MADNS IS NOT AVAILABLE CURRENTLY!
@@ -22,9 +20,7 @@ Some of the advantages with using this method:
 If you have any issues, requests or ideas please make an issue here on GitHub
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using any of the two profiles below,
-
-The madNS Config Profile simply blocks these Apple Servers instead of redirection. This method additionally supports VPNs, ChatGPT and Feather properly.
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -44,6 +40,8 @@ Additionally, the WSF Config profile supports Update Blocking
 
 The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
 Additionally, the madNS Config Profile support Ad-Blocking and Update Blocking
+
+Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
 
 ### Part [1/2] Installing the Config Profile
 1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
@@ -69,17 +67,17 @@ Additionally, the madNS Config Profile support Ad-Blocking and Update Blocking
 - Integrity could not be verified?
 You need to follow this [guide](#revoked) or alternatively you can try other download links!
 ---
+
 ## Downloads
 ###
 Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
 
 ---
 ## FAQ
-
 ---
 
 Q - Can I use a VPN?
-A - You can if you're utilising the madNS Config Profile, guide is in the Portal app
+A - You can if you're utilising the madNS Config Profile, make sure to set it up first! Guide is in the Portal app!
 
 ---
 
@@ -89,7 +87,7 @@ A - Some users have found that on older devices, your apps might revoke, enable 
 ---
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, guide is in the Portal app
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, guide is in the Portal app!
 
 ---
 
@@ -104,13 +102,14 @@ You must not use your backups with Method 2
 
 
 #### Method 1
-1. Remove the Configuration Profile and uninstall everything you've installed with this method
-2. Back up your device, here is a [guide](https://shorturl.at/fnR5J)
-3. After backing up, reset your device, here is a [guide](https://shorturl.at/JKnhG), iTunes restore in Recovery Mode or DFU mode is required!
+1. Remove the Config Profile and uninstall every sideloader you have
+2. Back up your device with iTunes
+3. After backing up, reset your device using iTunes restore in Recovery Mode or DFU mode is heavily recommended
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
 #### Method 2
-1. Remove the Configuration Profile and uninstall everything you've installed with this method
-2. Follow this [guide](https://shorturl.at/JKnhG)
+1. Remove the Config Profile and uninstall every sideloader you have
+2. reset your device using iTunes using Recovery Mode or DFU mode
+
 3. Then follow Part 1 of the guide to prevent revokes
