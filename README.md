@@ -86,7 +86,7 @@ A - You can if you're utilising the madNS Config Profile, make sure to set it up
 ---
 
 Q - Will a restart bypass this and revoke my apps?
-A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and forget Wi-Fi when restarting or shutting down.
+A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable Wi-Fi when restarting or shutting down.
 
 ---
 
