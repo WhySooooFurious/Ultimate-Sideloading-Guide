@@ -10,6 +10,6 @@
 
 - Some users have found that on older devices, your apps might revoke when restarting! Disable WiFi and enable Airplane Mode when wanting to restart!
 
-- Check for updates and announcements in Portal periodically!
+- Check for Updates, Announcements and Certificate Information in Portal periodically!
 
 Not following the guidelines above will cause your apps to be revoked!

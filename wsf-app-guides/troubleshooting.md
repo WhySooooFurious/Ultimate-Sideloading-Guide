@@ -15,4 +15,4 @@ You must have either used Cowabunga or Nugget after your installation, Those too
 Profiles to go missing.
 
 You will need to reset your entire device or restore from an older backup in which you have not
-uses those tools.
+used those tools.
