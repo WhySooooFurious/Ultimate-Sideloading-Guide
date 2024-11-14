@@ -8,7 +8,7 @@ A - You can if you're using the madNS Config Profile and you're using the VPN gu
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable WiFi, or better yet forget your WiFi when rebooting.
+A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode
 
 ---
 

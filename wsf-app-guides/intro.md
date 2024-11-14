@@ -19,6 +19,6 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - This will work as long as you read and do all of the steps required
 - WhySooooFurious = WSF
 
-### Compatibility
+## Compatibility
 This should work for all iOS and iPadOS devices on the latest versions.
 The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
