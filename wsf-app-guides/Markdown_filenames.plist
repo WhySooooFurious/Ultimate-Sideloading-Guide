@@ -10,6 +10,12 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
+		<string>Announcements</string>
+		<key>file_name</key>
+		<string>announcements.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
 		<string>Introduction</string>
 		<key>file_name</key>
 		<string>intro.md</string>
