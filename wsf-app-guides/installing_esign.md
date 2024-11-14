@@ -1,7 +1,7 @@
 ### Part [1/3] Installing ESign
 1. Go to the Downloads tab and click on any of the ESign links, keep in mind if none of them work you need to follow the revoked guide
 3. Click on install once the popup comes up
-4. Open settings and go to General > VPN & Device Management > (should show the ESign app under the link you picked back in Step 1.)
+4. Open settings and go to General > VPN & Device Management > (should show the ESign app under the certificate you picked with Portal)
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. ESign should now be on your home screen, fully functional

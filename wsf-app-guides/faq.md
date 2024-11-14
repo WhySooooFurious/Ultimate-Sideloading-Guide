@@ -2,7 +2,7 @@
 
 Q - Can I use a VPN?
 
-A - You can if you're using the madNS Config Profile and you're using the VPN guide over in Miscellaneous Guides.
+A - You can if you're using the madNS Config Profile, make sure you're using the VPN guide over in Miscellaneous Guides.
 
 ---
 
