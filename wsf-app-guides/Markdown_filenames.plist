@@ -16,6 +16,12 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
+		<string>Frequently Asked Questions</string>
+		<key>file_name</key>
+		<string>faq.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
 		<string>Which Profile do I choose?</string>
 		<key>file_name</key>
 		<string>choosing_config_profile.md</string>
@@ -49,12 +55,6 @@
 		<string>Sources</string>
 		<key>file_name</key>
 		<string>sources.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
-		<string>Frequently Asked Questions</string>
-		<key>file_name</key>
-		<string>faq.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
