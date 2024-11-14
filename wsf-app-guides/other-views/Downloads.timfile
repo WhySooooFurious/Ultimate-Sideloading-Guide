@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Downloads</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000; /* Black background */
+            color: #FFFFFF; /* White text */
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #FFFFFF; /* White headers */
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+        h3 {
+            font-size: 1.2em;
+            margin-top: 15px;
+        }
+        a {
+            color: #007AFF; /* iOS Blue for hyperlinks */
+            text-decoration: none;
+            word-wrap: break-word;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .bold-line {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Downloads</h1>
+
+    <h2>Configuration Profiles</h2>
+    <p><span class="bold-line">WSF Configuration Profile</span> = <a href="https://whysoooofurious.netlify.app/files/ConfigurationProfiles/WSF-CP.mobileconfig">Download</a></p>
+    <p><span class="bold-line">WSF Configuration Profile + Update Blocker</span> = <a href="https://whysoooofurious.netlify.app/files/ConfigurationProfiles/WSF-CP-UB.mobileconfig">Download</a></p>
+
+    <h2>ESign</h2>
+    <p><span class="bold-line">Chongqing</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/Chongqing/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Continent</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/Continent/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Henan</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/Henan/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Sunshine</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/Sunshine/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">VietnamPost</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/ESign/VietnamPost/manifest.plist">Download Manifest</a></p>
+
+    <h2>Feather</h2>
+    <p><span class="bold-line">Chongqing</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/Chongqing/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Continent</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/Continent/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Henan</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/Henan/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">Sunshine</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/Sunshine/manifest.plist">Download Manifest</a></p>
+    <p><span class="bold-line">VietnamPost</span> = <a href="itms-services://?action=download-manifest&url=https://whysoooofurious.netlify.app/files/Feather/VietnamPost/manifest.plist">Download Manifest</a></p>
+
+    <h2>Certificates</h2>
+    <p><span class="bold-line">ESign Certificates</span> = <a href="https://whysoooofurious.netlify.app/files/Certificates/ESign-Certificates.zip">Download</a></p>
+    <p><span class="bold-line">Certificates</span> = <a href="https://whysoooofurious.netlify.app/files/Certificates/Certificates.zip">Download</a></p>
+
+    <h2>Dylibs</h2>
+    <p><span class="bold-line">Dylibs</span> = <a href="https://files.catbox.moe/omww3h.zip">Download</a></p>
+</body>
+</html>
