@@ -4,7 +4,7 @@
 
 # THE MADNS IS NOT AVAILABLE CURRENTLY!
 
-# This guide nor the app guides are not finished! Please proceed with caution!
+# The app guides are updated! There may still be some innaccuracies!
 
 # Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
 
