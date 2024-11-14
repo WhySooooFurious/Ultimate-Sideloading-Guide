@@ -2,11 +2,11 @@
 
 # Join this Discord [server](https://discord.gg/rHMa3sMse7) for updates regarding everything!
 
-# Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
-
 # THE MADNS IS NOT AVAILABLE CURRENTLY!
 
 # This guide nor the app guides are not finished! Please proceed with caution!
+
+# Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
 
 ## Introduction
 Welcome to my guide on how to sideload on Apple Devices!
