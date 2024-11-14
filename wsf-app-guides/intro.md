@@ -13,8 +13,6 @@ If you have any issues, requests or ideas please make an issue here on GitHub
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using any of the two profiles below,
 
-The madNS Config Profile simply blocks these Apple Servers instead of redirection. This method additionally supports VPNs, ChatGPT and Feather properly.
-
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
 - If you are revoked you will need to follow this [guide](#revoked)
