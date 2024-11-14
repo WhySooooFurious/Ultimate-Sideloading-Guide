@@ -2,7 +2,7 @@
 
 Q - Can I use a VPN?
 
-A - You can if you're using the NextDNS Configuration Profile
+A - You can if you're using the madNS Config Profile and you're using the VPN guide over in Miscellaneous Guides
 
 ---
 
@@ -14,6 +14,6 @@ A - Some users have found that on older devices, your apps might revoke, enable 
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard with the guide here [
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard with the VPN guide over in Miscellaneous Guides
 
 ---

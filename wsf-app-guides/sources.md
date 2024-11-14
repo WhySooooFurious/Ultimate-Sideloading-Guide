@@ -1,3 +1,3 @@
-Sources are not currently available, they will be available in a very short while
+Sources are not currently available, they will be available in a very while
 
-Check the discord for updates.
+Meanwhile you can check the Discord for the sources list

@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>file_title</key>
-		<string>Announcements</string>
+		<string>Announcements and news</string>
 		<key>file_name</key>
 		<string>news.md</string>
 	</dict>
@@ -22,7 +22,7 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Installing the Config Profile?</string>
+		<string>Installing the Config Profile</string>
 		<key>file_name</key>
 		<string>installing_config_profile.md</string>
 	</dict>
@@ -52,7 +52,7 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Frequently asked questions</string>
+		<string>Frequently Asked Questions</string>
 		<key>file_name</key>
 		<string>faq.md</string>
 	</dict>

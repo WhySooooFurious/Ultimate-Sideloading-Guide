@@ -11,9 +11,9 @@
 7. Now go to the Downloads tab, and on Certificates, download the Certificates, and the Certificates.zip should be downloaded
 8. Open ESign and click on import resources and import the Certificates.zip
 9. Go to the File tab in ESign and click on the Certificates.zip and select unzip
-11. Find and select the .p12 file you chose back in Step 8 and click on Import, the password is WSF
+11. Find and select the .p12 file you chose back in Step 8 and click on Import, the password is "WSF"
 12. Now go over to AppStore in ESign and click on App Source
-13. Click on the plus icon and paste in the sources from [here](#esign-sources), click on add all
+13. Click on the plus icon and paste in the sources from Sources, click on add all
 14. You now have setup ESign with all sources ready to install apps
 
 ### Part [3/3] Using ESign

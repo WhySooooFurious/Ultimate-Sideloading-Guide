@@ -1,4 +1,4 @@
-- You cannot use a VPN unless you're using the madNS Config Profile for which you need to follow the VPN Guide
+- You cannot use a VPN unless you're using the madNS Config Profile for which you need to follow the VPN Guide in the Miscellaneous section
 - You must never disable the Config Profile!
 - Go into Airplane Mode if you're switching to another Config Profile
 - Don't use Nugget or Cowabunga otherwise the Config Profile will disappear and possibly not work! There is a [workaround](#using-nugget-or-cowabunga)
