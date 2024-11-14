@@ -75,6 +75,7 @@ Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCB
 
 ---
 ## FAQ
+
 -
 Q - Can I use a VPN?
 A - You can if you're utilising the madNS Config Profile, guide is in the Portal app
