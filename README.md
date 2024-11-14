@@ -1,7 +1,5 @@
 # Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
-# THE MADNS IS NOT AVAILABLE CURRENTLY!
-
 # Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
 
 ## Introduction
@@ -31,7 +29,7 @@ By using leaked business enterprise certificates, We can sign apps using their c
 This should work for all iOS and iPadOS devices on the latest versions.
 The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
-# Starting the guide!
+## Starting the guide!
 
 ### Which Config Profile do I choose?
 The WSF Config Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
