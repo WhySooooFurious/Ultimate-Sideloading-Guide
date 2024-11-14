@@ -74,7 +74,7 @@ You need to follow this [guide](#revoked) or alternatively you can try other dow
 
 ## Downloads
 ###
-Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
+Download Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
 
 ---
 ## FAQ
