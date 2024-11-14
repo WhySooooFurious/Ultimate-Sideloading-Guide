@@ -1,7 +1,11 @@
 ## Issues With Installing?
+
 - Unverified?
+
 - Crashing Apps? 
+
 - App is not available? 
+
 - Integrity could not be verified? 
 
 You need to follow the revoked guide over in Miscellaneous Guides.
