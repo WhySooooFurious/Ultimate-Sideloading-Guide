@@ -1,5 +1,3 @@
-# Certificate Information:
-
 # Continent:
 **Permissions**:
 Push Notifications: 🟢
