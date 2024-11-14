@@ -6,3 +6,5 @@ The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a decid
 Additionally, the madNS Config Profile support the following: 
 - Ad-Blocking
 - iOS Update Blocking
+
+Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.

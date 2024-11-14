@@ -8,10 +8,11 @@ Some of the advantages with using this method:
 - No Privacy Concerns!
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox
-If you have any issues, requests or ideas please make an issue here on GitHub
+
+If you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using any of the two profiles below,
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -20,5 +21,4 @@ By using leaked business enterprise certificates, We can sign apps using their c
 - WhySooooFurious = WSF
 
 ## Compatibility
-This should work for all iOS and iPadOS devices on the latest versions.
-The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+This should work for all iOS and iPadOS devices on the latest versions. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
