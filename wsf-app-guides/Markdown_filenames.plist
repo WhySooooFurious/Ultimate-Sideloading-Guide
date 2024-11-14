@@ -4,9 +4,9 @@
 <array>
 	<dict>
 		<key>file_title</key>
-		<string>Announcements and News</string>
+		<string>Announcements</string>
 		<key>file_name</key>
-		<string>news.md</string>
+		<string>announcements.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
