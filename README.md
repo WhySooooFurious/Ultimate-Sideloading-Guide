@@ -18,10 +18,10 @@ Some of the advantages with using this method:
 - Takes 5 Minutes to Setup!
 - Compatible with Scarlet/Feather/ESign/GBox
 
-If you have any issues, requests or ideas please make an issue here on GitHub
+If you have any issues, requests or ideas please make an issue here on GitHub.
 
 ## How does this method work?
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method
+By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 ## Before we start
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
@@ -37,10 +37,13 @@ The guide is compatible with other sideloading services as long as they rely on 
 
 ### Which Config Profile do I choose?
 The WSF Config Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
-Additionally, the WSF Config profile supports Update Blocking
+Additionally, the WSF Config profile supports the following:
+- iOS Update Blocking
 
 The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
-Additionally, the madNS Config Profile support Ad-Blocking and Update Blocking
+Additionally, the madNS Config Profile support the following: 
+- Ad-Blocking
+- iOS Update Blocking
 
 Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
 
@@ -103,14 +106,13 @@ You must not use your backups with Method 2
 
 
 #### Method 1
-1. Remove the Config Profile and uninstall every sideloader you have
+1. Remove the Config Profile and uninstall every app you've installed
 2. Back up your device with iTunes
 3. After backing up, reset your device using iTunes restore in Recovery Mode or DFU mode is heavily recommended
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
 #### Method 2
-1. Remove the Config Profile and uninstall every sideloader you have
-2. reset your device using iTunes using Recovery Mode or DFU mode
-
+1. Remove the Config Profile and uninstall every app you've installed
+2. Reset your device using iTunes using Recovery Mode or DFU mode
 3. Then follow Part 1 of the guide to prevent revokes
