@@ -2,7 +2,31 @@
 Note that most free VPNs won't work with this.
 
 ### Method 1
-1, Find your VPN's DNS settings and replace them with (madns coming soon)
+1. Find your VPN's DNS settings and replace them with the following information if applicable:
+
+#### madNS Config Profile:
+DNS Servers:
+
+45.90.28.21
+45.90.30.21
+
+#### madNS Config Profile + Update Blocker:
+DNS Servers:
+
+45.90.28.210
+45.90.30.210
+
+#### madNS Config Profile + Ad-Blocker:
+DNS Servers:
+
+45.90.28.104
+45.90.30.104
+
+#### madNS Config Profile + Update Blocker + Ad-Blocker:
+DNS Servers:
+
+45.90.28.239
+45.90.30.239
 
 ## Revoked?
 So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
