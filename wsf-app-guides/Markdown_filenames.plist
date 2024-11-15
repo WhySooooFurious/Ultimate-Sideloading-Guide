@@ -4,15 +4,15 @@
 <array>
 	<dict>
 		<key>file_title</key>
-		<string>Certificate Information</string>
-		<key>file_name</key>
-		<string>certificates.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Announcements</string>
 		<key>file_name</key>
 		<string>announcements.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Certificate Informations</string>
+		<key>file_name</key>
+		<string>certificates.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
@@ -67,6 +67,18 @@
 		<string>Miscellaneous Guides</string>
 		<key>file_name</key>
 		<string>misc_guides.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>VPN Guide</string>
+		<key>file_name</key>
+		<string>vpn.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Revoked Guide</string>
+		<key>file_name</key>
+		<string>revoked.md</string>
 	</dict>
 </array>
 </plist>
