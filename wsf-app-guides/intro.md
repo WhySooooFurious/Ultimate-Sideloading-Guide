@@ -47,12 +47,12 @@ A - You can if you're using the madNS Config Profile, make sure you've followed 
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode.
+A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode when restarting or shutting down.
 
 --
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard make sure you've followed the VPN Guide.
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard, make sure you've followed the VPN Guide.
 
 --
