@@ -1,6 +1,6 @@
-This is used for when you want to switch Config Profiles from one to another and vice versa
+Wenn du Konfigurationsprofile wechseln möchtest befolge diese Guide
 
-### [Part [1/1] Switching Config Profiles](accent://)
-1. Enable Airplane Mode
-3. Switch Config Profile in DNS Settings
-3. Disable Airplane Mode
+### [Teil [1/1] Wechseln der Konfigurationsprofile](accent://)
+1. Schalte Flugmodus an
+2. Wechsel das Konfigurationsprofil in den DNS Einstellungen
+3. Schalte Flugmodus aus

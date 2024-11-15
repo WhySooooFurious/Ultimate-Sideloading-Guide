@@ -1,25 +1,27 @@
 ### [WSF Config Profile](accent://)
-Doesn't support VPNs, Feather and ChatGPT.
+
+Das WSF Config Profile leitet Apple-Server auf https://localhost.direct um (was dein eigenes lokales Netzwerk ist), wodurch Apple daran gehindert wird, dein Gerät wegen des widerrufenen Zertifikats zu kontaktieren. Zusätzlich unterstützt das WSF Config Profile folgendes:
+	•	iOS-Update-Blockierung
 
 ### [madNS Config Profile](accent://)
-Supports VPNs, Feather and ChatGPT.
 
-### [What does Update Blocker or Ad-Blocker mean?](accent://)
-Update Blocker: Blocks Apple OTA Updates
+Das madNS Config Profile unterstützt VPNs, Feather und ChatGPT, was ein entscheidender Faktor sein kann. Zusätzlich unterstützt das madNS Config Profile folgendes:
+	•	Ad-Blocking
+	•	iOS-Update-Blocking
 
-Ad-Blocker: Blocks most online Ads and Trackers
+Stelle sicher, dass während der Installation keine VPNs aktiviert sind, selbst wenn du das madNS Config Profile verwendest.
 
-Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile as you need to set it up using the VPN Guide later
+
 
 ## [Installing the Config Profile](accent://)
-1. Go to the downloads tab then select the Config Profile you would like to install based on what you want
+1.	Gehe zum Download-Tab und wähle das Config Profile aus, das du basierend auf deinen Wünschen installieren möchtest.
 
-2. Click on Download, and the profile should be imported into settings automatically
+2.	Klicke auf Download, und das Profil sollte automatisch in die Einstellungen importiert werden.
 
-3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+3.	Öffne nun die Einstellungen und gehe zu Allgemein > VPN & Geräteverwaltung und installiere das heruntergeladene Profil.
 
-4. It should now automatically be enabled
+4.	Es sollte nun automatisch aktiviert sein.
 
-5. If you're using the madNS Config Profile and looking to use a VPN alongside, make sure to follow the VPN guide
+5.	Wenn du das madNS Config Profile verwendest und einen VPN gleichzeitig nutzen möchtest, stelle sicher, dass du der VPN-Anleitung folgst.
 
-6. Now you can continue on to install any sideloaders
+6.	Jetzt kannst du mit der Installation von Sideloadern fortfahren.

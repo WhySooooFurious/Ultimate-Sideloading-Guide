@@ -1,19 +1,21 @@
---
-
-Q - Can I use a VPN?
-
-A - You can if you're using the madNS Config Profile, make sure you've followed the VPN Guide.
+### [FAQ](accent://)
 
 --
 
-Q - Will a restart bypass this and revoke my apps?
+Q - Kann ich ein VPN verwenden?
 
-A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode.
+A - Du kannst es verwenden, wenn du das madNS Config Profile nutzt. Stelle sicher, dass du der VPN-Anleitung gefolgt bist.
 
 --
 
-Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
+Q - Wird ein Neustart dies umgehen und meine Apps widerrufen?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard make sure you've followed the VPN Guide.
+A - Einige Benutzer haben herausgefunden, dass auf älteren Geräten deine Apps widerrufen werden könnten. Deaktiviere WiFi und aktiviere den Flugmodus, wenn du neu startest oder das Gerät herunterfährst.
+
+--
+
+Q - Werden Dienste wie AltStore, Sideloadly und Sidestore diese Anleitung beeinflussen?
+
+A - Nein, die genannten Dienste verwenden Entwickler-Signaturen anstelle von Enterprise-Signaturen, daher kannst du sie problemlos zusammen verwenden! Du musst jedoch SideStore’s WireGuard einrichten, stelle sicher, dass du der VPN-Anleitung folgst.
 
 --

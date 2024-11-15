@@ -1,53 +1,53 @@
 ### [Continent:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablauf**: 
 
 13/06/2025: ✅
 
 ### [NetworkTech:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push Benachrichtigungen: 🟢
 
-**Expiration**:
+**Ablauf**:
 
 12/03/2025: ✅
 
 ### [Sunshine 1:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablauf**: 
 
 13/09/2025: ✅
 
 ### [Sunshine 2:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablauf**: 
 
 6/06/2025: ✅
 
 ### [Sunshine 3:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🔴
+Push Benachrichtigungen: 🔴
 
-**Expiration**:
+**Ablauf**:
 
 05/06/2025: ✅ 
 
 ### [SunLife:](accent://)
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🔴
+Push Benachrichtigungen: 🔴
 
-**Expiration**:
+**Ablauf**:
 
 27/03/2025: ✅

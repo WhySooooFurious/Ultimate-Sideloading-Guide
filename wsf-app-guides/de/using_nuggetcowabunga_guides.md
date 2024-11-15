@@ -1,41 +1,37 @@
-All Configuration Profiles disappear when using Nugget or Cowabunga. This can easily be bypassed by following the steps below.
+Alle Konfigurationsprofile werden bei der Nutzung von Cowabunga oder Nugget entfernt, das kann umgangen werden indem du folgende Schritte befolgst:
 
-### [Fix for macOS:](accent://)
-Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget or Cowabunga!
+### [Fix für macOS:](accent://)
+Nur die macOS Version von Nugget funktioniert mit dieser Anleitung. Nicht die App selbst! Du musst die Anleitung jedes mal wenn du Nugget oder Cowabunga nutzen willst befolgen.
+#### [Teil [1/2] Nutzung von Nugget oder Cowabunga](accent://)
+1. Vergesse alle WLAN Netzwerke, schalte Mobile Daten aus und schalte den Flugmodus an
+2. Entferne derzeit installierten Konfigurationsprofile. Du musst keine deiner Apps löschen.
+3. Jetzt kannst du Nugget oder Cowabunga ohne Probleme nutzen!
+Fahre mit Teil 2 fort
 
-#### [Part [1/2] Using Nugget or Cowabunga](accent://)
-1. Forget all WiFi networks, disable Cellular Networks and put your device in Airplane Mode
-2. Remove all Configuration Profiles you have. You don't have to delete your installed apps
-3. Now you can use Nugget or Cowabunga as you please.
-4. Continue onto Part 2
+#### [Teil [2/2] Installation der Konfigurationsprofile](accent://)
+1. Öffne die Download Seite am Mac und lade dein Konfigurationsprofil erneut herunter, es sollte in deinem Download Ordner erscheinen
+2. Lade Apple Configurator kostenlos aus dem App Store
+3. Verbinde dein iOS Gerät mit deinem Mac
+4. Tippe auf "Vertrauen" und Gib wenn nötig das Gerätepasswort ein
+6. Finde dein Gerät in Apple Configurator, rechts-klicke es und drücke: Hinzufügen > Konfigurationsprofile
+7. Wähle das heruntergeladene Profil aus und es sollte automatisch heruntergeladen werden!
 
-
-#### [Part [2/2] Installing the Configuration Profile](accent://)
-1. Go onto the website on your macOS device and click on the link, then Configuration Profiles and then select the Configuration Profile you had been using
-2. Click on Download, and the profile should be downloaded to your Downloads folder
-3. Download Apple Configurator from the Mac App Store
-4. Make sure your device is connected to your macOS device
-5. Input your password on your device if it requires it
-6. Find your device, right click and select Add > Profiles
-7. Select the Configuration Profile and then it should be installed and activated automatically
-
-### [Fix for Windows:](accent://)
-Only the Windows version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget or Cowabunga!
+### [Fix für Windows:](accent://)
+Nur die Windows Version von Nugget funktioniert mit dieser Anleitung. Nicht die App selbst! Du musst die Anleitung jedes mal wenn du Nugget oder Cowabunga nutzen willst befolgen.
 
 #### [Part [1/2] Using Nugget or Cowabunga](accent://)
-1. Install Documents by Readdle on your Apple Device and open the app once
-2. Forget all WiFi networks, disable Cellular Networks and put your device in Airplane Mode
-3. Remove all Config Profiles that you have
-4. Now you can use Nugget or Cowabunga as you please
-5. Continue onto Part 2
+1. Lade "Dokumente" von Readdle auf dein iOS Gerät und öffne die App einmal
+2. Vergesse alle WLAN Netzwerke, schalte Mobile Daten aus und schalte den Flugmodus an
+3. Entferne derzeit installierten Konfigurationsprofile. Du musst keine deiner Apps löschen.
+4. Jetzt kannst du Nugget oder Cowabunga ohne Probleme nutzen!
+Fahre mit Teil 2 fort
 
 #### [Part [2/2] Installing the Configuration Profile](accent://)
-1. Go onto the website on your Windows device and click on the link, then Config Profiles and then select the Config Profile you had been using
-2. Click on Download, and the profile should be downloaded to your Downloads folder
-3. Download iTunes on your Windows machine
-4. Make sure your device is connected to your Windows device
-5. Input your password on your device if it requires it
-6. Click on the device icon in the top left and navigate to Files
-7. Find Documents by Readdle and drag the Config Profile inside
-8. Open Documents by Readdle on your phone and click on the Config Profile, it should now be imported into your settings
-9. Go into Settings > General > VPN & Device Management and install the Config Profile, which then should be installed and activated normally
+1. Öffne die Download Seite an deinem Computer und lade dein Konfigurationsprofil erneut herunter, es sollte in deinem Download Ordner erscheinen
+2. Installiere und öffne iTunes auf deinem Computer
+3. Verbinde dein iOS Gerät mit deinem Mac
+4. Tippe auf "Vertrauen" und Gib wenn nötig das Gerätepasswort ein
+6. Klicke auf dein Gerät oben Links und klicke dann auf "Dateien"
+7. Finde "Dokumente" von Readdle und ziehe das heruntergeladene Konfigurationsprofil hinein
+8. Öffne "Dokumente" von Readdle auf dem Gerät und tippe das Konfigurationsprofil an, es wird nun installiert
+9. Öffne Einstellungen und tippe auf "Profil geladen" oben unter deinem Namen um die Installation abzuschließen

@@ -1,15 +1,15 @@
-- Unverified?
+- Unverifiziert?
 
-- Crashing Apps? 
+- Crashende Apps? 
 
-- App is not available? 
+- App nicht verfügbar? 
 
-- Integrity could not be verified? 
+- Integrität konnte nicht überprüft werden? 
 
-You need to follow the Revoked Guide.
+Du musst der "Revoked" Guide folgen!
 
-### [Config Profile Disappeared?](accent://)
+### [Konfigurationsprofil verschwunden?](accent://)
 
-You must have either used Cowabunga or Nugget after your installation, Those tools intefere with the guide and cause Config Profiles to go missing.
+Du hast warscheinlich entweder Cowabunga oder Nugget nach der Installation verwendet, diese Tools stören das Profil und könnten dazu führen das es verschwindet.
 
-You will need to reset your entire device or restore from an older backup in which you have not used those tools.
+Du musst dein Gerät zurücksetzen oder von einem älteren Backup wiederherstellen, welches du gemacht hast vor der Nutzung der Tools

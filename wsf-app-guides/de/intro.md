@@ -1,70 +1,69 @@
-Welcome to my guide on how to sideload on Apple Devices!
-Some of the advantages with using this method:
+Wilkommen zur WSF Sideloading Guide für Apple Geräte!
+Vorteile dieser Methode:
+- Kostenlos
 
-- Free!
+- Kein PC benötigt
 
-- No PC!
+- Einfach zu nutzen!
 
-- Easy to use!
+- Kein App Limit!
 
-- No App Limits!
+- Signing auf dem Gerät selbst!
 
-- On Device Signing!
+- Privatsphäre
 
-- No Privacy Concerns!
+- Benötigt nur 5 Minuten deiner Zeit
 
-- Takes 5 Minutes to Setup!
+- Apps bleiben bis zu einem Jahr installiert
 
-- Apps stay for up to 1 year!
+- Kompatibel mit Scarlet/Feather/ESign/GBox
 
-- Compatible with Scarlet/Feather/ESign/GBox
+Wenn du Probleme, Anfragen oder Ideen hast mache eine Issue auf GitHub auf oder schreibe uns auf Discord!
 
-If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
-### [How does this method work?](accent://)
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+### [Wie funktioniert diese Methode?](accent://)
+Durch die Verwendung von geleakten Unternehmenszertifikaten können wir Apps mit deren Anmeldeinformationen signieren, was bedeutet, dass Apple uns die Installation der Apps ohne Probleme ermöglicht. Allerdings widerruft Apple nach einer gewissen Zeit das Zertifikat, was leicht umgangen werden kann, indem man unsere Methode verwendet.
 
-### [Before we start](accent://)
+### [Bevor wir anfangen](accent://)
 
-- This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
+- Dies könnte für dich nicht funktionieren, wenn du bereits andere Enterprise-Sideloader verwendet hast, da die Zertifikate auf deinem Gerät revoked worden sein könnten!
 
-- If you are revoked you will need to follow the Revoked guide!
+- Falls du revoked wurdest, musst du der Revoked Anleitung folgen!
+- Es wird funktionieren, solange du alle Schritte korrekt liest und machst!
 
-- This will work as long as you read and do all of the steps properly!
+### [Kompatibilität](accent://)
+Dies sollte für alle iOS- und iPadOS-Geräte mit den neuesten iOS-Versionen funktionieren, jedoch nicht für iOS 15 und älter. Die Anleitung ist mit anderen Sideloading-Diensten kompatibel, solange sie auf Unternehmenszertifikaten zur Installation basieren.
 
-### [Compatibility](accent://)
-This should work for all iOS and iPadOS devices on the latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+### [Privatsphäre](accent://)
+Wenn du Bedenken hinsichtlich der Privatsphäre des madNS Config-Profils hast, eröffne ein Issue auf GitHub mit deiner E-Mail-Adresse und ich werde dir eine Einladung zur Ansicht senden, damit du die Einstellungen selbst einsehen kannst.
 
-### [Privacy](accent://)
-If you have privacy concerns about the madNS Config Profile, make an issue on GitHub with your email and i'll send you a viewing invite so you can see the settings for yourself.
+Stelle sicher, dass du genau den Namen des madNS-Profils angibst:
 
-Make sure to mention exactly what the madNS's profile name is:
-
-e.g:
+z.B.:
 
 madNS Config Profile + Update Blocker
 
-The WSF Config Profile isn't a DNS since it just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns, you can check for yourself by opening the profile on a PC
+Das WSF Config Profile ist kein DNS, da es nur Apple-Server auf https://localhost.direct umleitet, welches dein lokales Netzwerk ist, also keine Bedenken hinsichtlich der Privatsphäre. Du kannst es selbst überprüfen, indem du das Profil auf einem PC öffnest.
 
 
 ### [FAQ](accent://)
 
 --
 
-Q - Can I use a VPN?
+Q - Kann ich ein VPN verwenden?
 
-A - You can if you're using the madNS Config Profile, make sure you've followed the VPN Guide.
-
---
-
-Q - Will a restart bypass this and revoke my apps?
-
-A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode when restarting or shutting down.
+A - Du kannst es verwenden, wenn du das madNS Config Profile nutzt. Stelle sicher, dass du der VPN-Anleitung gefolgt bist.
 
 --
 
-Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
+Q - Wird ein Neustart dies umgehen und meine Apps widerrufen?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard, make sure you follow the VPN Guide.
+A - Einige Benutzer haben herausgefunden, dass auf älteren Geräten deine Apps widerrufen werden könnten. Deaktiviere WiFi und aktiviere den Flugmodus, wenn du neu startest oder das Gerät herunterfährst.
+
+--
+
+Q - Werden Dienste wie AltStore, Sideloadly und Sidestore diese Anleitung beeinflussen?
+
+A - Nein, die genannten Dienste verwenden Entwickler-Signaturen anstelle von Enterprise-Signaturen, daher kannst du sie problemlos zusammen verwenden! Du musst jedoch SideStore’s WireGuard einrichten, stelle sicher, dass du der VPN-Anleitung folgst.
 
 --

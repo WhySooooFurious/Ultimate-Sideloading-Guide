@@ -1,13 +1,9 @@
-The WSF Config Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
-Additionally, the WSF Config profile supports the following:
+Das WSF Config Profile leitet Apple-Server auf https://localhost.direct um (was dein eigenes lokales Netzwerk ist), wodurch Apple daran gehindert wird, dein Gerät wegen des widerrufenen Zertifikats zu kontaktieren. Zusätzlich unterstützt das WSF Config Profile folgendes:
+	•	iOS-Update-Blockierung
 
-- iOS Update Blocking
+Das madNS Config Profile unterstützt VPNs, Feather und ChatGPT, was ein entscheidender Faktor sein kann. Zusätzlich unterstützt das madNS Config Profile folgendes:
+	•	Ad-Blocking
+	•	iOS-Update-Blocking
 
-The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
-Additionally, the madNS Config Profile supports the following: 
+Stelle sicher, dass während der Installation keine VPNs aktiviert sind, selbst wenn du das madNS Config Profile verwendest.
 
-- Ad-Blocking
-
-- iOS Update Blocking
-
-Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
