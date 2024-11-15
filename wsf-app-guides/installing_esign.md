@@ -22,7 +22,7 @@
 
 9. Go to the File tab in ESign and click on the Certificates.zip and select unzip
 
-11. Find and select the .p12 file you chose back in Step 8 and click on Import, the password is "WSF"
+11. Click on the folder and find the certificate you used back in Step 1and select the .p12 file and click on Import, the password is "WSF"
 
 12. Now go over to AppStore in ESign and click on App Source
 
@@ -42,9 +42,9 @@
 
 5. Click on the app and select Signature
 
-6. You can change your app and edit it here
+6. You can change your app and edit it here as you wish
 
-7. Select Signature and ESign should sign the app using the certificate you selected before
+7. Select Signature and ESign should sign the app using the certificate you selected
 
 8. There might be red text saying this certificate is revoked, this is normal! Click on the blue button saying Install, then click Install on the prompt again
 

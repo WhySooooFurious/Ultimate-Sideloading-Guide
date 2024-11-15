@@ -1,7 +1,5 @@
 - You must never disable the Config Profile!
 
-- Don't use multiple Config Profiles together!
-
 - Go into Airplane Mode if you're switching to another Config Profile!
 
 - Don't use Nugget or Cowabunga otherwise the Config Profile will disappear and possibly not work! Use the workaround in Miscellaneous section!

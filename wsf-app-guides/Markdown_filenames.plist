@@ -70,6 +70,12 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
+		<string>Switching Configs</string>
+		<key>file_name</key>
+		<string>switching.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
 		<string>VPN Guide</string>
 		<key>file_name</key>
 		<string>vpn.md</string>
