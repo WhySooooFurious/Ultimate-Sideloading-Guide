@@ -1,5 +1,4 @@
-## Using VPNs
-Note that most free VPNs won't work with this.
+Note that most free VPNs won't work with this and you'll need to find out what type of DNS your VPN supports and replace them with the listings below.
 
 ### [1/1] Using VPNs
 1. Find your VPN's DNS settings and replace them with the following information if applicable, no support will be provided.
