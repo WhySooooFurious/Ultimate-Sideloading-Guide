@@ -1,4 +1,4 @@
-## Continent:
+## [Continent:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -7,7 +7,7 @@ Push Notifications: 🟢
 
 13/06/2025: ✅
 
-## NetworkTech:
+## [NetworkTech:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -16,7 +16,7 @@ Push Notifications: 🟢
 
 12/03/2025: ✅
 
-## Sunshine 1:
+## [Sunshine 1:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -25,7 +25,7 @@ Push Notifications: 🟢
 
 13/09/2025: ✅
 
-## Sunshine 2:
+## [Sunshine 2:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -34,7 +34,7 @@ Push Notifications: 🟢
 
 6/06/2025: ✅
 
-## Sunshine 3:
+## [Sunshine 3:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🔴
@@ -43,7 +43,7 @@ Push Notifications: 🔴
 
 05/06/2025: ✅ 
 
-## SunLife:
+## [SunLife:](wsf.com)
 **Permissions**:
 
 Push Notifications: 🔴
