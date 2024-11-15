@@ -12,7 +12,7 @@
 
 7. ESign should now be on your home screen, fully functional
 
-### [Part [2/3] Setting up ESign](https://whysoooofurious.netlify.app)
+### [Part [2/3] Setting up ESign](accent://)
 
 1. Open ESign and accept the agreements
 
@@ -30,7 +30,7 @@
 
 14. You now have setup ESign with all sources ready to install apps
 
-### [Part [3/3] Using ESign](https://whysoooofurious.netlify.app)
+### [Part [3/3] Using ESign](accent://)
 
 1. Download any app using the AppStore in ESign or you can import your own .ipa using Import Resource in settings, in which case you can skip to step 4
 

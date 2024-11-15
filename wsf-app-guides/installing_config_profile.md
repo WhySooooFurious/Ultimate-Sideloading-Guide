@@ -1,19 +1,19 @@
-## [Which Config Profile to Choose?](whysoooofurious.netlify.app)
+## [Which Config Profile to Choose?](accent://)
 
-### [WSF Config Profile](whysoooofurious.netlify.app)
+### [WSF Config Profile](accent://)
 Doesn't support VPNs, Feather and ChatGPT.
 
-### [madNS Config Profile](whysoooofurious.netlify.app)
+### [madNS Config Profile](accent://)
 Supports VPNs, Feather and ChatGPT.
 
-### [What does Update Blocker or Ad-Blocker mean?](whysoooofurious.netlify.app)
+### [What does Update Blocker or Ad-Blocker mean?](accent://)
 Update Blocker: Blocks Apple OTA Updates
 
 Ad-Blocker: Blocks most online Ads and Trackers
 
 Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile as you need to set it up using the VPN Guide later
 
-## [Installing the Config Profile](whysoooofurious.netlify.app)
+## [Installing the Config Profile](accent://)
 1. Go to the downloads tab then select the Config Profile you would like to install based on what you want
 
 2. Click on Download, and the profile should be imported into settings automatically

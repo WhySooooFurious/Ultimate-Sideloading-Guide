@@ -1,4 +1,4 @@
-## [Issues With Installing?](whysoooofurious.netlify.app)
+## [Issues With Installing?](accent://)
 - Unverified?
 
 - Crashing Apps? 
@@ -9,7 +9,7 @@
 
 You need to follow the Revoked Guide.
 
-## [Config Profile Disappeared?](whysoooofurious.netlify.app)
+## [Config Profile Disappeared?](accent://)
 You must have either used Cowabunga or Nugget after your installation, Those tools intefere with the guide and cause Config Profiles to go missing.
 
 You will need to reset your entire device or restore from an older backup in which you have not used those tools.

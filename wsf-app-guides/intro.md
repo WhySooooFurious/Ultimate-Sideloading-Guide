@@ -21,10 +21,10 @@ Some of the advantages with using this method:
 
 If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
-## [How does this method work?](whysoooofurious.netlify.app)
+## [How does this method work?](accent://)
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
-## [Before we start](whysoooofurious.netlify.app)
+## [Before we start](accent://)
 
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
 
@@ -32,10 +32,10 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 - This will work as long as you read and do all of the steps properly!
 
-## [Compatibility](whysoooofurious.netlify.app)
+## [Compatibility](accent://)
 This should work for all iOS and iPadOS devices on the latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
-## [Privacy](whysoooofurious.netlify.app)
+## [Privacy](accent://)
 If you have privacy concerns about the madNS Config Profile, make an issue on GitHub with your email and i'll send you a viewing invite so you can see the settings for yourself.
 
 Make sure to mention exactly what the madNS's profile name is:
@@ -47,7 +47,7 @@ madNS Config Profile + Update Blocker
 The WSF Config Profile isn't a DNS since it just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns, you can check for yourself by opening the profile on a PC
 
 
-## [FAQ](whysoooofurious.netlify.app)
+## [FAQ](accent://)
 
 --
 
