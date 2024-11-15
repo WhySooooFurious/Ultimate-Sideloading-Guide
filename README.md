@@ -77,17 +77,20 @@ Download Link is in the #links channel in the Discord [Server](https://discord.g
 ---
 
 Q - Can I use a VPN?
-A - You can if you're utilising the madNS Config Profile, make sure to set it up first! Guide is in the Portal app!
+
+A - You can if you're utilising the madNS Config Profile, make sure to set it up first! VPN Guide is in the Portal app!
 
 ---
 
 Q - Will a restart bypass this and revoke my apps?
+
 A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable Wi-Fi when restarting or shutting down.
 
 ---
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, guide is in the Portal app!
+
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, VPN Guide is in the Portal app!
 
 ---
 
