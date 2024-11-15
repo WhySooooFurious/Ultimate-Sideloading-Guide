@@ -52,15 +52,15 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Revoked Guide</string>
+		<string>Fix Revokes</string>
 		<key>file_name</key>
-		<string>revoked_guide.md</string>
+		<string>fix_revokes.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>VPN Guide</string>
+		<string>VPN Setup</string>
 		<key>file_name</key>
-		<string>vpn_guide.md</string>
+		<string>vpn_setup.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>

@@ -1,5 +1,3 @@
-## [Which Config Profile to Choose?](accent://)
-
 ### [WSF Config Profile](accent://)
 Doesn't support VPNs, Feather and ChatGPT.
 

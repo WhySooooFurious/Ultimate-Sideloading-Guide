@@ -1,5 +1,6 @@
-This is used for when the certificate you are using is meeting the expiry deadline or is expired
+This is used for when you want to switch Config Profiles from one to another and vice versa
 
 ### [Part [1/1] Switching Config Profiles](accent://)
-1. Remove all Config Profiles and your sideloaded apps, including Portal
-3. Re-do the entire guide
+1. Enable Airplane Mode
+3. Switch Config Profile in DNS Settings
+3. Disable Airplane Mode

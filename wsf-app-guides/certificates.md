@@ -1,4 +1,4 @@
-## [Continent:](accent://)
+### [Continent:](accent://)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -7,7 +7,7 @@ Push Notifications: 🟢
 
 13/06/2025: ✅
 
-## [NetworkTech:](accent://)
+### [NetworkTech:](accent://)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -16,7 +16,7 @@ Push Notifications: 🟢
 
 12/03/2025: ✅
 
-## [Sunshine 1:](accent://)
+### [Sunshine 1:](accent://)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -25,7 +25,7 @@ Push Notifications: 🟢
 
 13/09/2025: ✅
 
-## [Sunshine 2:](accent://)
+### [Sunshine 2:](accent://)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -34,7 +34,7 @@ Push Notifications: 🟢
 
 6/06/2025: ✅
 
-## [Sunshine 3:](accent://)
+### [Sunshine 3:](accent://)
 **Permissions**:
 
 Push Notifications: 🔴
@@ -43,7 +43,7 @@ Push Notifications: 🔴
 
 05/06/2025: ✅ 
 
-## [SunLife:](accent://)
+### [SunLife:](accent://)
 **Permissions**:
 
 Push Notifications: 🔴
