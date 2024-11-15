@@ -19,10 +19,10 @@ Some of the advantages with using this method:
 
 If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
-## How does this method work?
+## [How does this method work?](whysoooofurious.netlify.app)
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
-## Before we start
+## [Before we start](whysoooofurious.netlify.app)
 
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
 
@@ -32,10 +32,10 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 - WhySooooFurious = WSF
 
-## Compatibility
+## [Compatibility](whysoooofurious.netlify.app)
 This should work for all iOS and iPadOS devices on the latest versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
-## FAQ
+## [FAQ](whysoooofurious.netlify.app)
 
 --
 

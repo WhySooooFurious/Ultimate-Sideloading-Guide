@@ -1,4 +1,4 @@
-## [Continent:](wsf.com)
+## [Continent:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -7,7 +7,7 @@ Push Notifications: 🟢
 
 13/06/2025: ✅
 
-## [NetworkTech:](wsf.com)
+## [NetworkTech:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -16,7 +16,7 @@ Push Notifications: 🟢
 
 12/03/2025: ✅
 
-## [Sunshine 1:](wsf.com)
+## [Sunshine 1:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -25,7 +25,7 @@ Push Notifications: 🟢
 
 13/09/2025: ✅
 
-## [Sunshine 2:](wsf.com)
+## [Sunshine 2:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🟢
@@ -34,7 +34,7 @@ Push Notifications: 🟢
 
 6/06/2025: ✅
 
-## [Sunshine 3:](wsf.com)
+## [Sunshine 3:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🔴
@@ -43,7 +43,7 @@ Push Notifications: 🔴
 
 05/06/2025: ✅ 
 
-## [SunLife:](wsf.com)
+## [SunLife:](whysoooofurious.netlify.app)
 **Permissions**:
 
 Push Notifications: 🔴
