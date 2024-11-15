@@ -1,10 +1,9 @@
-## Using Nugget or Cowabunga
-All Configuration Profiles disappear when using Nugget and Cowabunga. This can easily be bypassed by following the steps below.
+All Configuration Profiles disappear when using Nugget or Cowabunga. This can easily be bypassed by following the steps below.
 
 ### Fix for macOS:
 Only the macOS version of Nugget is compatible with this guide. Not the app itself! You must always follow this guide when wanting to use Nugget or Cowabunga!
 
-#### Part [1/2] Using Nugget/Cowabunga
+#### Part [1/2] Using Nugget or Cowabunga
 1. Forget all WiFi networks and disable Cellular Networks and put your device in Airplane Mode.
 2. Remove all Configuration Profiles you have. You don't have to delete your installed apps.
 3. Now you can use Nugget or Cowabunga as you please.
