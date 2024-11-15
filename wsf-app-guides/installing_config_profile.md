@@ -1,27 +1,19 @@
 ## Which Config Profile to Choose?
 
-The WSF Config Profile redirects Apple servers to https://localhost.direct.
-
+### WSF Config Profile
 Doesn't support VPN's, Feather or ChatGPT
 
-Additionally, the WSF Config profile supports the following:
-
-- iOS Update Blocking
-
-The madNS Config Profile blocks Apple Servers. 
-
+### madNS Config Profile
 Supports VPNs, Feather and ChatGPT.
 
-Additionally, the madNS Config Profile supports the following: 
+### What does Update Blocker or Ad-Blocker mean?
+Update Blocker: Blocks Apple OTA Updates
 
-- Ad-Blocking
-
-- iOS Update Blocking
+Ad-Blocker: Blocks most online Ads and Trackers
 
 Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
 
 ## Installing the Config Profile
-
 1. Go to the downloads tab then select the Config Profile you would like to install
 
 2. Click on Download, and the profile should be imported into settings automatically
@@ -32,4 +24,6 @@ Make sure you don't have any VPNs turned on during the installation even when us
 
 5. It should now automatically be enabled
 
-6. Now you can install any sideloaders
+6. If you're using the madNS Config Profile and looking to use a VPN alongside, make sure to follow the VPN guide
+
+6. Now you can continue on to install any sideloaders
