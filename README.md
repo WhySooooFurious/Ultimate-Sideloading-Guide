@@ -5,16 +5,24 @@
 ## Introduction
 Welcome to my guide on how to sideload on Apple Devices!
 Some of the advantages with using this method:
+
 - Free!
+
 - No PC!
+
 - Easy to use!
+
 - No App Limits!
+
 - On Device Signing!
+
 - No Privacy Concerns!
+
 - Takes 5 Minutes to Setup!
+
 - Compatible with Scarlet/Feather/ESign/GBox
 
-If you have any issues, requests or ideas please make an issue here on GitHub.
+If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
