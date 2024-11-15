@@ -44,12 +44,15 @@ This should work for all iOS and iPadOS devices on the latest versions, won't wo
 
 ### Which Config Profile do I choose?
 The WSF Config Profile redirects Apple servers to https://localhost.direct (which is your own local network) which prevents Apple from contacting your device about the revoked certificate.
-Additionally, the WSF Config profile supports the following configurations:
+Additionally, the WSF Config profile supports the following:
+
 - iOS Update Blocking
 
-The madNS Config Profile blocks Apple Certificate servers using NextDNS supports VPNs, Feather and ChatGPT which can be a deciding factor.
-Additionally, the madNS Config Profile support the following configurations:
+The madNS Config Profile supports VPNs, Feather and ChatGPT which can be a deciding factor.
+Additionally, the madNS Config Profile supports the following: 
+
 - Ad-Blocking
+
 - iOS Update Blocking
 
 Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
