@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>file_title</key>
+		<string>Announcements</string>
+		<key>file_name</key>
+		<string>announcements.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Certificate Information</string>
+		<key>file_name</key>
+		<string>certificates.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Introduction</string>
+		<key>file_name</key>
+		<string>intro.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Installing the Config Profile</string>
+		<key>file_name</key>
+		<string>installing_config_profile.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Installing ESign</string>
+		<key>file_name</key>
+		<string>installing_esign.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Post Install Notes</string>
+		<key>file_name</key>
+		<string>post_install_notes.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Troubleshooting</string>
+		<key>file_name</key>
+		<string>troubleshooting.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Sources</string>
+		<key>file_name</key>
+		<string>sources.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Fix Revokes</string>
+		<key>file_name</key>
+		<string>fix_revokes.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>VPN Setup</string>
+		<key>file_name</key>
+		<string>vpn_setup.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Switching Config Profiles</string>
+		<key>file_name</key>
+		<string>switching_config_profiles_guide.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Using Nugget/Cowabunga</string>
+		<key>file_name</key>
+		<string>using_nuggetcowabunga_guides.md</string>
+	</dict>
+</array>
+</plist>
