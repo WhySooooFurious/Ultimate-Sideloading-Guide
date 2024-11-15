@@ -54,25 +54,25 @@
 		<key>file_title</key>
 		<string>Miscellaneous Guides</string>
 		<key>file_name</key>
-		<string>misc_guides.md</string>
+		<string>using_nuggetcowabunga_guides.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Switching Configs</string>
+		<string>Switching Config Profiles</string>
 		<key>file_name</key>
-		<string>switching.md</string>
+		<string>switching_config__profiles_guide.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
 		<string>VPN Guide</string>
 		<key>file_name</key>
-		<string>vpn.md</string>
+		<string>vpn_guide.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
 		<string>Revoked Guide</string>
 		<key>file_name</key>
-		<string>revoked.md</string>
+		<string>revoked_guide.md</string>
 	</dict>
 </array>
 </plist>
