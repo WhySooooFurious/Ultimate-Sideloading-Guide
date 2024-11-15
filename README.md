@@ -55,7 +55,7 @@ Additionally, the madNS Config Profile supports the following:
 
 - iOS Update Blocking
 
-Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
+Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile. Note you will need the set up your VPN using the guide in Portal
 
 ### Part [1/2] Installing the Config Profile
 1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
@@ -64,29 +64,33 @@ Make sure you don't have any VPNs turned on during the installation even when us
 4. It should now automatically be enabled
 5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
-### Part [2/2] Installing the WSF Portal App
-1. Go down to [Downloads](#downloads) and click on the link, then WSF Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
+### Part [2/2] Installing the Portal App
+1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
 3. Click on install once the popup comes up
-4. Open settings and go to General > VPN & Device Management > (should show the WSF Portal app under the certificate you picked back in Step 1)
+4. Open settings and go to General > VPN & Device Management > (should show the Portal app under the certificate you picked back in Step 1)
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. WSF Portal should now be on your home screen, fully functional
 8. Now read the guides in the app themselves to install your chosen sideloader!
 
-## Troubleshooting
+## Troublshooting
+
 - Unverified?
-- Crashing apps?
-- Unable to Install?
-- App is not available?
-- Integrity could not be verified?
+
+- Crashing Apps? 
+
+- App is not available? 
+
+- Integrity could not be verified? 
+
 You need to follow this [guide](#revoked) or alternatively you can try other download links!
+
 ---
 
 ## Downloads
-###
+
 Download Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
 
----
 ## FAQ
 ---
 
@@ -98,7 +102,7 @@ A - You can if you're utilising the madNS Config Profile, make sure to set it up
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, enable Airplane Mode and disable Wi-Fi when restarting or shutting down.
+A - Some users have found that on older devices, your apps might revoke, disable Wi-Fi and enable Airplane Mode when wanting to restart or shutdown.
 
 ---
 
@@ -119,13 +123,13 @@ You must not use your backups with Method 2
 
 
 #### Method 1
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every app you've installed using certificates
 2. Back up your device with iTunes
 3. After backing up, reset your device using iTunes restore in Recovery Mode or DFU mode is heavily recommended
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Then follow Part 1 of the guide to prevent revokes
 
 #### Method 2
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every app you've installed using certificates
 2. Reset your device using iTunes using Recovery Mode or DFU mode
 3. Then follow Part 1 of the guide to prevent revokes
