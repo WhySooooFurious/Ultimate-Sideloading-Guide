@@ -28,14 +28,17 @@ If you have any issues, requests or ideas please make an issue on GitHub or Disc
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 ## Before we start
-- This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked!
-- If you are revoked you will need to follow this [guide](#revoked)
-- This will work as long as you read and do all of the steps required
+
+- This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
+
+- If you are revoked you will need to follow the the Revoked guide!
+
+- This will work as long as you read and do all of the steps properly!
+
 - WhySooooFurious = WSF
 
-### Compatibility
-This should work for all iOS and iPadOS devices on the latest versions.
-The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+## Compatibility
+This should work for all iOS and iPadOS devices on the latest versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
 ## Starting the guide!
 
