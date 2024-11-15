@@ -40,6 +40,19 @@ By using leaked business enterprise certificates, We can sign apps using their c
 ## Compatibility
 This should work for all iOS and iPadOS devices on the latest versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
+## Privacy
+If you have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
+
+Make sure to mention exactly what the madNS's profile name is:
+
+e.g:
+
+madNS Config Profile + Update Blocker
+or
+madNS Config Profile + Update Blocker + Ad-Blocker
+
+The WSF Config Profile isn't a DNS but just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns.
+
 ## Starting the guide!
 
 ### Which Config Profile do I choose?
