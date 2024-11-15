@@ -1,6 +1,6 @@
 ## Which Config Profile to Choose?
 
-### WSF Config Profile
+### [WSF Config Profile]
 Doesn't support VPN's, Feather or ChatGPT
 
 ### madNS Config Profile
