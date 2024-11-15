@@ -34,3 +34,25 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 ## Compatibility
 This should work for all iOS and iPadOS devices on the latest versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+
+## FAQ
+
+--
+
+Q - Can I use a VPN?
+
+A - You can if you're using the madNS Config Profile, make sure you've followed the VPN Guide.
+
+--
+
+Q - Will a restart bypass this and revoke my apps?
+
+A - Some users have found that on older devices, your apps might revoke, disable WiFi and enable Airplane Mode.
+
+--
+
+Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
+
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard make sure you've followed the VPN Guide.
+
+--
