@@ -1,4 +1,4 @@
-This is used for when the certificate you are using is meeting the expiry deadline
+This is used for when the certificate you are using is meeting the expiry deadline or is expired
 
 ### [Part [1/1] ](whysoooofurious.netlify.app)
 1. Remove all Config Profiles and your sideloaded apps, including Portal

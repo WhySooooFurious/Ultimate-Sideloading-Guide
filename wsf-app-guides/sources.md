@@ -1,3 +1,1 @@
-Sources are not currently available.
-
-Meanwhile you can check the Discord for the sources list.
+Sources are available in the Discord Server, in the #FAQ channel!

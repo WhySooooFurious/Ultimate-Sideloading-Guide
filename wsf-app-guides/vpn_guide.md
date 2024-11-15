@@ -12,7 +12,7 @@ DNS Servers:
 
 DNS over HTTPS:
 
-https://dns.nextdns.io/8bf6c6
+https://'dns.nextdns.io/8bf6c6
 
 #### [madNS Config Profile + Update Blocker:](whysoooofurious.netlify.app)
 DNS Servers:
@@ -23,7 +23,7 @@ DNS Servers:
 
 DNS over HTTPS:
 
-https://dns.nextdns.io/595d8c
+https://'dns.nextdns.io/595d8c
 
 #### [madNS Config Profile + Ad-Blocker:](whysoooofurious.netlify.app)
 DNS Servers:
@@ -34,7 +34,7 @@ DNS Servers:
 
 DNS over HTTPS:
 
-https://dns.nextdns.io/335179
+https://'dns.nextdns.io/335179
 
 #### [madNS Config Profile + Update Blocker + Ad-Blocker:](whysoooofurious.netlify.app)
 DNS Servers:
@@ -45,4 +45,4 @@ DNS Servers:
 
 DNS over HTTPS:
 
-https://dns.nextdns.io/828ff2
+https://'dns.nextdns.io/828ff2
