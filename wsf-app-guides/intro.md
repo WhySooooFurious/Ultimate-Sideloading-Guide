@@ -15,12 +15,16 @@ Some of the advantages with using this method:
 
 - Takes 5 Minutes to Setup!
 
+- Apps stay for up to 1 year!
+
 - Compatible with Scarlet/Feather/ESign/GBox
 
 If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
 ## [How does this method work?](whysoooofurious.netlify.app)
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+
+We have made our own app called "Portal", it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
 ## [Before we start](whysoooofurious.netlify.app)
 
@@ -30,10 +34,22 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 - This will work as long as you read and do all of the steps properly!
 
-- WhySooooFurious = WSF
-
 ## [Compatibility](whysoooofurious.netlify.app)
-This should work for all iOS and iPadOS devices on the latest versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+This should work for all iOS and iPadOS devices the latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
+
+## [Privacy](whysoooofurious.netlify.app)
+If you have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
+
+Make sure to mention exactly what the madNS's profile name is:
+
+e.g:
+
+madNS Config Profile + Update Blocker
+or
+madNS Config Profile + Update Blocker + Ad-Blocker
+
+The WSF Config Profile isn't a DNS since just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns.
+
 
 ## [FAQ](whysoooofurious.netlify.app)
 
