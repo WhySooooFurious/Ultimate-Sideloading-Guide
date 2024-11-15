@@ -71,7 +71,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 5. Click on Trust at the top then click on allow, after this your device might need to be restarted
 6. If your device was restarted, swipe up and click on install profile
 7. WSF Portal should now be on your home screen, fully functional
-8. Now read the guides in the app themselves to install your chosen sideloader!
+8. Now read the guides in Portal to install your chosen sideloade!
 
 ## Troublshooting
 
