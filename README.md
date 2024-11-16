@@ -125,7 +125,7 @@ Download Link is in the #FAQ channel in the Discord [Server](https://discord.gg/
 
 - Integrity could not be verified? 
 
-You need to follow this [guide](#revoked) or alternatively you can try other download links!
+You need to follow the Revoked Guide, or alternatively you can try other download links!
 
 ---
 
