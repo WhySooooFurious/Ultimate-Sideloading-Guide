@@ -2,7 +2,7 @@
 
 # Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
 
-## Introduction
+# Introduction
 Welcome to my guide on how to sideload on Apple Devices!
 Some of the advantages with using this method:
 
@@ -76,7 +76,7 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 
 ---
 
-## Starting the main guide, Read everything carefully!
+# Starting the main guide, Read everything carefully!
 
 ## Which Config Profile do I choose?
 
@@ -92,6 +92,8 @@ Update Blocker: Blocks Apple OTA Updates
 Ad-Blocker: Blocks most online Ads and Trackers
 
 Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
+
+## Installation Guide
 
 ### Part [1/2] Installing the Config Profile
 1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
@@ -127,24 +129,23 @@ You need to follow this [guide](#revoked) or alternatively you can try other dow
 
 ---
 
-### Revoked?
-So you've gotten yourself revoked, Follow the methods listed below and you should be unrevoked.
+## Revoked?
+Method 1 has a very high success rate and will not erase your data.
 
-Method 1 will work.
+Method 2 will definitely work and it will erase your data.
 
-Method 2 will completely reset your device and will definitely work
+You must not use any backups with Method 2
 
-You must not use your backups with Method 2
-
-
-#### Method 1
-1. Remove the Config Profile and uninstall every app you've installed using certificates
-2. Back up your device with iTunes
-3. After backing up, reset your device using iTunes restore in Recovery Mode or DFU mode is heavily recommended
+### [Method 1](accent://)
+1. Remove the Config Profile and uninstall every app you've installed
+2. Back up your device with iTunes or Finder
+3. After backing up, restore your device in Recovery Mode or DFU mode.
 5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-6. Then follow Part 1 of the guide to prevent revokes
+6. Now follow the guide again from Installing the Config Profile
 
-#### Method 2
-1. Remove the Config Profile and uninstall every app you've installed using certificates
-2. Reset your device using iTunes using Recovery Mode or DFU mode
-3. Then follow Part 1 of the guide to prevent revokes
+### [Method 2](accent://)
+1. Remove the Config Profile and uninstall every app you've installed
+2. Restore your device using Recovery Mode or DFU mode
+6. Now follow the guide again from Installing the Config Profile
+
+
