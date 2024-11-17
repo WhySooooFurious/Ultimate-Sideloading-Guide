@@ -52,19 +52,11 @@ This should work for all iOS and iPadOS devices on latest iOS versions, won't wo
 
 You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
 
-If you have still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
+If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
 
+Make sure to mention exactly what the madNS's profile name is so I can give it to you!
 
-
-Make sure to mention exactly what the madNS's profile name is:
-
-e.g:
-
-madNS Config Profile + Update Blocker
-or
-madNS Config Profile + Update Blocker + Ad-Blocker
-
-The WSF Config Profile isn't a DNS since just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns, you can verify this by opening the profile in any text editor.
+If you STILL have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
 
 ## FAQ
 
