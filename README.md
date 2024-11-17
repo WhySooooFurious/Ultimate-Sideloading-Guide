@@ -1,7 +1,5 @@
 # Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
-# Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
-
 (Won't redirect you anywhere if you're already on it)
 
 # Introduction
