@@ -1,4 +1,7 @@
+## Certificate Status
+
 ### [Continent:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🟢
@@ -8,6 +11,7 @@ Push Notifications: 🟢
 13/06/2025: ✅
 
 ### [NetworkTech:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🟢
@@ -17,6 +21,7 @@ Push Notifications: 🟢
 12/03/2025: ✅
 
 ### [Sunshine 1:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🟢
@@ -26,6 +31,7 @@ Push Notifications: 🟢
 13/09/2025: ✅
 
 ### [Sunshine 2:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🟢
@@ -35,6 +41,7 @@ Push Notifications: 🟢
 6/06/2025: ✅
 
 ### [Sunshine 3:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🔴
@@ -44,6 +51,7 @@ Push Notifications: 🔴
 05/06/2025: ✅ 
 
 ### [SunLife:](accent://)
+
 **Permissions**:
 
 Push Notifications: 🔴

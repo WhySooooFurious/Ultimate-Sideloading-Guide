@@ -1,7 +1,8 @@
-madNS is now available, Make sure to follow the VPN guide!
+## Announcements
 
-madNS is compatible with VPNs, Feather and ChatGPT!
+READ VPN SETUP GUIDE!!!
 
-Guides for other sideloaders will be available soon!
+Join Discord!
 
--wsf
+https://discord.gg/wsf
+

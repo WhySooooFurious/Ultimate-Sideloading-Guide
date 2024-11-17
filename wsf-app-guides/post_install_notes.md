@@ -12,4 +12,4 @@
 
 - Check for Updates, Announcements and Certificate Information in Portal periodically!
 
-Not following the guidelines above will cause your apps to be revoked!
+Not following the Post Install Notes will cause your apps to be revoked!

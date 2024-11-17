@@ -21,11 +21,19 @@ Some of the advantages with using this method:
 
 - Compatible with Scarlet/Feather/ESign/GBox
 
-If you have any issues, requests or ideas please make an issue on GitHub or Discord.
+If you have any issues, requests or ideas please make an issue on [GitHub](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide) or [Discord](https://discord.gg/wsf).
 
 ### [How does this method work?](accent://)
 
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+
+We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
+
+### Unsupported Methods
+
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
+
+The madNS Config Profile itself uses NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
 
 ### [Before we start](accent://)
 
@@ -41,16 +49,13 @@ This should work for all iOS and iPadOS devices on the latest iOS versions, won'
 
 ### [Privacy](accent://)
 
-If you have privacy concerns about the madNS Config Profile, make an issue on GitHub with your email and i'll send you a viewing invite so you can see the settings for yourself. Logs are always disabled.
+You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
 
-Make sure to mention exactly what the madNS's profile name is:
+If you still have privacy concerns about the madNS Config Profile, make an issue on GitHub with your email and i'll send you a viewing invite so you can see the settings for yourself.
 
-e.g:
+Make sure to mention exactly what the madNS's profile name is so I can give it to you!
 
-madNS Config Profile + Update Blocker
-
-The WSF Config Profile isn't a DNS since it just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns, you can check for yourself by opening the profile on a PC.
-
+If you STILL have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
 
 ### [FAQ](accent://)
 
@@ -58,7 +63,7 @@ The WSF Config Profile isn't a DNS since it just redirects Apple Servers to http
 
 Q - Can I use a VPN?
 
-A - You can if you're using the madNS Config Profile, make sure you've followed the VPN Guide.
+A - You can if you're using the madNS Config Profile, make sure you've followed the VPN Setup Guide.
 
 --
 
@@ -70,6 +75,6 @@ A - Some users have found that on older devices, your apps might revoke, disable
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard, make sure you follow the VPN Guide.
+A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! Although you'll need to setup SideStore's WireGuard, make sure you follow the VPN Setup Guide.
 
 --
