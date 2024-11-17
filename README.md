@@ -175,6 +175,7 @@ You need to follow the Revoked Guide [here](#revoked), or alternatively you can 
 
 ---
 
+# Revoked?
 
 Method 1 has a very high success rate and will not erase your data.
 
