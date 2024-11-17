@@ -30,11 +30,15 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
+## Unsupported Methods
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
+madNS itself uses NextDNS and is transparent as we could make it be. It is run for by donators and will keep running for as long as possible.
+
 ## Before we start
 
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
 
-- If you know that you are revoked you will need to follow the the Revoked guide!
+- If you know that you are revoked you will need to follow the the Revoked guide [here]
 
 - This will work as long as you read and do all of the steps properly!
 
@@ -129,11 +133,11 @@ Download Link is in the #FAQ channel in the Discord [Server](https://discord.gg/
 
 - Integrity could not be verified? 
 
-You need to follow the Revoked Guide, or alternatively you can try other download links!
+You need to follow the Revoked Guide [here](#revoked), or alternatively you can try other download links!
 
 ---
 
-## Revoked?
+
 Method 1 has a very high success rate and will not erase your data.
 
 Method 2 will definitely work and it will erase your data.
