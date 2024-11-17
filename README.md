@@ -44,7 +44,11 @@ We have made our own app called "Portal", it contains all links to ESign, Feathe
 This should work for all iOS and iPadOS devices on latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
 ## Privacy
-If you have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
+You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
+
+If you have still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
+
+
 
 Make sure to mention exactly what the madNS's profile name is:
 
@@ -55,6 +59,7 @@ or
 madNS Config Profile + Update Blocker + Ad-Blocker
 
 The WSF Config Profile isn't a DNS since just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns.
+, you can verify this by opening the profile in any text editor.
 
 ## FAQ
 ---
@@ -92,7 +97,7 @@ Update Blocker: Blocks Apple OTA Updates
 
 Ad-Blocker: Blocks most online Ads and Trackers
 
-Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile.
+Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile as you need to setup the VPN.
 
 ## Installation Guide
 
@@ -141,7 +146,7 @@ You must not use any backups with Method 2
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
 2. Back up your device with iTunes or Finder
 3. After backing up, restore your device in Recovery Mode or DFU mode.
-5. Now if you have an iCloud backup you should be prompted to restore from your backup after logging in to your Apple ID, if you have a local backup all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+5. Plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
 6. Now follow the guide again from Installing the Config Profile
 
 ### Method 2
