@@ -190,12 +190,12 @@ You must not use any backups with Method 2
 2. Back up your device with iTunes for Windows or Finder for macOS
 3. After backing up, connect your device to your macOS or Windows device and boot your device in Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
 5. Your device should be detected automatically, and then click on Update, dont click on Restore!
-6. Now follow the guide again from [Installing the Config Profile](#installing-the-config-profile]
+6. Now follow the guide again from [Installing the Config Profile](#part12-installing-the-config-profile]
 
 ### Method 2
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
 2. Restore your device using Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
-3. Now follow the guide again from [Installing the Config Profile](#installing-the-config-profile]
+3. Now follow the guide again from [Installing the Config Profile](#part12-installing-the-config-profile]
 
 
