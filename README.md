@@ -28,13 +28,13 @@ If you have any issues, requests or ideas please make an issue on GitHub or Disc
 ## How does this method work?
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
-We have made our own app called "Portal", it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
+We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
 ## Before we start
 
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
 
-- If you are revoked you will need to follow the the Revoked guide!
+- If you know that you are revoked you will need to follow the the Revoked guide!
 
 - This will work as long as you read and do all of the steps properly!
 
