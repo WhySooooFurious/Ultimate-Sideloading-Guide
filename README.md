@@ -30,7 +30,7 @@ If you have any issues, requests or ideas please make an issue on GitHub or Disc
 
 ## How does this method work?
 
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+By using enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
@@ -38,13 +38,13 @@ We have made our own app called "Portal" and it contains all links to ESign, Fea
 
 We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
 
-The madNS Config Profile itself uses NextDNS and is transparent as we could make it be. It is run for by donators and will keep running for as long as possible.
+The madNS Config Profile itself uses NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
 
 ## Before we start
 
 - This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
 
-- If you know that you are revoked you will need to follow the the Revoked guide [here]
+- If you know that you are revoked you will need to follow the the Revoked guide [here](#revoked)
 
 - This will work as long as you read and do all of the steps properly!
 
@@ -98,11 +98,28 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 
 ### WSF Config Profile
 
-Doesn't support VPN's, Feather or ChatGPT and is very privacy-oriented
+Pros:
+
+- Privacy Oriented
+
+- Generally more stable
+
+Cons:
+
+- No VPN, Feather or ChatGPT support
+
 
 ### madNS Config Profile
 
-Supports VPNs, Feather and ChatGPT.
+Pros:
+
+- Supports VPNs, Feather and ChatGPT.
+
+- Privacy oriented as can be!
+
+Cons:
+
+- None that I can think of lol
 
 ### What does Update Blocker or Ad-Blocker mean?
 
@@ -117,20 +134,30 @@ Make sure you don't have any VPNs turned on during the installation even when us
 ### Part [1/2] Installing the Config Profile
 
 1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
+
 2. Click on Download, and the profile should be imported into settings automatically
+  
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+
 4. It should now automatically be enabled
+  
 5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
 ### Part [2/2] Installing Portal
 
 1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
-3. Click on install once the popup comes up
-4. Open settings and go to General > VPN & Device Management > (should show the Portal app under the certificate you picked back in Step 1)
-5. Click on Trust at the top then click on allow, after this your device might need to be restarted
-6. If your device was restarted, swipe up and click on install profile
-7. Portal should now be on your home screen, fully functional
-8. Now read the guides in Portal to install your chosen sideloade!
+  
+2. Click on install once the popup comes up
+
+3. Open settings and go to General > VPN & Device Management > (should show the Portal app under the certificate you picked back in Step 1)
+
+4. Click on Trust at the top then click on allow, after this your device might need to be restarted
+
+5. If your device was restarted, swipe up and click on install profile
+
+6. Portal should now be on your home screen, fully functional
+
+7. Now read the guides in Portal to install your chosen sideloader!
 
 ## Downloads
 
@@ -153,22 +180,22 @@ You need to follow the Revoked Guide [here](#revoked), or alternatively you can 
 
 Method 1 has a very high success rate and will not erase your data.
 
-Method 2 will definitely work and it will erase your data.
+Method 2 will definitely work but it will erase your data completely.
 
 You must not use any backups with Method 2
 
 ### Method 1
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
-2. Back up your device with iTunes or Finder
-3. After backing up, restore your device in Recovery Mode or DFU mode.
-5. Plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-6. Now follow the guide again from Installing the Config Profile
+2. Back up your device with iTunes for Windows or Finder for macOS
+3. After backing up, connect your device to your macOS or Windows device and boot your device in Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
+5. Your device should be detected automatically, and then click on Update, dont click on Restore!
+6. Now follow the guide again from [Installing the Config Profile](#installing-the-config-profile]
 
 ### Method 2
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
-2. Restore your device using Recovery Mode or DFU mode
-6. Now follow the guide again from Installing the Config Profile
+2. Restore your device using Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
+3. Now follow the guide again from [Installing the Config Profile](#installing-the-config-profile]
 
 
