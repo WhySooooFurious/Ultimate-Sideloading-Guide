@@ -1,7 +1,5 @@
 # Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
-(Won't redirect you anywhere if you're already on it)
-
 # Introduction
 
 Welcome to my guide on how to sideload on Apple Devices!
