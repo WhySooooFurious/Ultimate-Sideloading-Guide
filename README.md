@@ -1,10 +1,13 @@
 # Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
 
 # Use this [website](https://whysoooofurious.github.io/Ultimate-Sideloading-Guide/) instead of Github!
+
 (Won't redirect you anywhere if you're already on it)
 
 # Introduction
+
 Welcome to my guide on how to sideload on Apple Devices!
+
 Some of the advantages with using this method:
 
 - Free!
@@ -26,11 +29,13 @@ Some of the advantages with using this method:
 If you have any issues, requests or ideas please make an issue on GitHub or Discord.
 
 ## How does this method work?
+
 By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
 ## Unsupported Methods
+
 We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
 madNS itself uses NextDNS and is transparent as we could make it be. It is run for by donators and will keep running for as long as possible.
 
@@ -43,9 +48,11 @@ madNS itself uses NextDNS and is transparent as we could make it be. It is run f
 - This will work as long as you read and do all of the steps properly!
 
 ## Compatibility
+
 This should work for all iOS and iPadOS devices on latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
 ## Privacy
+
 You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
 
 If you have still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings for yourself.
@@ -64,6 +71,7 @@ The WSF Config Profile isn't a DNS since just redirects Apple Servers to https:/
 , you can verify this by opening the profile in any text editor.
 
 ## FAQ
+
 ---
 
 Q - Can I use a VPN?
@@ -89,12 +97,15 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 ## Which Config Profile do I choose?
 
 ### WSF Config Profile
-Doesn't support VPN's, Feather or ChatGPT
+
+Doesn't support VPN's, Feather or ChatGPT and is very privacy-oriented
 
 ### madNS Config Profile
+
 Supports VPNs, Feather and ChatGPT.
 
 ### What does Update Blocker or Ad-Blocker mean?
+
 Update Blocker: Blocks Apple OTA Updates
 
 Ad-Blocker: Blocks most online Ads and Trackers
@@ -104,6 +115,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 ## Installation Guide
 
 ### Part [1/2] Installing the Config Profile
+
 1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
 2. Click on Download, and the profile should be imported into settings automatically
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
@@ -111,6 +123,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
 ### Part [2/2] Installing Portal
+
 1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
 3. Click on install once the popup comes up
 4. Open settings and go to General > VPN & Device Management > (should show the Portal app under the certificate you picked back in Step 1)
@@ -145,6 +158,7 @@ Method 2 will definitely work and it will erase your data.
 You must not use any backups with Method 2
 
 ### Method 1
+
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
 2. Back up your device with iTunes or Finder
 3. After backing up, restore your device in Recovery Mode or DFU mode.
@@ -152,6 +166,7 @@ You must not use any backups with Method 2
 6. Now follow the guide again from Installing the Config Profile
 
 ### Method 2
+
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
 2. Restore your device using Recovery Mode or DFU mode
 6. Now follow the guide again from Installing the Config Profile
