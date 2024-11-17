@@ -68,8 +68,7 @@ madNS Config Profile + Update Blocker
 or
 madNS Config Profile + Update Blocker + Ad-Blocker
 
-The WSF Config Profile isn't a DNS since just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns.
-, you can verify this by opening the profile in any text editor.
+The WSF Config Profile isn't a DNS since just redirects Apple Servers to https://localhost.direct which is your local network, so no privacy concerns, you can verify this by opening the profile in any text editor.
 
 ## FAQ
 
