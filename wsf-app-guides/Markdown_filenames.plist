@@ -40,15 +40,15 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Troubleshooting</string>
-		<key>file_name</key>
-		<string>troubleshooting.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Sources</string>
 		<key>file_name</key>
 		<string>sources.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
+		<string>Troubleshooting</string>
+		<key>file_name</key>
+		<string>troubleshooting.md</string>
 	</dict>
 	<dict>
 		<key>file_title</key>
