@@ -55,7 +55,7 @@ If you still have privacy concerns about the madNS Config Profile, make an issue
 
 Make sure to mention exactly what the madNS's profile name is so I can give it to you!
 
-If you STILL have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
+If you STILL have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure requests will never reach Apple!
 
 ### [FAQ](accent://)
 
