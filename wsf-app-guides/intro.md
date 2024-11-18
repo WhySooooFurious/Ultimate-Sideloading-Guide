@@ -29,9 +29,9 @@ By using leaked business enterprise certificates, We can sign apps using their c
 
 We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
-### Unsupported Methods
+### [Unsupported Methods](accent://)
 
-We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. They will also have no instructions on how to use our app called Portal.
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit quite easily. They will also have no instructions on how to use our app called Portal meaning we'll get useless questions.
 
 The madNS Config Profile itself uses NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
 
