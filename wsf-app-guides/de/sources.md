@@ -1,1 +1,0 @@
-ESign etc. Quellen sind im Discord Server im #FAQ channel!
