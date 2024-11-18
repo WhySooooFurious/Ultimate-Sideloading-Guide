@@ -17,8 +17,6 @@ Some of the advantages with using this method:
 
 - Takes 5 Minutes to Setup!
 
-- Apps stay for up to 1 year!
-
 - Compatible with Scarlet/Feather/ESign/GBox
 
 If you have any issues, requests or ideas please make an issue on [GitHub](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide) or [Discord](https://discord.gg/wsf).
