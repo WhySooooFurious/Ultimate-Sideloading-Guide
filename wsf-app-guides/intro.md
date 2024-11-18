@@ -31,7 +31,7 @@ We have made our own app called "Portal" and it contains all links to ESign, Fea
 
 ### Unsupported Methods
 
-We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. They will also have no instructions on how to use our app called Portal.
 
 The madNS Config Profile itself uses NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
 
