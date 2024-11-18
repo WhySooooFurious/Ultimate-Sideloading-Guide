@@ -25,7 +25,7 @@ If you have any issues, requests or ideas please make an issue on [GitHub](https
 
 ### [How does this method work?](accent://)
 
-By using leaked business enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+By using leaked business enterprise certificates, We can sign apps using their credentials, meaning Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
 We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
