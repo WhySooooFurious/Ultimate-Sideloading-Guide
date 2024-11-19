@@ -88,9 +88,9 @@ A - No, Those listed services use developer signing instead of Enterprise signin
 
 Pros:
 
-- Privacy Oriented
+- Privacy Oriented.
 
-- Generally more stable
+- Generally more stable.
 
 Cons:
 
@@ -103,7 +103,7 @@ Pros:
 
 - Supports VPNs, Feather and ChatGPT.
 
-- Privacy oriented as can be!
+- Privacy oriented as can be.
 
 Cons:
 
