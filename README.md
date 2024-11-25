@@ -147,6 +147,8 @@ Make sure you don't have any VPNs turned on during the installation even when us
 
 7. Now read the guides in Portal to install your chosen sideloader!
 
+8. Enjoy sideloading apps
+
 ## Downloads
 
 Download Link is in the #FAQ channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
