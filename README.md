@@ -151,7 +151,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 
 ## Downloads
 
-Download Link is in the #FAQ channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
+Download Link is in the #links channel in the Discord [Server](https://discord.gg/kwvwkCBhxT)
 
 ## Troublshooting
 
