@@ -1,4 +1,4 @@
-# Join this Discord [server](https://discord.gg/kwvwkCBhxT) for updates regarding everything!
+# Join this Discord [server](https://discord.gg/wsf) for updates regarding everything!
 
 # Introduction
 
