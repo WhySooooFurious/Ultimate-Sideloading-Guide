@@ -28,12 +28,6 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Using IPASignPro</string>
-		<key>file_name</key>
-		<string>using_ipasignpro.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Installing ESign</string>
 		<key>file_name</key>
 		<string>installing_esign.md</string>
