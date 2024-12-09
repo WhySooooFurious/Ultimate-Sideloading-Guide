@@ -1,56 +1,33 @@
-## [VPN Setup](accent://)
+## VPN Setup
 
-Note that most free VPNs won't work with this and you'll need to find out what type of DNS your VPN supports and replace them with the listings below. WSF Config Profile will not work!
+Note that most free VPNs won't work.
 
-### [Part [1/1] Using VPNs](accent://)
+Octohide VPN does work.
 
-1. Find your VPN's DNS settings and replace them with the following information provided. 
-Remove the space after https:// for DNS over HTTPS
+### Part [1/1] Using VPNs
 
-#### [madNS Config Profile:](accent://)
+1. Find your VPN's DNS settings and replace them with the following information provided.
 
-DNS Servers:
-
-45.90.28.21
-
-45.90.30.21
+### madNS Config Profile:
 
 DNS over HTTPS:
 
-https:// dns.nextdns.io/8bf6c6
+https://dns.nextdns.io/8bf6c6
 
-#### [madNS Config Profile + Update Blocker:](accent://)
-
-DNS Servers:
-
-45.90.28.210
-
-45.90.30.210
+### madNS Config Profile + Update Blocker:
 
 DNS over HTTPS:
 
-https:// dns.nextdns.io/595d8c
+https://dns.nextdns.io/595d8c
 
-#### [madNS Config Profile + Ad-Blocker:](accent://)
-
-DNS Servers:
-
-45.90.28.104
-
-45.90.30.104
+### madNS Config Profile + Ad-Blocker:
 
 DNS over HTTPS:
 
-https:// dns.nextdns.io/335179
+https://dns.nextdns.io/335179
 
-#### [madNS Config Profile + Update Blocker + Ad-Blocker:](accent://)
-
-DNS Servers:
-
-45.90.28.239
-
-45.90.30.239
+### madNS Config Profile + Update Blocker + Ad-Blocker:
 
 DNS over HTTPS:
 
-https:// dns.nextdns.io/828ff2
+https://dns.nextdns.io/828ff2
