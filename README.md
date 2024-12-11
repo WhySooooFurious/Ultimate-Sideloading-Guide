@@ -1,4 +1,3 @@
-# Join this Discord [server](https://discord.gg/wsf) for updates regarding everything!
 
 # Introduction
 
