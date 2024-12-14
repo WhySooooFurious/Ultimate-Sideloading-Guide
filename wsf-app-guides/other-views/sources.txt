@@ -1,0 +1,3 @@
+https://theodyssey.dev/altstore/odysseysource.json
+https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json
+https://qnblackcat.github.io/AltStore/apps.json
