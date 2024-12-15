@@ -33,7 +33,6 @@ https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltSt
 https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json/
 https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json/
 https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json/
-https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json/
 https://raw.githubusercontent.com/TheNightmanCodeth/chromium-ios/master/altstore-source.json/
 https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json/
 https://burritosoftware.github.io/altstore/channels/burritosource.json/
