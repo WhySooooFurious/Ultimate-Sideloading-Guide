@@ -1,5 +1,3 @@
-# Join this Discord [server](https://discord.gg/wsf) for updates regarding everything!
-
 # Introduction
 
 Welcome to my guide on how to sideload on Apple Devices!
