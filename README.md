@@ -20,33 +20,30 @@ Some of the advantages with using this method:
 
 - Takes 5 Minutes to Setup!
 
-- Compatible with Scarlet/Feather/ESign/GBox
-
-If you have any issues, requests or ideas please make an issue on GitHub or Discord.
+- Compatible with ESign/Feather/GBox/Scarlet
 
 ## How does this method work?
 
-By using enterprise certificates, We can sign apps using their credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
+By using enterprise certificates, We can sign apps using enterprise credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
-We have made our own app called "Portal" and it contains all links to ESign, Feather, GBox and Scarlet inside the app itself!
+We have made our own app called Portal and it contains everything you'll ever need for sideloading, and additionally has all links to ESign, Feather, GBox and Scarlet inside the app itself!
 
 ## Unsupported Methods
 
-We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit. 
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit.
 
-The madNS Config Profile itself uses NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
+They will also not have the required information on how to use Portal and are not accurate.
+
+The madNS Config Profile itself does use NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
 
 ## Before we start
 
-- This might not work for you if you've been using other enterprise sideloaders as the certificates might be revoked on your device!
+- This might not work for you if you've been using other enterprise sideloaders!
 
-- If you know that you are revoked you will need to follow the the Revoked guide [here](#revoked)
+- This should work for all iOS and iPadOS devices on latest iOS versions, won't work for iOS 15 and below.
 
 - This will work as long as you read and do all of the steps properly!
 
-## Compatibility
-
-This should work for all iOS and iPadOS devices on latest iOS versions, won't work for iOS 15 and below. The guide is compatible with other sideloading services as long as they rely on enterprise certificates to install.
 
 ## Privacy
 
@@ -64,23 +61,23 @@ If you STILL have privacy concerns, use the WSF Config Profile, it uses a native
 
 Q - Can I use a VPN?
 
-A - You can if you're utilising the madNS Config Profile, make sure to set it up first! VPN Guide is in the Portal app!
+A - You can if you're utilising the madNS Config Profile, make sure to set it up first! VPN Guide is in the Portal app and Discord!
 
 ---
 
 Q - Will a restart bypass this and revoke my apps?
 
-A - Some users have found that on older devices, your apps might revoke, disable Wi-Fi and enable Airplane Mode when wanting to restart or shutdown.
+A - Disable Wi-Fi and enable Airplane Mode when wanting to restart or shutdown.
 
 ---
 
 Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
 
-A - No, Those listed services use developer signing instead of Enterprise signing so they are fine to use alongside! You will however need to setup the Sideloadly's WireGuard, VPN Guide is in the Portal app!
+A - No, You will however need to setup the Sideloadly's WireGuard using the VPN Guide which is in the Portal app and Discord.
 
 ---
 
-# Starting the main guide, Read everything carefully!
+# Main Guide!
 
 ## Which Config Profile do I choose?
 
