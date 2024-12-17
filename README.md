@@ -122,7 +122,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
   
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
 
-4. It should now automatically be enabled
+4. It should be enabled automatically
   
 5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
@@ -138,11 +138,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 
 5. If your device was restarted, swipe up and click on install profile
 
-6. Portal should now be on your home screen, fully functional
-
-7. Now read the guides in Portal to install your chosen sideloader!
-
-8. Enjoy sideloading apps
+6. Now, open up Portal and read the guides to sideload apps!
 
 ## Downloads
 
@@ -158,7 +154,7 @@ Download Link is in the #links channel in the Discord [Server](https://discord.g
 
 - Integrity could not be verified? 
 
-You need to follow the Revoked Guide [here](#fixing-revokes), or alternatively you can try other download links!
+Try other downloads links, if they don't work, then follow this [guide](#fixing-revokes).
 
 ---
 
