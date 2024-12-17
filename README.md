@@ -162,26 +162,31 @@ You need to follow the Revoked Guide [here](#revoked), or alternatively you can 
 
 ---
 
-# Revoked?
+## Fixing Revokes
 
-Method 1 has a very high success rate and will not erase your data.
+Method 1 has a very high success rate and requires a computer
 
-Method 2 will definitely work but it will erase your data completely.
+Method 2 has a very low success rate and doesn't require a computer
 
-You must not use any backups with Method 2
+Method 3 will definitely work, requires a computer and it will erase your data.
 
-### Method 1
+You must not use any backups with Method 3
 
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
-2. Back up your device with iTunes for Windows or Finder for macOS
-3. After backing up, connect your device to your macOS or Windows device and boot your device in Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
-5. Your device should be detected automatically, and then click on Update, dont click on Restore!
-6. Now follow the main guide again
-
-### Method 2
-
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
-2. Restore your device using Recovery Mode using this [guide](https://support.apple.com/en-au/118106)
-3. Now follow the main guide again
+### [Method 1](accent://)
+1. Remove the Config Profile and uninstall every app you've installed
+2. Back up your device with iTunes or Finder
+3. After backing up, restore your device in DFU mode
+4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+5. Now, follow the guide again from Installing the Config Profile
+### [Method 2](accent://)
+1. Remove the Config Profile and uninstall every app you've installed
+2. Back up your device using iCloud
+3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
+4. Restore your iCloud backup when it is successful
+3. Now, follow the guide from Installing the Config Profile
+### [Method 3](accent://)
+1. Remove the Config Profile and uninstall every app you've installed
+2. Restore your device using DFU mode in iTunes or Finder
+3. Now, follow the guide from Installing the Config Profile
 
 
