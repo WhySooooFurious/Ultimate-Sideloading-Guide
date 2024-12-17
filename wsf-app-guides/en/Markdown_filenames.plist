@@ -16,18 +16,6 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Introduction</string>
-		<key>file_name</key>
-		<string>introduction.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
-		<string>Installing the Config Profile</string>
-		<key>file_name</key>
-		<string>installing_the_config_profile.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Portal Guide</string>
 		<key>file_name</key>
 		<string>portal_guide.md</string>
