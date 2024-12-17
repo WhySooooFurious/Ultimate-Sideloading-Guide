@@ -1,3 +1,3 @@
 ## [Sources](accent://)
 
-Sources are available in the Discord Server, in the #FAQ channel!
+Sources are available in the Discord Server, in the #sources channel!
