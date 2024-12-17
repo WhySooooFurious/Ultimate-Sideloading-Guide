@@ -128,7 +128,7 @@ Make sure you don't have any VPNs turned on during the installation even when us
 
 ### Part [2/2] Installing Portal
 
-1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#revoked)
+1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#fixing-revokes)
   
 2. Click on install once the popup comes up
 
@@ -172,21 +172,34 @@ Method 3 will definitely work, requires a computer and it will erase your data.
 
 You must not use any backups with Method 3
 
-### [Method 1](accent://)
+### Method 1
+
 1. Remove the Config Profile and uninstall every app you've installed
+  
 2. Back up your device with iTunes or Finder
+  
 3. After backing up, restore your device in DFU mode
+  
 4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+  
 5. Now, follow the guide again from Installing the Config Profile
-### [Method 2](accent://)
+   
+### Method 2
+
 1. Remove the Config Profile and uninstall every app you've installed
+
 2. Back up your device using iCloud
+
 3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
+
 4. Restore your iCloud backup when it is successful
-3. Now, follow the guide from Installing the Config Profile
-### [Method 3](accent://)
+
+5. Now, follow the guide from Installing the Config Profile
+
+### Method 3
+
 1. Remove the Config Profile and uninstall every app you've installed
+
 2. Restore your device using DFU mode in iTunes or Finder
+
 3. Now, follow the guide from Installing the Config Profile
-
-
