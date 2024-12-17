@@ -1,0 +1,13 @@
+## [Post Install Notes](accent://)
+
+- You must never disable the Config Profile!
+
+- Go into Airplane Mode if you're switching to another Config Profile!
+
+- You cannot use a VPN unless you're using the madNS Config Profile for which you need to follow the VPN Guide!
+
+- Disable WiFi and enable Airplane Mode when wanting to restart!
+
+- Check for Updates, Announcements and Certificate Information in Portal periodically!
+
+Not following the Post Install Notes will cause your apps to be revoked!
