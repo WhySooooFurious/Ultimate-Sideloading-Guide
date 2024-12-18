@@ -33,7 +33,7 @@ If anything important is missing, or you have a question, message in #contributo
 
 # Part [1/2] Setting everything up
 
-1. Make sure you've downloaded the guides themselves, download the .zip from [here](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip)
+1. Make sure you've downloaded the guides themselves, download the .zip from https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip
 
 2. The folder you will need is the wsf-app-guides, you can delete the others
 
