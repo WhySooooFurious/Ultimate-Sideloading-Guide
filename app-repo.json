@@ -1,0 +1,40 @@
+{
+  "name": "WSF Portal",
+  "identifier": "com.timi2506.wsf-portal-repo",
+  "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+  "apps": [
+    {
+      "name": "Portal",
+      "bundleIdentifier": "com.timi2506.wsf-portal",
+      "developerName": "timi2506",
+      "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+      "localizedDescription": "The Portal to everything WSF - written in SwiftUI, download at: whysoooofurious.netlify.app/Portal",
+      "subtitle": "The Portal to everything WSF",
+      "tintColor": "e9c3fa",
+      "versions": [
+        {
+          "version": "latest",
+          "size": 27000000,
+          "downloadURL": "https://whysoooofurious.netlify.app/Portal"
+        }
+      ],
+      "size": 27000000,
+      "version": "latest",
+      "downloadURL": "https://whysoooofurious.netlify.app/Portal"
+      "appPermissions": {}
+    }
+  ],
+  "news": [
+      {
+          "title": "New Feature Announcement",
+          "identifier": "new_feature",
+          "caption": "Introducing a new feature in AltStore!",
+          "date": "2024-12-18",
+          "tintColor": "#e9c3fa",
+          "imageURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+          "notify": true,
+          "url": "https://whysoooofurious.netlify.app/Portal"
+          "appID": "com.timi2506.wsf-portal"
+        }
+  ]
+}
