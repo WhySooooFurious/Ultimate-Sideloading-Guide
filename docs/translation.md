@@ -39,7 +39,8 @@ If anything important is missing, or you have a question, message in #contributo
 
 3. Go into the "en" folder and you'll see all the guides you will need.
 
-4. Open up maintainer_information.md and TRANSLATE the following into your language as described down below.
+4. Open up maintainer_information.md and TRANSLATE the following into your language as described down below. Keep in mind: If you are a part of the WSF team you can input the following:
+   All information here is always accurate and up to date.
 
 ## [Maintainer Information](accent://)
 
