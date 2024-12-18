@@ -1,4 +1,4 @@
-## [Maintainer Notes](accent://)
+## [Maintainer Information](accent://)
 
 Maintained by WSF
 
