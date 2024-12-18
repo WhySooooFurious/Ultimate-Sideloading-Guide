@@ -1,79 +1,96 @@
-# This is a guide on how to translate Portal's Guides.
-Be sure to read this carefully and fully without error.
+# Translation Guide for Portal's Guides
 
-I recommend you use a PC or Laptop as this will be seriously inefficient to do on a phone.
+Please read this guide carefully and follow all instructions precisely. For efficiency, use a PC or laptop instead of a phone.
 
-What you CANNOT do:
-- Do NOT remove/change any # or ## or ###
-- Do NOT remove the (accent://)
-- Do NOT remove the [ or ] in a title
-- Do NOT change the meaning of any text
-- Do NOT change filenames at all
-- Do NOT remove titles or descriptions
-- Do NOT remove any text even if it seems useless to you
-- Do NOT remove or take out spacing in between steps
-- Do NOT add your own information
+## What You **Cannot** Do
+- **Headings:** Do not remove or alter `#`, `##`, or `###`.
+- **Special Text:** Do not remove `(accent://)` or the `[ ]` in titles.
+- **Content Integrity:** Do not change the meaning, filenames, titles, descriptions, or any text, even if it seems unnecessary.
+- **Formatting:** Do not remove or alter spacing between steps.
+- **Additions:** Do not add your own information.
 
-What you CAN do
-- You HAVE to be precise and accurate in your translation
-- You CAN switch up punctuation, grammar and some words to make it easier for your language to keep the meaning
-- You CAN change titles
+## What You **Can** Do
+- **Translation:** Translate accurately and precisely.
+- **Language Adjustment:** Adjust punctuation, grammar, and some words for clarity in your language.
+- **Titles:** You may change titles as needed.
 
-Notes:
-- Do NOT translate the contents of certificates_information.md, you CAN translate the title only.
-- Should be obvious but do NOT translate something like "madNS Config Profile," it helps us during troubleshooting
-- You HAVE to keep some English words the same, for example:
+## Additional Notes
+- **Certificates Information:** Only translate the title of `certificates_information.md`; do not translate its contents.
+- **Technical Terms:** Do not translate terms like "madNS Config Profile" to aid troubleshooting.
+- **Keep Certain English Terms Unchanged:**
   - Discord
   - Portal
   - Revoked
   - Certs or Certificates
 
-If anything important is missing, or you have a question, message in #contributor-chat for help
+If you have any questions or notice missing information, please reach out in `#contributor-chat` for assistance.
 
+---
 
-# Part [1/2] Setting everything up
+## Part 1 of 2: Setting Everything Up
 
-1. Make sure you've downloaded the guides themselves, download the .zip from https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip
+1. **Download Guides:**
+   - Download the `.zip` file from [GitHub](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip).
 
-2. The folder you will need is the wsf-app-guides, you can delete the others
+2. **Extract Folder:**
+   - Keep the `wsf-app-guides` folder and delete the others.
 
-3. Go into the "en" folder and you'll see all the guides you will need.
+3. **Locate Guides:**
+   - Navigate to the `en` folder to find all necessary guides.
 
-4. Open up maintainer_information.md and TRANSLATE the following into your language as described down below. Keep in mind: If you are a part of the WSF team you can input the following:
-   All information here is always accurate and up to date.
+4. **Translate Maintainer Information:**
+   - Open `maintainer_information.md`.
+   - Translate the content into your language, ensuring accuracy.
+   - **If you are part of the WSF team, use:**
+     ```
+     All information here is always accurate and up to date.
+     ```
+   - **Otherwise, translate the following:**
+     ```markdown
+     ## [Maintainer Information](accent://)
 
-## [Maintainer Information](accent://)
+     Maintained by (your_name_or_username_here)
 
-Maintained by (put_your_name_or_username_here)
+     All information here is maintained by a translator and may not be accurate or up to date.
 
-All information here is maintained by a translator and may not be accurate or up to date.
+     If you require help, join the [Discord Server](https://discord.gg/wsf)
+     ```
 
-If you require help, join the [Discord Server](https://discord.gg/wsf)
+5. **Save File:**
+   - Save your translated file. Congratulations, you have successfully translated a file!
 
-5. Save the file, congrats, you translated a file!
+---
 
-# Part [2/2] Translating and additionally editing Markdown_filenames.plist
+## Part 2 of 2: Translating and Editing `Markdown_filenames.plist`
 
-1. You should now go on and translate other .md files, make SURE to keep in mind of the Do's and Don'ts.
+1. **Translate Other `.md` Files:**
+   - Proceed to translate the remaining `.md` files, adhering to the guidelines above.
 
-2. Now, open up Markdown_filenames.plist
+2. **Edit `Markdown_filenames.plist`:**
+   - Open `Markdown_filenames.plist`.
+   - **Only translate the `<string>Maintainer Notes</string>` line.** Do not modify anything else to prevent Portal from malfunctioning.
+   - **Example:**
+     ```xml
+     <dict>
+         <key>file_title</key>
+         <string>Maintainer Notes</string>
+         <key>file_name</key>
+         <string>maintainer_notes.md</string>
+     </dict>
+     ```
 
-3. Here you can only translate: <string>Maintainer Notes</string>
-   as shown below. Do NOT touch anything else otherwise Portal will be stuck in a loop.
+3. **Review Your Work:**
+   - Double-check all files for spelling, grammar, punctuation, and spacing errors.
 
-	<dict>
-		<key>file_title</key>
-		<string>Maintainer Notes</string>
-		<key>file_name</key>
-		<string>maintainer_notes.md</string>
-	</dict>
+4. **Submit Translations:**
+   - Compress your translated files and submit them.
 
-4. After translation, be SURE to check your double check your files for any spelling errors, grammar or punctuation errors and general errors such as spacing
+5. **Team Review:**
+   - The WSF Team will review your submissions to ensure all steps have been followed correctly.
 
-5. You should now give us the files, preferably in a compressed format.
+6. **Thank You:**
+   - The entire WSF Team sincerely thanks you for your efforts in enhancing Portal!
 
-6. We will check the files ourselves and see if you have followed steps correctly!
+---
 
-7. The whole WSF Team thanks you for your efforts whole heartedly and appreciates your efforts to make Portal great!
-
-   
+If you follow these instructions carefully, your translation will contribute significantly to making Portal accessible to a wider audience. Thank you for your dedication!
