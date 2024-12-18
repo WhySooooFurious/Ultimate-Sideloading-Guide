@@ -1,40 +1,53 @@
 {
   "name": "WSF Portal",
-  "identifier": "com.timi2506.wsf-portal-repo",
+  "subtitle": "A source for everything WSF",
+  "description": "Download at whysoooofurious.netlify.app/Portal",
   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+  "website": "https://whysoooofurious.netlify.app/Portal",
+  "tintColor": "#E9C3FA",
+  "featuredApps": [
+    "com.timi2506.wsf-portal"
+  ],
   "apps": [
     {
-      "name": "Portal",
-      "bundleIdentifier": "com.timi2506.wsf-portal",
-      "developerName": "timi2506",
-      "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
-      "localizedDescription": "The Portal to everything WSF - written in SwiftUI, download at: whysoooofurious.netlify.app/Portal",
-      "subtitle": "The Portal to everything WSF",
-      "tintColor": "e9c3fa",
-      "versions": [
-        {
-          "version": "latest",
-          "size": 27000000,
-          "downloadURL": "https://whysoooofurious.netlify.app/Portal"
-        }
-      ],
-      "size": 27000000,
-      "version": "latest",
-      "downloadURL": "https://whysoooofurious.netlify.app/Portal"
-      "appPermissions": {}
-    }
+        "name": "Portal",
+        "bundleIdentifier": "com.timi2506.wsf-portal",
+        "developerName": "timi2506",
+        "subtitle": "A Portal to everything WSF",
+        "localizedDescription": "A Portal to everything WSF - Written in SwiftUI",
+        "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+        "tintColor": "#E9C3FA",
+        "category": "utilities",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [
+          {
+    "version": "1.0",
+    "buildVersion": "1",
+    "date": "2024-12-18",
+    "localizedDescription": "Download at whysoooofurious.netlify.app/Portal",
+    "downloadURL": "https://whysoooofurious.netlify.app/Portal",
+    "size": 27000000,
+    "minOSVersion": "16.0"
+  },
+        ],
+        "appPermissions": {},
+    },
   ],
   "news": [
-      {
-          "title": "New Feature Announcement",
-          "identifier": "new_feature",
-          "caption": "Introducing a new feature in AltStore!",
-          "date": "2024-12-18",
-          "tintColor": "#e9c3fa",
-          "imageURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
-          "notify": true,
-          "url": "https://whysoooofurious.netlify.app/Portal"
-          "appID": "com.timi2506.wsf-portal"
-        }
-  ]
+    {
+    "title": "Portal",
+    "identifier": "release",
+    "caption": "Download WSF Portal now",
+    "date": "2024-12-18",
+    "tintColor": "#E9C3FA",
+    "imageURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+    "notify": true,
+    "url": "https://whysoooofurious.netlify.app/Portal",
+    "appID": "com.timi2506.wsf-portal"
+  },
+  ],
 }
