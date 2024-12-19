@@ -26,12 +26,6 @@ By using enterprise certificates, We can sign apps using enterprise credentials 
 
 We have made our own app called Portal and it contains everything you'll ever need for sideloading, and additionally has direct downloads to ESign, Feather, GBox and Scarlet inside the app itself!
 
-## Unsupported Methods
-
-We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that query limit. They will not teach you on how to use Portal, are not accurate and don't have all needed information.
-
-The madNS Config Profile uses NextDNS and is paid for by donators.
-
 ## Privacy
 
 You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
@@ -41,6 +35,12 @@ If you still have privacy concerns about the madNS Config Profile, make an issue
 Make sure to mention exactly what the madNS's profile name is so I can give it to you!
 
 If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
+
+## Unsupported Methods
+
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that query limit. They will not teach you on how to use Portal, are not accurate and don't have all needed information.
+
+The madNS Config Profile uses NextDNS and is paid for by donators.
 
 ## FAQ
 
