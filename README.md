@@ -1,8 +1,8 @@
 # Introduction
 
-Welcome to my guide on how to sideload on Apple Devices!
+Welcome to our guide on how to sideload on Apple Devices!
 
-Some of the advantages with using this method:
+Advantages with using this method:
 
 - Free!
 
@@ -24,24 +24,13 @@ Some of the advantages with using this method:
 
 By using enterprise certificates, We can sign apps using enterprise credentials which means Apple lets us install the apps without any hassle, however after a while Apple revokes the certificate which can be easily bypassed by using this method.
 
-We have made our own app called Portal and it contains everything you'll ever need for sideloading, and additionally has all links to ESign, Feather, GBox and Scarlet inside the app itself!
+We have made our own app called Portal and it contains everything you'll ever need for sideloading, and additionally has direct downloads to ESign, Feather, GBox and Scarlet inside the app itself!
 
 ## Unsupported Methods
 
-We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that limit.
+We don't support other guides that use services such as NextDNS as those have limits, and apps will revoke if you pass that query limit. They will not teach you on how to use Portal, are not accurate and don't have all needed information.
 
-They will also not have the required information on how to use Portal and are not accurate.
-
-The madNS Config Profile itself does use NextDNS and is transparent as we could make it. It is run for by donators and will keep running for as long as possible.
-
-## Before we start
-
-- This might not work for you if you've been using other enterprise sideloaders!
-
-- This should work for all iOS and iPadOS devices on latest iOS versions, won't work for iOS 15 and below.
-
-- This will work as long as you read and do all of the steps properly!
-
+The madNS Config Profile uses NextDNS and is paid for by donators.
 
 ## Privacy
 
@@ -51,7 +40,7 @@ If you still have privacy concerns about the madNS Config Profile, make an issue
 
 Make sure to mention exactly what the madNS's profile name is so I can give it to you!
 
-If you STILL have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
+If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, making sure it will never reach Apple and revoke your apps!
 
 ## FAQ
 
@@ -59,13 +48,7 @@ If you STILL have privacy concerns, use the WSF Config Profile, it uses a native
 
 Q - Can I use a VPN?
 
-A - You can if you're utilising the madNS Config Profile, make sure to set it up first! VPN Guide is in the Portal app and Discord!
-
----
-
-Q - Will a restart bypass this and revoke my apps?
-
-A - Disable Wi-Fi and enable Airplane Mode when wanting to restart or shutdown.
+A - You can if you're utilising the madNS Config Profile, make sure to set it up by using the VPN Guide is in the Portal app and Discord!
 
 ---
 
@@ -83,9 +66,7 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 Pros:
 
-- Privacy Oriented.
-
-- Generally more stable.
+- Privacy Oriented
 
 Cons:
 
@@ -96,21 +77,21 @@ Cons:
 
 Pros:
 
-- Supports VPNs, Feather and ChatGPT.
+- Supports VPNs, Feather and ChatGPT
 
-- Privacy oriented as can be.
+- Privacy oriented as can be
 
 Cons:
 
-- None.
+- None
 
 ### What does Update Blocker or Ad-Blocker mean?
 
 Update Blocker: Blocks Apple OTA Updates
 
-Ad-Blocker: Blocks most online Ads and Trackers
+Ad-Blocker: Blocks Ads and Trackers
 
-Make sure you don't have any VPNs turned on during the installation even when using the madNS Config Profile as you need to setup the VPN.
+Don't use VPNs while installing unless you've set it up using the VPN Setup Guide
 
 ## Installation Guide
 
@@ -166,8 +147,6 @@ Method 2 has a very low success rate and doesn't require a computer
 
 Method 3 will definitely work, requires a computer and it will erase your data.
 
-You must not use any backups with Method 3
-
 ### Method 1
 
 1. Remove the Config Profile and uninstall every app you've installed
@@ -178,7 +157,7 @@ You must not use any backups with Method 3
   
 4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
   
-5. Now, follow the guide again from Installing the Config Profile
+5. Now, follow the guide again
    
 ### Method 2
 
@@ -190,7 +169,7 @@ You must not use any backups with Method 3
 
 4. Restore your iCloud backup when it is successful
 
-5. Now, follow the guide from Installing the Config Profile
+5. Now, follow the guide again
 
 ### Method 3
 
@@ -198,4 +177,4 @@ You must not use any backups with Method 3
 
 2. Restore your device using DFU mode in iTunes or Finder
 
-3. Now, follow the guide from Installing the Config Profile
+3. Now, follow the guide again
