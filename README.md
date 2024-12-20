@@ -46,6 +46,12 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ---
 
+## Portal
+
+We have our very own app called Portal, it has a range of guides, download links to popular sideloaders, a functional sources viewer. 
+
+Portal is easy to use, stable and easier to maintain.
+
 # Main Guide!
 
 ## Which Config Profile do I choose?
