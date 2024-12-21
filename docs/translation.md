@@ -2,6 +2,8 @@
 
 Please read this guide carefully and follow all instructions precisely. For efficiency, use a PC or laptop instead of a phone.
 
+Additionally you can use tools like VSCode to make this easier, I myself just use the XCode or TextEdit for small changes.
+
 ## What You **Cannot** Do
 - **Headings:** Do not remove or alter `#`, `##`, or `###`.
 - **Special Text:** Do not remove `(accent://)` or the `[ ]` in titles.
@@ -16,7 +18,6 @@ Please read this guide carefully and follow all instructions precisely. For effi
 - **Titles:** You may translate titles
 
 ## Additional Notes
-- **Specific MD:** Only translate the title of `certificates_information.md`; do not translate it's contents.
 - **Technical Terms:** Do not translate terms like "madNS Config Profile" to aid troubleshooting.
 - **Keep Certain English Terms Unchanged:**
   - Discord
@@ -28,8 +29,9 @@ Please read this guide carefully and follow all instructions precisely. For effi
   - GBox
   - Scarlet
   - Sources
+  - Any Certificate names
  
-  - And any others if you feel the need to
+  - And any others if you feel the need to after consulting me.
 
 If you have any questions or notice missing information, please reach out in `#contributor-chat` for assistance.
 
@@ -44,20 +46,16 @@ If you have any questions or notice missing information, please reach out in `#c
    - Keep the `wsf-app-guides` folder and delete the others.
 
 3. **Locate Guides:**
-   - Navigate to the `en` folder to find all necessary guides.
+   - Navigate to the `en` folder to find all necessary guides to be translated
 
 4. **Translate Maintainer Information:**
    - Open `maintainer_information.md`.
    - Translate the content into your language, ensuring accuracy.
-   - **If you are part of the WSF team, use for the 3rd line:**
-     ```
-     All information here is accurate and up to date.
-     ```
-   - **Otherwise, translate the following:**
+   - **Translate the following:**
      ```markdown
      ## [Maintainer Information](accent://)
 
-     Maintained by (your_name_or_username_here)
+     Maintained by (your_name_or_username_here) (social links are accepted)
 
      All information here is maintained by a translator and may not be accurate or up to date.
 
@@ -74,16 +72,17 @@ If you have any questions or notice missing information, please reach out in `#c
 1. **Translate all Other `.md` Files:**
    - Proceed to translate the remaining `.md` files, adhering to the guidelines above.
 
-2. **Edit `Markdown_filenames.plist`:**
+2. Now after translating every other .md, you need to edit it's title name, do the following for every other .md as well
+   **Edit `Markdown_filenames.plist`:**
    - Open `Markdown_filenames.plist`.
-   - **Only translate the `<string>Maintainer Notes</string>` line.** Do not modify anything else to prevent Portal from malfunctioning.
+   - **Only translate the `Maintainer Information` in this case.** Do not modify any other parameters to prevent Portal from malfunctioning. Do NOT change the key lines at all!
    - **Example:**
      ```xml
      <dict>
          <key>file_title</key>
-         <string>Maintainer Notes</string>
+         <string>Maintainer Information</string> (YOU EDIT ONLY THIS LINE)
          <key>file_name</key>
-         <string>maintainer_notes.md</string>
+         <string>maintainer_information.md</string>
      </dict>
      ```
      do this for all other files as well, the above is an example
