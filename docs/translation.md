@@ -16,13 +16,18 @@ Please read this guide carefully and follow all instructions precisely. For effi
 - **Titles:** You may translate titles
 
 ## Additional Notes
-- **Certificates Information:** Only translate the title of `certificates_information.md`; do not translate its contents.
+- **Specific MD:** Only translate the title of `certificates_information.md`; do not translate it's contents.
 - **Technical Terms:** Do not translate terms like "madNS Config Profile" to aid troubleshooting.
 - **Keep Certain English Terms Unchanged:**
   - Discord
   - Portal
   - Revoked
   - Certs or Certificates
+  - ESign
+  - Feather
+  - GBox
+  - Scarlet
+  - Sources
  
   - And any others if you feel the need to
 
