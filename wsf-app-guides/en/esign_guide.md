@@ -2,7 +2,7 @@
 
 ### [Part [1/3] Installing ESign](accent://)
 
-1. Go to the 'Downloads' tab and click on any of the ESign links, keep in mind if none of them work you need to follow the revoked guide
+1. Go to the Downloads tab and click on any of the ESign links, keep in mind if none of them work you need to follow the revoked guide
 
 3. Click on install once the popup comes up
 
