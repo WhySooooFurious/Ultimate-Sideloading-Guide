@@ -12,7 +12,7 @@ Please read this guide carefully and follow all instructions precisely. For effi
 ## What You **Can** Do
 - **Translation:** Translate accurately and precisely.
 - **Language Adjustment:** Adjust punctuation, grammar, and some words for clarity in your language.
-- **Titles:** You may change titles as needed.
+- **Titles:** You may translate titles
 
 ## Additional Notes
 - **Certificates Information:** Only translate the title of `certificates_information.md`; do not translate its contents.
@@ -22,6 +22,8 @@ Please read this guide carefully and follow all instructions precisely. For effi
   - Portal
   - Revoked
   - Certs or Certificates
+ 
+  - And any others if you feel the need to
 
 If you have any questions or notice missing information, please reach out in `#contributor-chat` for assistance.
 
@@ -41,9 +43,9 @@ If you have any questions or notice missing information, please reach out in `#c
 4. **Translate Maintainer Information:**
    - Open `maintainer_information.md`.
    - Translate the content into your language, ensuring accuracy.
-   - **If you are part of the WSF team, use:**
+   - **If you are part of the WSF team, use for the 3rd line:**
      ```
-     All information here is always accurate and up to date.
+     All information here is accurate and up to date.
      ```
    - **Otherwise, translate the following:**
      ```markdown
@@ -63,7 +65,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
 ## Part 2 of 2: Translating and Editing `Markdown_filenames.plist`
 
-1. **Translate Other `.md` Files:**
+1. **Translate all Other `.md` Files:**
    - Proceed to translate the remaining `.md` files, adhering to the guidelines above.
 
 2. **Edit `Markdown_filenames.plist`:**
@@ -78,19 +80,18 @@ If you have any questions or notice missing information, please reach out in `#c
          <string>maintainer_notes.md</string>
      </dict>
      ```
+     do this for all other files as well, the above is an example
 
 3. **Review Your Work:**
    - Double-check all files for spelling, grammar, punctuation, and spacing errors.
 
 4. **Submit Translations:**
-   - Compress your translated files and submit them.
+   - Zip up your files if you can and submit them on Discord directly.
 
 5. **Team Review:**
    - The WSF Team will review your submissions to ensure all steps have been followed correctly.
 
 6. **Thank You:**
-   - The entire WSF Team sincerely thanks you for your efforts in enhancing Portal!
+   - The WSF Team thanks you for your service.
 
 ---
-
-If you follow these instructions carefully, your translation will contribute significantly to making Portal accessible to a wider audience. Thank you for your dedication!
