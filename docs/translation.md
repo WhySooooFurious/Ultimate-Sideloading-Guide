@@ -5,6 +5,7 @@ Please read this guide carefully and follow all instructions precisely. For effi
 ## What You **Cannot** Do
 - **Headings:** Do not remove or alter `#`, `##`, or `###`.
 - **Special Text:** Do not remove `(accent://)` or the `[ ]` in titles.
+- **Special Formatting :** Do not remove "`"
 - **Content Integrity:** Do not change the meaning, filenames, titles, descriptions, or any text, even if it seems unnecessary.
 - **Formatting:** Do not remove or alter spacing between steps.
 - **Additions:** Do not add your own information.
