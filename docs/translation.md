@@ -36,6 +36,7 @@ Additionally you can use tools like VSCode to make this easier, I myself just us
   - Scarlet
   - Sources
   - Any Certificate names
+    
   - And any others if you feel the need to after consulting me
 
 If you have any questions or notice missing information, please reach out in `#contributor-chat` for assistance
@@ -48,17 +49,13 @@ If you have any questions or notice missing information, please reach out in `#c
    - Download the `.zip` file from [GitHub](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip)
 
 2. **Extract Folder:**
-   - Keep the `wsf-app-guides` folder and delete the others
-
-3. **Locate Guides:**
-   - Navigate to the `en` folder to find all necessary guides to be translated, do not translate from other languages
-
-4. **Translate Maintainer Information:**
+   - Extract the .zip
+   - Navigate to the folder and then go into `wsf-app-guides` and then the `en` folder to find all necessary guides to be translated
+   - Delete other folders
+     
    - Open `maintainer_information.md`.
      
      Here you'll have a bit of a snippet of how you should translate, with an example down below in Spanish
-
-   - **Translate the following:**
    
      ```xml
      ## [Maintainer Information](accent://)
@@ -92,20 +89,21 @@ If you have any questions or notice missing information, please reach out in `#c
      This is a example of a good translation.
 
 5. **Saving**
-   - Save your translated file. Congratulations, you have successfully translated a file!
+   - Save your translated file
+   - Congratulations, you have successfully translated a file!
 
 ---
 
 ## Part [2/2]
 
-1. **Translate all Other `.md` Files:**
-   - Proceed to translate the rest of the `.md` files, adhering to the guidelines above.
-
-2. Now after you have translated every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
+1. **Changing Titles**
+   
+   - Now after you have translated every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
    
    - Open `Markdown_filenames.plist`
   
-  - **Translate the following:**
+   - Translate ONLY the <string>TITLE HERE</string>
+   - Do NOT change any keys or other strings!
      
      ```xml
      <dict>
@@ -124,13 +122,18 @@ If you have any questions or notice missing information, please reach out in `#c
      </dict>
      ```
      
-     This is a example of a good translation. Do it for all other Titles
+     This is a example of a good translation
+    
+     Do it for all other .mds
 
-4. **Double-Check Files**
+2. **Double-Check Files**
+   
    - Double-Check all files for spelling, grammar, punctuation, and spacing errors
 
-6. **Send your files**
+3. **Send your files**
+   
    - Zip up your files if you can and submit them on Discord directly
 
-8. **The End!**
+4. **The End!**
+   
    - The WSF Team will review your submission, Thank You for taking a part in helping Portal become better!
