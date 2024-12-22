@@ -1,4 +1,4 @@
-## VPN Setup
+## [VPN Setup](accent://)
 
 This will show you how you can setup your VPN to be compatible with the madNS Config Profile
 
