@@ -60,7 +60,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
    - **Translate the following:**
    
-     ```markdown
+     ```xml
      ## [Maintainer Information](accent://)
 
      Information about who is currently maintaining this language.
@@ -74,7 +74,7 @@ If you have any questions or notice missing information, please reach out in `#c
      If you require help, join the [Discord Server](https://discord.gg/wsf)
      ```
     
-     ```markdown
+     ```xml
      ## [Información del mantenedor](accent://)
 
      Información sobre quién mantiene actualmente este idioma.
@@ -91,8 +91,7 @@ If you have any questions or notice missing information, please reach out in `#c
      See how I changed the text without changing any special characters, kept the spacing and important English words such as Discord Server the same?
      This is a example of a good translation.
 
-5. **Save File:**
-   - Save your translated file. Congratulations, you have successfully translated a file!
+5. Save your translated file. Congratulations, you have successfully translated a file!
 
 ---
 
@@ -103,31 +102,29 @@ If you have any questions or notice missing information, please reach out in `#c
 
 2. Now after you have translated every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
    
-   **Edit `Markdown_filenames.plist`:**
-   - Open `Markdown_filenames.plist`.
-   - **Only translate the `Maintainer Information` in this case.**
-   
-   - Do not modify any other parameters to prevent Portal from malfunctioning.
-   
-   - Do NOT change the key lines at all!
+   - Open `Markdown_filenames.plist`
      
-   - **Example:**
      ```xml
      <dict>
          <key>file_title</key>
-         <string>Maintainer Information</string> (YOU EDIT ONLY THIS LINE)
+         <string>Maintainer Information</string>
+         <key>file_name</key>
+         <string>maintainer_information.md</string>
+     </dict>
+     ```
+     ```xml
+     <dict>
+         <key>file_title</key>
+         <string>Información del mantenedor</string>
          <key>file_name</key>
          <string>maintainer_information.md</string>
      </dict>
      ```
      
-     Do this for all other titles
+     This is a example of a good translation. Do it for all other Titles
 
-4. **Review Your Work:**
-   - Double-check all files for spelling, grammar, punctuation, and spacing errors
+4. Double-check all files for spelling, grammar, punctuation, and spacing errors
 
-5. **Submit Translations:**
-   - Zip up your files if you can and submit them on Discord directly
+5. Zip up your files if you can and submit them on Discord directly
 
-6. **Team Review:**
-   - The WSF Team will review your submission, Thank You for taking a part in helping Portal become better!
+6. The WSF Team will review your submission, Thank You for taking a part in helping Portal become better!
