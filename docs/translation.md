@@ -1,27 +1,30 @@
-# Translation Guide for Portal's Guides
+# Translation for Portal's Guides
 
-Please read this guide carefully and follow all instructions precisely. For efficiency, use a PC or laptop instead of a phone.
+Please read this guide carefully and follow all instructions precisely. 
 
-Additionally you can use tools like VSCode to make this easier, I myself just use the XCode or TextEdit for small changes.
+For efficiency, use a PC or Laptop.
+
+Additionally you can use tools like VSCode to make this easier, I myself just use XCode or TextEdit.
 
 ## What You **Cannot** Do
 - Do not remove or alter `#`, `##`, or `###`.
 - Do not remove `(accent://)` or the `[ ]` in titles.
 - Do not remove "`"
 - Do not change the meaning of any text
-- Do not remove or alter spacing between steps and lines of text
-- Do not add your own information.
+- Do not remove spacing between steps and lines of text
+- Do not add your own information
+- Do not add additional steps
 
 ## What You **Can** Do
-- Translate accurately and precisely.
-- Adjust punctuation, grammar, and some words for clarity in your language.
+- Translate accurately and precisely
+- Adjust punctuation, grammar, and some words for clarity in your language
 - You may translate titles
 - You may change text inside `[ ]`
 - You may change text after `#" or '##' or '###'
 
 ## Additional Notes
 - Do not translate terms like "madNS Config Profile" to aid us in troubleshooting.
-- **Keep Certain English Terms Unchanged:**
+- Keep Certain English Terms Unchanged:
   - Discord
   - Portal
   - Revoked
@@ -47,11 +50,11 @@ If you have any questions or notice missing information, please reach out in `#c
    - Keep the `wsf-app-guides` folder and delete the others.
 
 3. **Locate Guides:**
-   - Navigate to the `en` folder to find all necessary guides to be translated
+   - Navigate to the `en` folder to find all necessary guides to be translated, do not translate from other languages
 
 4. **Translate Maintainer Information:**
    - Open `maintainer_information.md`.
-   - Translate the content into your language, ensuring accuracy.
+     Here you'll have a bit of a snippet of how you should translate, with an example down below in Spanish
 
    - **Translate the following:**
    
@@ -68,8 +71,6 @@ If you have any questions or notice missing information, please reach out in `#c
 
      If you require help, join the [Discord Server](https://discord.gg/wsf)
      ```
-     
-   - Down below is an example in Spanish
     
      ```markdown
      ## [Información del mantenedor](accent://)
@@ -85,7 +86,7 @@ If you have any questions or notice missing information, please reach out in `#c
      Si necesitas ayuda, únete al [Discord Server](https://discord.gg/wsf)
      ```
 
-     See how I changed text without changing any special characters and kept important English words the same?
+     See how I changed text without changing any special characters and kept important English words such as Discord Server the same?
      This is a example of a good translation.
 
 5. **Save File:**
@@ -96,9 +97,10 @@ If you have any questions or notice missing information, please reach out in `#c
 ## Part 2 of 2: Translating and Editing `Markdown_filenames.plist`
 
 1. **Translate all Other `.md` Files:**
-   - Proceed to translate the remaining `.md` files, adhering to the guidelines above.
+   - Proceed to translate the rest of the `.md` files, adhering to the guidelines above.
 
-2. Now after translating every other .md, you need to edit it's title name, do the following for every other .md as well
+2. Now after translating every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
+   
    **Edit `Markdown_filenames.plist`:**
    - Open `Markdown_filenames.plist`.
    - **Only translate the `Maintainer Information` in this case.** Do not modify any other parameters to prevent Portal from malfunctioning. Do NOT change the key lines at all!
@@ -114,16 +116,16 @@ If you have any questions or notice missing information, please reach out in `#c
      
      do this for all other files as well
 
-3. **Review Your Work:**
+4. **Review Your Work:**
    - Double-check all files for spelling, grammar, punctuation, and spacing errors.
 
-4. **Submit Translations:**
+5. **Submit Translations:**
    - Zip up your files if you can and submit them on Discord directly.
 
-5. **Team Review:**
+6. **Team Review:**
    - The WSF Team will review your submissions to ensure all steps have been followed correctly.
 
-6. **Thank You:**
+7. **Thank You:**
    - The WSF Team thanks you for your service.
 
 ---
