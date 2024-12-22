@@ -1,6 +1,6 @@
-# Translation for Portal's Guides
+# Translation Guide for Portal
 
-Please read this guide carefully and follow all instructions precisely
+Please read this guide carefully and follow all instructions properly
 
 For efficiency, use a PC or Laptop
 
