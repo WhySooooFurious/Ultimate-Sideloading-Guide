@@ -54,6 +54,7 @@ If you have any questions or notice missing information, please reach out in `#c
    - Translate the content into your language, ensuring accuracy.
 
    - **Translate the following:**
+   
      ```markdown
      ## [Maintainer Information](accent://)
 
@@ -67,6 +68,25 @@ If you have any questions or notice missing information, please reach out in `#c
 
      If you require help, join the [Discord Server](https://discord.gg/wsf)
      ```
+     
+   - Down below is an example in Spanish
+    
+     ```markdown
+     ## [Información del mantenedor](accent://)
+
+     Información sobre quién mantiene actualmente este idioma.
+
+     ### [Mantenido por](accent://)
+
+     Jimmy
+
+     Toda la información aquí es mantenida por un traductor y puede no ser precisa o no estar actualizada.
+
+     Si necesitas ayuda, únete al [Discord Server](https://discord.gg/wsf)
+     ```
+
+     See how I changed text without changing any special characters and kept important English words the same?
+     This is a example of a good translation.
 
 5. **Save File:**
    - Save your translated file. Congratulations, you have successfully translated a file!
@@ -91,7 +111,8 @@ If you have any questions or notice missing information, please reach out in `#c
          <string>maintainer_information.md</string>
      </dict>
      ```
-     do this for all other files as well, the above is an example
+     
+     do this for all other files as well
 
 3. **Review Your Work:**
    - Double-check all files for spelling, grammar, punctuation, and spacing errors.
