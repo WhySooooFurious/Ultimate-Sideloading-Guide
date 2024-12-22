@@ -4,7 +4,9 @@ Please read this guide carefully and follow all instructions properly
 
 For efficiency, use a PC or Laptop
 
-Additionally you can use tools like VSCode to make this easier, I myself just use XCode or TextEdit
+Additionally you can use tools like VSCode, XCode, Notepad++, Notepad and TextEdit.
+
+I myself just use XCode and TextEdit.
 
 ## What You **Cannot** Do
 - Do not remove or alter `#`, `##`, or `###`
