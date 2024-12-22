@@ -14,7 +14,7 @@ This guide will teach you on how to use Portal.
 
 6. It should open a new tab on Safari that if you want to download the .ipa, click on Download
 
-### [Signing the .ipa](accent://)
+### [Part [2/3] Signing the .ipa](accent://)
 
 1. Go back to Portal, and click on Signer
 
