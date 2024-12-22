@@ -42,7 +42,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
 ---
 
-## Part 1 of 2: Setting Everything Up
+## Part [1/2]
 
 1. **Download Guides:**
    - Download the `.zip` file from [GitHub](https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/archive/refs/heads/main.zip)
@@ -95,7 +95,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
 ---
 
-## Part 2 of 2: Translating and Editing `Markdown_filenames.plist`
+## Part [2/2]
 
 1. **Translate all Other `.md` Files:**
    - Proceed to translate the rest of the `.md` files, adhering to the guidelines above.
@@ -103,6 +103,8 @@ If you have any questions or notice missing information, please reach out in `#c
 2. Now after you have translated every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
    
    - Open `Markdown_filenames.plist`
+  
+  - **Translate the following:**
      
      ```xml
      <dict>
@@ -123,8 +125,11 @@ If you have any questions or notice missing information, please reach out in `#c
      
      This is a example of a good translation. Do it for all other Titles
 
-4. Double-check all files for spelling, grammar, punctuation, and spacing errors
+4. **Double-Check Files**
+   - Double-Check all files for spelling, grammar, punctuation, and spacing errors
 
-5. Zip up your files if you can and submit them on Discord directly
+6. **Send your files**
+   - Zip up your files if you can and submit them on Discord directly
 
-6. The WSF Team will review your submission, Thank You for taking a part in helping Portal become better!
+8. **The End!**
+   - The WSF Team will review your submission, Thank You for taking a part in helping Portal become better!
