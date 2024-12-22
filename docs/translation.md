@@ -108,7 +108,7 @@ If you have any questions or notice missing information, please reach out in `#c
    
    - Open `Markdown_filenames.plist`
   
-   - Translate ONLY the <string>TITLE HERE</string>
+   - Translate ONLY the `<string>Maintainer Information</string>` in this case
    - Do NOT change any keys or other strings!
      
      ```xml
@@ -130,7 +130,7 @@ If you have any questions or notice missing information, please reach out in `#c
      
      This is a example of a good translation
     
-     Do it for all other .mds
+     Do this for all other .md titles in `Markdown_filenames.plist`
 
 2. **Double-Check Files**
    
