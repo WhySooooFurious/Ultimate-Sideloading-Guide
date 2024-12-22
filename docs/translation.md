@@ -55,7 +55,7 @@ If you have any questions or notice missing information, please reach out in `#c
      
    - Open `maintainer_information.md`.
      
-     Here you'll have a bit of a snippet of how you should translate, with an example down below in Spanish
+     Here you'll have a bit of a snippet of how you should translate, there is an example down below in Spanish
    
      ```xml
      ## [Maintainer Information](accent://)
@@ -91,6 +91,9 @@ If you have any questions or notice missing information, please reach out in `#c
 5. **Saving**
    - Save your translated file
    - Congratulations, you have successfully translated a file!
+     
+6. **More Transation**
+   - Translate all other .md files!
 
 ---
 
@@ -98,7 +101,8 @@ If you have any questions or notice missing information, please reach out in `#c
 
 1. **Changing Titles**
    
-   - Now after you have translated every other .md, you need to edit it's title name, do this for every other .md as well, with an example down below in Spanish
+   - Now after you have translated every other .md, you need to edit it's title name in  `Markdown_filenames.plist`
+   - Do this for every other .md as well, there is an example down below in Spanish
    
    - Open `Markdown_filenames.plist`
   
