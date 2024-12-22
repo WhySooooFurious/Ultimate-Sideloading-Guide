@@ -5,20 +5,22 @@ Please read this guide carefully and follow all instructions precisely. For effi
 Additionally you can use tools like VSCode to make this easier, I myself just use the XCode or TextEdit for small changes.
 
 ## What You **Cannot** Do
-- **Headings:** Do not remove or alter `#`, `##`, or `###`.
-- **Special Text:** Do not remove `(accent://)` or the `[ ]` in titles.
-- **Special Formatting :** Do not remove "`"
-- **Content Integrity:** Do not change the meaning, filenames, titles, descriptions, or any text, even if it seems unnecessary.
-- **Formatting:** Do not remove or alter spacing between steps.
-- **Additions:** Do not add your own information.
+- Do not remove or alter `#`, `##`, or `###`.
+- Do not remove `(accent://)` or the `[ ]` in titles.
+- Do not remove "`"
+- Do not change the meaning of any text
+- Do not remove or alter spacing between steps and lines of text
+- Do not add your own information.
 
 ## What You **Can** Do
-- **Translation:** Translate accurately and precisely.
-- **Language Adjustment:** Adjust punctuation, grammar, and some words for clarity in your language.
-- **Titles:** You may translate titles
+- Translate accurately and precisely.
+- Adjust punctuation, grammar, and some words for clarity in your language.
+- You may translate titles
+- You may change text inside `[ ]`
+- You may change text after `#" or '##' or '###'
 
 ## Additional Notes
-- **Technical Terms:** Do not translate terms like "madNS Config Profile" to aid troubleshooting.
+- Do not translate terms like "madNS Config Profile" to aid us in troubleshooting.
 - **Keep Certain English Terms Unchanged:**
   - Discord
   - Portal
@@ -30,7 +32,6 @@ Additionally you can use tools like VSCode to make this easier, I myself just us
   - Scarlet
   - Sources
   - Any Certificate names
- 
   - And any others if you feel the need to after consulting me.
 
 If you have any questions or notice missing information, please reach out in `#contributor-chat` for assistance.
@@ -55,7 +56,9 @@ If you have any questions or notice missing information, please reach out in `#c
      ```markdown
      ## [Maintainer Information](accent://)
 
-     Maintained by (your_name_or_username_here) (social links are accepted)
+     Information about who is currently maintaining this Language
+
+     Maintained by (your_name_or_username_here)
 
      All information here is maintained by a translator and may not be accurate or up to date.
 
