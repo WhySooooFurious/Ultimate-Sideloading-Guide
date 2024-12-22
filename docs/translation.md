@@ -53,6 +53,7 @@ If you have any questions or notice missing information, please reach out in `#c
    - Navigate to the folder and then go into `wsf-app-guides` and then the `en` folder to find all necessary guides to be translated
    - Delete other folders
      
+3. **Translating**
    - Open `maintainer_information.md`.
      
      Here you'll have a bit of a snippet of how you should translate, there is an example down below in Spanish
@@ -86,6 +87,7 @@ If you have any questions or notice missing information, please reach out in `#c
      ```
 
      See how I changed the text without changing any special characters, kept the spacing and important English words such as Discord Server the same?
+     
      This is a example of a good translation.
 
 5. **Saving**
