@@ -52,13 +52,16 @@ If you have any questions or notice missing information, please reach out in `#c
 4. **Translate Maintainer Information:**
    - Open `maintainer_information.md`.
    - Translate the content into your language, ensuring accuracy.
+
    - **Translate the following:**
      ```markdown
      ## [Maintainer Information](accent://)
 
      Information about who is currently maintaining this Language
 
-     Maintained by (your_name_or_username_here)
+     ### [Maintained By](accent://)
+
+     (your_name_or_username_here)
 
      All information here is maintained by a translator and may not be accurate or up to date.
 
