@@ -2,7 +2,7 @@
 
 Information about who is currently maintaining this Language
 
-### [Maintained By]{accent://)
+### [Maintained By](accent://)
 
 WSF Staff
 
