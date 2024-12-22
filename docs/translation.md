@@ -91,7 +91,8 @@ If you have any questions or notice missing information, please reach out in `#c
      See how I changed the text without changing any special characters, kept the spacing and important English words such as Discord Server the same?
      This is a example of a good translation.
 
-5. Save your translated file. Congratulations, you have successfully translated a file!
+5. **Saving**
+   - Save your translated file. Congratulations, you have successfully translated a file!
 
 ---
 
