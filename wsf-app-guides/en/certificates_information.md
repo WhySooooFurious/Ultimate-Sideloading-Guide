@@ -60,7 +60,7 @@ Push Notifications: 🔴
 
 **Expiration**:
 
-05/06/2025: ✅ 
+26/03/2025: ✅ 
 
 ### [SunLife:](accent://)
 
