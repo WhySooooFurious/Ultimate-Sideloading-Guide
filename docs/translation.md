@@ -58,7 +58,7 @@ If you have any questions or notice missing information, please reach out in `#c
      ```markdown
      ## [Maintainer Information](accent://)
 
-     Information about who is currently maintaining this Language
+     Information about who is currently maintaining this language.
 
      ### [Maintained By](accent://)
 
