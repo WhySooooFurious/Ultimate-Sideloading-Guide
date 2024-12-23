@@ -135,13 +135,27 @@ Try other downloads links, if they don't work, then follow this [guide](#fixing-
 
 ## Fixing Revokes
 
-Method 1 has a very high success rate and requires a computer
+Method 1 has a high success rate and requires a computer
 
-Method 2 has a very low success rate and doesn't require a computer
+Method 2 has a medium-high success rate and requires a computer
 
-Method 3 will definitely work, requires a computer and it will erase your data.
+Method 3 has a low success rate and doesn't require a computer
+
+Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 1
+
+1. Remove the Config Profile and uninstall every app you've installed
+  
+2. Back up your device with iTunes or Finder
+  
+3. After backing up, put your device in recovery mode and click on update
+  
+4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+  
+5. Now, follow the guide again
+
+### Method 2
 
 1. Remove the Config Profile and uninstall every app you've installed
   
@@ -153,7 +167,7 @@ Method 3 will definitely work, requires a computer and it will erase your data.
   
 5. Now, follow the guide again
    
-### Method 2
+### Method 3
 
 1. Remove the Config Profile and uninstall every app you've installed
 
@@ -165,7 +179,7 @@ Method 3 will definitely work, requires a computer and it will erase your data.
 
 5. Now, follow the guide again
 
-### Method 3
+### Method 4
 
 1. Remove the Config Profile and uninstall every app you've installed
 
