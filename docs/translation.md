@@ -4,13 +4,13 @@ Please read this guide carefully and follow all instructions properly
 
 For efficiency, use a PC or Laptop
 
-Additionally you can use tools like VSCode, XCode, Notepad++, Notepad and TextEdit.
+Additionally you can use tools like VSCode, XCode, Notepad++, Notepad and TextEdit
 
-I myself just use XCode and TextEdit.
+I myself use XCode and TextEdit
 
 ## What You **Cannot** Do
 - Do not remove or alter `#`, `##`, or `###`
-- Do not remove `(accent://)` or the `[ ]` in titles.
+- Do not remove `(accent://)` or the `[ ]` in titles
 - Do not remove "`"
 - Do not change the meaning of any text
 - Do not remove spacing between steps and lines of text
