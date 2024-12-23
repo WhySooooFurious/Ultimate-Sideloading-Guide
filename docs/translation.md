@@ -67,7 +67,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
      ### [Maintained By](accent://)
 
-     (your_name_or_username_here)
+     (your_name_or_username_here_social_links_are_also_accepted)
 
      All information here is maintained by a translator and may not be accurate or up to date.
 
@@ -140,7 +140,7 @@ If you have any questions or notice missing information, please reach out in `#c
 
 3. **Send your files**
    
-   - Zip up your files if you can and submit them on Discord directly
+   - Zip up your files if you can and submit them on Discord or GitHub!
 
 4. **The End!**
    
