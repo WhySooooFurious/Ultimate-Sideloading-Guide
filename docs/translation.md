@@ -59,6 +59,7 @@ If you have any questions or notice missing information, please reach out in `#c
    - Open `maintainer_information.md`.
    - Keep in mind that `maintainer_information.md` is the only one you should replace the text with down below
    - All other .mds you can translate directly
+     
      Here you'll have a bit of a snippet of how you should translate, there is an example down below in Spanish
      
    
