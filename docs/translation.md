@@ -37,6 +37,14 @@ I myself use XCode and TextEdit
   - GBox
   - Scarlet
   - Sources
+  - Post Install Notes
+  - DNS Servers
+  - WSF Config Profile
+  - WSF Config Profile + Update Blocker
+  - madNS Config Profile + Update Blocker
+  - madNS Config Profile + Update Blocker + Ad-Blocker
+  - madNS Config Profile + Ad-Blocker
+  - madNS Config Profile
   - Any Certificate names
     
   - And any others if you feel the need to after consulting me
