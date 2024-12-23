@@ -48,6 +48,7 @@ I myself use XCode and TextEdit
   - DNS over HTTPS
   - DNS Servers
   - Any Certificate names
+  - Any iOS Terms such as General, VPN and Device Management, Files etc
     
   - And any others if you feel the need to after consulting me
 
