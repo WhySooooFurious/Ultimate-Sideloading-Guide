@@ -45,6 +45,8 @@ I myself use XCode and TextEdit
   - madNS Config Profile + Update Blocker + Ad-Blocker
   - madNS Config Profile + Ad-Blocker
   - madNS Config Profile
+  - DNS over HTTPS
+  - DNS Servers
   - Any Certificate names
     
   - And any others if you feel the need to after consulting me
