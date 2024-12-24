@@ -149,7 +149,7 @@ Method 4 will work, requires a computer and it will erase your data.
   
 2. Back up your device with iTunes or Finder
   
-3. After backing up, put your device in recovery mode and click on update
+3. After backing up, restore your device in DFU mode
   
 4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
   
@@ -159,13 +159,9 @@ Method 4 will work, requires a computer and it will erase your data.
 
 1. Remove the Config Profile and uninstall every app you've installed
   
-2. Back up your device with iTunes or Finder
+2. After backing up, put your device in recovery mode and click on update
   
-3. After backing up, restore your device in DFU mode
-  
-4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
-  
-5. Now, follow the guide again
+3. Now, follow the guide again
    
 ### Method 3
 
