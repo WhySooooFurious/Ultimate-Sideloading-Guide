@@ -22,11 +22,9 @@ Advantages with using this method:
 
 ## Privacy
 
-You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv)
+You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv).
 
-If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see the settings and the empty logs for yourself.
-
-Make sure to mention exactly what the madNS's profile name is.
+If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see for yourself.
 
 If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, which is your own local network.
 
@@ -48,9 +46,9 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ## Portal
 
-We have our very own app called Portal, which includes a signer, download links to sideloaders, guides with a variety of languages, and a functional sources viewer/downloader
+We have our very own app called Portal, which includes a signer, download links to sideloaders, guides with a variety of languages, and a functional sources viewer/downloader.
 
-Portal is easy to use, stable and offers a great user experience
+Portal is easy to use, stable and offers a great user experience for everyone.
 
 # Main Guide!
 
