@@ -143,7 +143,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 1
 
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
 2. Back up your device with iTunes or Finder
   
@@ -155,7 +155,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 2
 
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
 2. After backing up, put your device in recovery mode and click on update
   
@@ -163,7 +163,7 @@ Method 4 will work, requires a computer and it will erase your data.
    
 ### Method 3
 
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
 
 2. Back up your device using iCloud
 
@@ -175,7 +175,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 4
 
-1. Remove the Config Profile and uninstall every app you've installed
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
 
 2. Restore your device using DFU mode in iTunes or Finder
 
