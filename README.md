@@ -28,6 +28,12 @@ If you still have privacy concerns about the madNS Config Profile, make an issue
 
 If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, which is your own local network.
 
+## Portal
+
+We have our very own app called Portal, which includes a signer, download links to sideloaders, guides with a variety of languages, and a functional sources viewer/downloader.
+
+Portal is easy to use, stable and offers a great user experience for everyone.
+
 ## FAQ
 
 ---
@@ -43,12 +49,6 @@ Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide a
 A - No, You will however need to setup the Sideloadly's WireGuard using the VPN Guide which is in the Portal app and Discord.
 
 ---
-
-## Portal
-
-We have our very own app called Portal, which includes a signer, download links to sideloaders, guides with a variety of languages, and a functional sources viewer/downloader.
-
-Portal is easy to use, stable and offers a great user experience for everyone.
 
 # Main Guide!
 
