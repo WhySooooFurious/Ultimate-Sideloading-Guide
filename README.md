@@ -149,7 +149,7 @@ Method 4 will work, requires a computer and it will erase your data.
   
 3. After backing up, restore your device in DFU mode
   
-4. Then all you need to do is plug your phone in, go on either Finder for macOS or iTunes for Windows and click on restore backup from your device's menu
+4. Then all you need to do is plug your phone in, go on either Finder or iTunes and click on restore backup from your device's menu
   
 5. Now, follow the guide again
 
@@ -157,7 +157,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
-2. After backing up, put your device in recovery mode and click on update
+2. After backing up, put your device in recovery mode and click on update in Finder or iTunes
   
 3. Now, follow the guide again
    
@@ -169,7 +169,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
 
-4. Restore your iCloud backup when it is successful
+4. Restore your iCloud backup
 
 5. Now, follow the guide again
 
