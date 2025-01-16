@@ -62,14 +62,14 @@ Pros:
 
 Cons:
 
-- No VPN, Feather or ChatGPT support
+- No VPN, Feather, Apple Relay or ChatGPT support
 
 
 ### madNS Config Profile
 
 Pros:
 
-- Supports VPNs, Feather and ChatGPT
+- Supports VPNs, Feather, Apple Relay and ChatGPT
 
 - Privacy oriented as can be
 
