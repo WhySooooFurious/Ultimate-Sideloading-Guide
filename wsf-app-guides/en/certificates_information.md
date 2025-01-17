@@ -2,6 +2,20 @@
 
 Information for all Certificates.
 
+### [Avex:](accent://)
+
+**Permissions**:
+
+Push Notifications: Unknown
+
+**Expiration**:
+
+31/03/2025: ✅
+
+**Notes**:
+
+Only compatible with ESign as of now.
+
 ### [Continent:](accent://)
 
 **Permissions**:
