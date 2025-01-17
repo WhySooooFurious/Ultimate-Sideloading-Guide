@@ -8,5 +8,5 @@ WSF Staff
 
 All information here is accurate and always up to date.
 
-If you require help, join the [Discord Server](https://discord.gg/wsf)
+If you require help, join the [Discord Server](https://whysoooofurious.netlify.app/discord)
 
