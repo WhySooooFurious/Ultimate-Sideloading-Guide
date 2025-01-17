@@ -4,4 +4,4 @@ This guide will teach you on how to use Portal.
 
 ###
 
-Coming Soon with Portal 2.0
+Coming Soon once my ass isn't so lazy anymore
