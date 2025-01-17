@@ -14,7 +14,7 @@ Push Notifications: Unknown
 
 **Notes**:
 
-Only compatible with ESign as of now.
+Only compatible with ESign as of now
 
 ### [Continent:](accent://)
 
