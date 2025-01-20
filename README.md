@@ -1,3 +1,5 @@
+# We recommend you use our [website](https://whysoooofurious.netlify.app/) instead
+
 # Introduction
 
 Welcome to our guide on how to sideload on Apple Devices!
