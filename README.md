@@ -1,4 +1,4 @@
-# We recommend you use our [website](https://whysoooofurious.netlify.app/) instead
+# We recommend you to use our [website](https://whysoooofurious.netlify.app/) instead
 
 # Introduction
 
