@@ -46,6 +46,16 @@ Push Notifications: 🟢
 
 12/03/2025: ✅
 
+### [SunLife:](accent://)
+
+**Permissions**:
+
+Push Notifications: 🔴
+
+**Expiration**:
+
+27/03/2025: ✅
+
 ### [Sunshine 1:](accent://)
 
 **Permissions**:
@@ -75,13 +85,3 @@ Push Notifications: 🔴
 **Expiration**:
 
 26/03/2025: ✅ 
-
-### [SunLife:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🔴
-
-**Expiration**:
-
-27/03/2025: ✅
