@@ -19,7 +19,7 @@ This guide will teach you on how to use Portal.
 7. Save and then go back to the sources screen, you may need to pull down to refresh the page
 
 
-### [Part [2/2] Using ESign](accent://)
+### [Part [2/2] Using Portal](accent://)
 
 1. Download any app using the sources in Portal
 
