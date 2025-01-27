@@ -94,10 +94,8 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 2. Click on Download, and the profile should be imported into settings automatically
   
 3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
-
-4. It should be enabled automatically
   
-5. Continue onto [Part 2](#part-22-installing-portal) to install Portal
+4. Continue onto [Part 2](#part-22-installing-portal) to install Portal
 
 ### Part [2/2] Installing Portal
 
