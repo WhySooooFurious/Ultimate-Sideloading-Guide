@@ -2,7 +2,7 @@
 
 Welcome to our guide on how to sideload on Apple Devices!
 
-Advantages with using this method:
+Advantages:
 
 - Free!
 
