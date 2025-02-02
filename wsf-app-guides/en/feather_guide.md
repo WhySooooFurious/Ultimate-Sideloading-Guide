@@ -2,7 +2,7 @@
 
 This guide will teach you on how to install and use Feather.
 
-### [Other Guides](accent://)
+## [Other Guides](accent://)
 
 [TechJunkieAman's Video Tutorial](https://youtu.be/8DiBMAdLMiY)
 
