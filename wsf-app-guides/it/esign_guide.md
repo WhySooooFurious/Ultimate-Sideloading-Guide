@@ -2,6 +2,11 @@
 
 Questa guida ti insegnerà come installare e utilizzare ESign.
 
+### [Altre Guide](accent://)
+
+[Video Tutorial di TechJunkieAman](https://www.youtube.com/watch?v=MwKJjGlXni0)
+
+
 ### [Parte [1/3] Installare ESign](accent://)
 
 1. Vai nel tab Downloads in Portal e clicca su uno qualsiasi dei link ESign, usa quello che ha funzionato con Portal.
