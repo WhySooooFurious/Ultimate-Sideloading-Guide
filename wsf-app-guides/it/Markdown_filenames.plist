@@ -58,9 +58,9 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>Setup VPN</string>
+		<string>Guida VPN</string>
 		<key>file_name</key>
-		<string>vpn_setup.md</string>
+		<string>vpn_guide.md</string>
 	</dict>
 </array>
 </plist>

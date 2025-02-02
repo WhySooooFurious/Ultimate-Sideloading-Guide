@@ -2,6 +2,20 @@
 
 Informazioni per tutti i Certificati.
 
+### [Avex:](accent://)
+
+**Permessi**:
+
+Notifiche Push: Unknown
+
+**Scadenza**:
+
+31/03/2025: ✅
+
+**Note**:
+
+Compatibile solo con ESign per ora
+
 ### [Continent:](accent://)
 
 **Permessi**:
@@ -32,6 +46,16 @@ Notifiche Push: 🟢
 
 12/03/2025: ✅
 
+### [SunLife:](accent://)
+
+**Permessi**:
+
+Notifiche Push: 🔴
+
+**Scadenza**:
+
+27/03/2025: ✅
+
 ### [Sunshine 1:](accent://)
 
 **Permessi**:
@@ -61,13 +85,3 @@ Notifiche Push: 🔴
 **Scadenza**:
 
 26/03/2025: ✅ 
-
-### [SunLife:](accent://)
-
-**Permessi**:
-
-Notifiche Push: 🔴
-
-**Scadenza**:
-
-27/03/2025: ✅

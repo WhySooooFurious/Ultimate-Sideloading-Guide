@@ -2,6 +2,10 @@
 
 Questa guida ti insegnerà come installare e utilizzare Feather.
 
+## ## [Altre Guide](accent://)
+
+[Video Tutorial di TechJunkieAman](https://youtu.be/8DiBMAdLMiY)
+
 ### [Parte [1/3] Installare Feather](accent://)
 
 1. Vai nel tab Downloads in Portal e clicca su uno qualsiasi dei link Feather, usa quello che ha funzionato con Portal.
