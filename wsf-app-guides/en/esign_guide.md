@@ -2,7 +2,7 @@
 
 This guide will teach you on how to install and use ESign.
 
-### [External Guides](accent://)
+### [Other Guides](accent://)
 
 [TechJunkieAman's Video Tutorial](https://www.youtube.com/watch?v=MwKJjGlXni0)
 
