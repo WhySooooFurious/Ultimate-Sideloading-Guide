@@ -24,11 +24,9 @@ This guide will teach you on how to install and use Feather.
 
 3. Click on the plus icon and import the .mobileprovision and .p12 from the Certificates folder, find the certificate you used for Portal, the password is WSF
 
-4. Go to Settings again, click on Server Options and enable the Online Install Method
+4. Go into Portal's Guides tab and find the Sources, then copy the URLs
 
-5. Go into Portal's Guides tab and find the Sources, then copy the URLs
-
-6. Click on Add Repo and select Import Repositories
+5. Click on Add Repo and select Import Repositories
 
 ### [Part [3/3] Using Feather](accent://)
 
