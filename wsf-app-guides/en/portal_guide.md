@@ -27,9 +27,9 @@ This guide will teach you on how to use Portal.
 
 3. Input your .ipa, which is the app you just downloaded
 
-4. Input your .p12 and .mobileprovision from the Certificates folder, password is WSF
+4. Input your .p12 and .mobileprovision from the Certificates folder, the password is WSF
 
-5. Click on Submit, and then install - If this does not work, go into Portal settings and toggle Signer 2.0
+5. Click on Submit, and then install
 
 6. The app should now appear on your homescreen
 
