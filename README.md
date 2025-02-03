@@ -103,7 +103,7 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
   
 2. Click on install once the popup comes up
 
-3. Open settings and go to General > VPN & Device Management > (should show the Portal app under the certificate you picked back in Step 1)
+3. Open settings and go to General > VPN & Device Management > Certificate you selected
 
 4. Click on Trust at the top then click on allow, after this your device might need to be restarted
 
@@ -131,15 +131,27 @@ Try other downloads links, if they don't work, then follow this [guide](#fixing-
 
 ## Fixing Revokes
 
-Method 1 has a high success rate and requires a computer
+Method 1 has a low success rate and doesn't require a computer
 
-Method 2 has a medium-high success rate and requires a computer
+Method 2 has a high success rate and requires a computer
 
-Method 3 has a low success rate and doesn't require a computer
+Method 3 has a medium-high success rate and requires a computer
 
 Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 1
+
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
+
+2. Back up your device using iCloud
+
+3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
+
+4. Restore your iCloud backup
+
+5. Now, follow the guide again
+
+### Method 2
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
@@ -151,25 +163,13 @@ Method 4 will work, requires a computer and it will erase your data.
   
 5. Now, follow the guide again
 
-### Method 2
+### Method 3
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
 2. After backing up, put your device in recovery mode and click on update in Finder or iTunes
   
 3. Now, follow the guide again
-   
-### Method 3
-
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
-
-2. Back up your device using iCloud
-
-3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
-
-4. Restore your iCloud backup
-
-5. Now, follow the guide again
 
 ### Method 4
 
