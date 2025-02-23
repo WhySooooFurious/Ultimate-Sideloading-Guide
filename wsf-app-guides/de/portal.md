@@ -84,3 +84,5 @@ Now I only want you..."
 **Core 1:** “I’m in space.”
 
 **Wheatley:** “The end.”
+
+crazy story :O

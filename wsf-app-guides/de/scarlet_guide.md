@@ -1,42 +1,42 @@
-## [Installing Scarlet](accent://)
+## [Scarlet installieren](accent://)
 
-This guide will teach you on how to install and use Scarlet.
+Diese Anleitung zeigt Ihnen, wie Sie Scarlet installieren und verwenden.
 
-### [Part [1/3] Installing Scarlet](accent://)
+### [Teil [1/3] Scarlet installieren](accent://)
 
-1. Go to the Downloads tab in Portal and click on any of the Scarlet links, use the one that worked with Portal.
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf einen der Scarlet-Links, verwenden Sie den, der mit dem Portal funktioniert hat.
 
-2. Click on install once the popup comes up
+2. Klicken Sie auf Installieren, sobald das Popup erscheint.
 
-### [Part [2/3] Setting up Scarlet](accent://)
+### [Teil [2/3] Scarlet einrichten](accent://)
 
-1. Go to the Downloads tab in Portal and click on Certificates
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf Zertifikate.
 
-2. Portal will then download the Certificates.zip
+2. Portal lädt dann die Certificates.zip herunter.
 
-3. Go into Files and navigate to On My iPhone > Portal > Downloads
+3. Gehen Sie in Dateien und navigieren Sie zu Auf meinem iPhone > Portal > Downloads.
 
-4. Tap on the Certificates.zip once, you should now see a Certificates folder
+4. Tippen Sie einmal auf die Certificates.zip, Sie sollten nun einen Ordner namens Certificates sehen.
 
-5. Open Scarlet and click on the Download icon on the tab bar
+5. Öffnen Sie Scarlet und klicken Sie auf das Download-Symbol in der Tab-Leiste.
 
-6. Hold down the Download button on the top right and click on Manage Certs
+6. Halten Sie die Download-Taste oben rechts gedrückt und klicken Sie auf Zertifikate verwalten.
 
-7. Import the .mobileprovision and .p12 from the Certificates folder, find the certificate you used for Portal, the password is WSF
+7. Importieren Sie die .mobileprovision und .p12 aus dem Certificates-Ordner, finden Sie das Zertifikat, das Sie für Portal verwendet haben, das Passwort ist WSF.
 
-8. Go into Portal's Guides tab and find the Sources, then copy the URLs
+8. Gehen Sie zum Guides-Tab im Portal und finden Sie die Quellen, dann kopieren Sie die URLs.
 
-9. Close the sheet, go back and hold down the Downloads button again, now add your sources
+9. Schließen Sie das Blatt, gehen Sie zurück und halten Sie die Download-Taste erneut gedrückt, fügen Sie nun Ihre Quellen hinzu.
 
-### [Part [3/3] Using Scarlet](accent://)
+### [Teil [3/3] Scarlet verwenden](accent://)
 
-1. Download any app using Scarlet
+1. Laden Sie eine beliebige App mit Scarlet herunter.
 
-2. After downloading, select Install once the prompt shows up
+2. Nach dem Herunterladen wählen Sie Installieren, sobald die Aufforderung erscheint.
 
-3. The app should now appear on your home screen
+3. Die App sollte nun auf Ihrem Startbildschirm erscheinen.
 
-4. Now read the Post Install Notes to prevent revokes
+4. Lesen Sie nun die Post-Installationshinweise, um Widerrufe zu verhindern.
 
 
 

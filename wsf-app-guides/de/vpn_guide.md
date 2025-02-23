@@ -1,59 +1,59 @@
-## [VPN Guide](accent://)
+## [VPN-Anleitung](accent://)
 
-This will show you how you can setup your VPN to be compatible with the madNS Config Profile
+Diese Anleitung zeigt Ihnen, wie Sie Ihr VPN so einrichten können, dass es mit dem madNS-Konfigurationsprofil kompatibel ist.
 
-Notes:
+Hinweise:
 
-Most free VPNs won't work with this and you'll need to find out what type of DNS your VPN supports and replace them with the listings below.
+Die meisten kostenlosen VPNs funktionieren damit nicht und Sie müssen herausfinden, welche Art von DNS Ihr VPN unterstützt und diese durch die unten aufgeführten Einträge ersetzen.
 
-### [Part [1/1] Using VPNs](accent://)
+### [Teil [1/1] VPNs verwenden](accent://)
 
-1. Find your VPN's DNS settings and replace them with the following information provided if applicable.
+1. Finden Sie die DNS-Einstellungen Ihres VPNs und ersetzen Sie sie durch die folgenden Informationen, falls zutreffend.
 
-### madNS Config Profile:
+### madNS-Konfigurationsprofil:
 
-DNS Servers:
+DNS-Server:
 
 45.90.28.21
 
 45.90.30.21
 
-DNS over HTTPS:
+DNS über HTTPS:
 
 https://dns.nextdns.io/8bf6c6
 
-### madNS Config Profile + Update Blocker:
+### madNS-Konfigurationsprofil + Update-Blocker:
 
-DNS Servers:
+DNS-Server:
 
 45.90.28.210
 
 45.90.30.210
 
-DNS over HTTPS:
+DNS über HTTPS:
 
 https://dns.nextdns.io/595d8c
 
-### madNS Config Profile + Ad-Blocker:
+### madNS-Konfigurationsprofil + Ad-Blocker:
 
-DNS Servers:
+DNS-Server:
 
 45.90.28.104
 
 45.90.30.104
 
-DNS over HTTPS:
+DNS über HTTPS:
 
 https://dns.nextdns.io/335179
 
-### madNS Config Profile + Update Blocker + Ad-Blocker:
+### madNS-Konfigurationsprofil + Update-Blocker + Ad-Blocker:
 
-DNS Servers:
+DNS-Server:
 
 45.90.28.239
 
 45.90.30.239
 
-DNS over HTTPS:
+DNS über HTTPS:
 
 https://dns.nextdns.io/828ff2

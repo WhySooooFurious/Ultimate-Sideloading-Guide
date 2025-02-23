@@ -1,45 +1,45 @@
-## [Installing ESign](accent://)
+## [ESign installieren](accent://)
 
-This guide will teach you on how to install and use ESign.
+Diese Anleitung zeigt Ihnen, wie Sie ESign installieren und verwenden.
 
-## [Other Guides](accent://)
+## [Andere Anleitungen](accent://)
 
-[TechJunkieAman's Video Tutorial](https://www.youtube.com/watch?v=MwKJjGlXni0)
+[TechJunkieAman's Video-Tutorial](https://www.youtube.com/watch?v=MwKJjGlXni0)
 
-### [Part [1/3] Installing ESign](accent://)
+### [Teil [1/3] ESign installieren](accent://)
 
-1. Go to the Downloads tab in Portal and click on any of the ESign links, use the one that worked with Portal.
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf einen der ESign-Links, verwenden Sie den, der mit dem Portal funktioniert hat.
 
-2. Click on install once the popup comes up
+2. Klicken Sie auf Installieren, sobald das Popup erscheint.
 
-### [Part [2/3] Setting up ESign](accent://)
+### [Teil [2/3] ESign einrichten](accent://)
 
-1. Go to the Downloads tab in Portal and click on Certificates
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf Zertifikate.
 
-2. Portal will then download the Certificates.zip
-  
-3. Open ESign, go to Settings, click on Import Resources and import the Certificates.zip from On My iPhone > Portal > Downloads
+2. Das Portal lädt dann die Certificates.zip herunter.
 
-4. Go to the File tab in ESign, click on the Certificates.zip then click on unzip
+3. Öffnen Sie ESign, gehen Sie zu Einstellungen, klicken Sie auf Ressourcen importieren und importieren Sie die Certificates.zip von Auf meinem iPhone > Portal > Downloads.
 
-5. Open Certificates, find the certificate you used for Portal, select the .p12 file and click on Import, the password is "WSF"
+4. Gehen Sie zum Datei-Tab in ESign, klicken Sie auf die Certificates.zip und dann auf Entpacken.
 
-6. Go into Portal's Guides tab and find the Sources, then copy the URLs
+5. Öffnen Sie Zertifikate, finden Sie das Zertifikat, das Sie für das Portal verwendet haben, wählen Sie die .p12-Datei aus und klicken Sie auf Importieren, das Passwort ist "WSF".
 
-7. Go to AppStore in ESign and click on App Source and then the Plus icon, click on add all
+6. Gehen Sie zum Guides-Tab im Portal und finden Sie die Quellen, dann kopieren Sie die URLs.
 
-### [Part [3/3] Using ESign](accent://)
+7. Gehen Sie zum AppStore in ESign und klicken Sie auf App-Quelle und dann auf das Plus-Symbol, klicken Sie auf Alle hinzufügen.
 
-1. Download any app using the AppStore in ESign
+### [Teil [3/3] ESign verwenden](accent://)
 
-2. Go to the Downloads tab and select Import App Library
+1. Laden Sie eine beliebige App über den AppStore in ESign herunter.
 
-3. Your app should now be visible in the Unsigned Apps tab on the top
+2. Gehen Sie zum Downloads-Tab und wählen Sie App-Bibliothek importieren.
 
-4. Select the app and click on Signature and Signature again on the next screen
+3. Ihre App sollte jetzt im Tab Unsigned Apps oben sichtbar sein.
 
-5. Click on Install
+4. Wählen Sie die App aus und klicken Sie auf Signatur und erneut auf Signatur auf dem nächsten Bildschirm.
 
-6. The app should now appear on your homescreen
+5. Klicken Sie auf Installieren.
 
-7. Now read the Post Install Notes to prevent revokes
+6. Die App sollte jetzt auf Ihrem Startbildschirm erscheinen.
+
+7. Lesen Sie nun die Post-Installationshinweise, um Widerrufe zu verhindern.

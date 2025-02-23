@@ -1,15 +1,15 @@
-## [Post Install Notes](accent://)
+## [Post-Installationshinweise](accent://)
 
-Some guidelines to follow to ensure your apps don't get revoked.
+Einige Richtlinien, die Sie befolgen sollten, um sicherzustellen, dass Ihre Apps nicht widerrufen werden.
 
-- You must never disable the Config Profile!
+- Sie dürfen das Konfigurationsprofil niemals deaktivieren!
 
-- Don't enable 2 Config Profiles at the same time
+- Aktivieren Sie nicht zwei Konfigurationsprofile gleichzeitig.
 
-- Go into Airplane Mode if you're switching Config Profiles!
+- Gehen Sie in den Flugmodus, wenn Sie Konfigurationsprofile wechseln!
 
-- Disable WiFi and enable Airplane Mode when wanting to Shutdown, Restart and Update!
+- Deaktivieren Sie WiFi und aktivieren Sie den Flugmodus, wenn Sie herunterfahren, neu starten und aktualisieren möchten!
 
-- You cannot use a VPN unless you've followed the VPN Setup guide!
+- Sie können kein VPN verwenden, es sei denn, Sie haben die VPN-Einrichtungsanleitung befolgt!
 
-- Check for Updates, Announcements and Certificate Information in Portal regularly!
+- Überprüfen Sie regelmäßig auf Updates, Ankündigungen und Zertifikatsinformationen im Portal!

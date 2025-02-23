@@ -1,12 +1,12 @@
-## [Maintainer Information](accent://)
+## [Maintainer-Informationen](accent://)
 
-Information about who is currently maintaining this language.
+Informationen darüber, wer derzeit diese Sprache pflegt.
 
-### [Maintained By](accent://)
+### [Gepflegt von](accent://)
 
-WSF Staff
+WSF-Team
 
-All information here is accurate and always up to date.
+Alle Informationen hier sind korrekt und immer auf dem neuesten Stand.
 
-If you require help, join the [Discord Server](https://whysoooofurious.netlify.app/discord)
+Wenn Sie Hilfe benötigen, treten Sie dem [Discord-Server](https://whysoooofurious.netlify.app/discord) bei.
 

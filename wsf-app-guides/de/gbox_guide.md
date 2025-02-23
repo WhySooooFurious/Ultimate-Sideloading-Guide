@@ -1,52 +1,52 @@
-## [Installing GBox](accent://)
+## [GBox installieren](accent://)
 
-This guide will teach you on how to install and use GBox.
+Diese Anleitung zeigt Ihnen, wie Sie GBox installieren und verwenden.
 
-### [Part [1/3] Installing GBox](accent://)
+### [Teil [1/3] GBox installieren](accent://)
 
-1. Go to the Downloads tab in Portal and click on any of the GBox links, use the one that worked with Portal.
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf einen der GBox-Links, verwenden Sie den, der mit dem Portal funktioniert hat.
 
-2. Click on install once the popup comes up
+2. Klicken Sie auf Installieren, sobald das Popup erscheint.
 
-### [Part [2/3] Setting up GBox](accent://)
+### [Teil [2/3] GBox einrichten](accent://)
 
-1. Go to the Downloads tab in Portal and click on Certificates
+1. Gehen Sie zum Downloads-Tab im Portal und klicken Sie auf Zertifikate.
 
-2. Portal will then download the Certificates.zip
+2. Das Portal lädt dann die Certificates.zip herunter.
 
-3. Go into Files and navigate to On My iPhone > Portal > Downloads
+3. Gehen Sie in Dateien und navigieren Sie zu Auf meinem iPhone > Portal > Downloads.
 
-4. Tap on the Certificates.zip once, you should now see a Certificates folder
+4. Tippen Sie einmal auf die Certificates.zip, Sie sollten nun einen Ordner namens Certificates sehen.
 
-5. Open GBox and go to Settings, then Cert Management
+5. Öffnen Sie GBox und gehen Sie zu Einstellungen, dann zu Zertifikatsverwaltung.
 
-6. Get your UDID, after being redirected to Safari, click on Allow
+6. Holen Sie sich Ihre UDID, nachdem Sie zu Safari weitergeleitet wurden, klicken Sie auf Zulassen.
 
-7. Go to Settings > General > VPN and Device Management and click on GBox UDID
+7. Gehen Sie zu Einstellungen > Allgemein > VPN und Geräteverwaltung und klicken Sie auf GBox UDID.
 
-8. Install the profile and you should automatically get redirected to Safari with a prompt
+8. Installieren Sie das Profil und Sie sollten automatisch zu Safari mit einer Eingabeaufforderung weitergeleitet werden.
 
-9. Click on Open, then select Import Certificate
+9. Klicken Sie auf Öffnen, dann wählen Sie Zertifikat importieren.
 
-10. Import the .p12 from On My iPhone > Portal > Downloads > Certificates folder, find the certificate you used for GBox, the password is "WSF"
+10. Importieren Sie die .p12 von Auf meinem iPhone > Portal > Downloads > Certificates-Ordner, finden Sie das Zertifikat, das Sie für GBox verwendet haben, das Passwort ist "WSF".
 
-11. Then click on Import Certificate again, this time selecting the .mobileprovision
+11. Klicken Sie dann erneut auf Zertifikat importieren, diesmal wählen Sie die .mobileprovision.
 
-12. Go into Portal's Guides tab and find the Sources, then copy the URLs
+12. Gehen Sie zum Guides-Tab im Portal und finden Sie die Quellen, dann kopieren Sie die URLs.
 
-13. Go back to Sources in GBox and select Add App Source, now add your sources
+13. Gehen Sie zurück zu Quellen in GBox und wählen Sie App-Quelle hinzufügen, fügen Sie nun Ihre Quellen hinzu.
 
-### [Part [3/3] Using GBox](accent://)
+### [Teil [3/3] GBox verwenden](accent://)
 
-1. Download any app using GBox
+1. Laden Sie eine beliebige App mit GBox herunter.
 
-2. After downloading, click on Install, then Sign, and Sign again
+2. Nach dem Herunterladen klicken Sie auf Installieren, dann auf Signieren und erneut auf Signieren.
 
-3. Click on Install, and Install again
+3. Klicken Sie auf Installieren und erneut auf Installieren.
 
-4. The app should now appear on your home screen
+4. Die App sollte nun auf Ihrem Startbildschirm erscheinen.
 
-5. Now read the Post Install Notes to prevent revokes
+5. Lesen Sie nun die Post-Installationshinweise, um Widerrufe zu verhindern.
 
 
 

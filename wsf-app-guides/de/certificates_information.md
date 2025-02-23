@@ -1,87 +1,87 @@
-## [Certificate Status](accent://)
+## [Zertifikatsstatus](accent://)
 
-Information for all Certificates.
+Informationen zu allen Zertifikaten.
 
 ### [Avex:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: Unknown
+Push-Benachrichtigungen: Unbekannt
 
-**Expiration**:
+**Ablaufdatum**:
 
 31/03/2025: ✅
 
-**Notes**:
+**Hinweise**:
 
-Only compatible with ESign as of now
+Nur kompatibel mit ESign derzeit
 
 ### [Continent:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push-Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablaufdatum**: 
 
 13/06/2025: ✅
 
 ### [Ministere:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push-Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablaufdatum**: 
 
 03/04/2025: ✅
 
 ### [NetworkTech:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push-Benachrichtigungen: 🟢
 
-**Expiration**:
+**Ablaufdatum**:
 
 12/03/2025: ✅
 
 ### [SunLife:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🔴
+Push-Benachrichtigungen: 🔴
 
-**Expiration**:
+**Ablaufdatum**:
 
 27/03/2025: ✅
 
 ### [Sunshine 1:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push-Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablaufdatum**: 
 
 13/09/2025: ✅
 
 ### [Sunshine 2:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🟢
+Push-Benachrichtigungen: 🟢
 
-**Expiration**: 
+**Ablaufdatum**: 
 
 6/06/2025: ✅
 
 ### [Sunshine 3:](accent://)
 
-**Permissions**:
+**Berechtigungen**:
 
-Push Notifications: 🔴
+Push-Benachrichtigungen: 🔴
 
-**Expiration**:
+**Ablaufdatum**:
 
-26/03/2025: ✅ 
+26/03/2025: ✅

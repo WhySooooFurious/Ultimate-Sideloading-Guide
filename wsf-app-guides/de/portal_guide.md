@@ -1,36 +1,36 @@
-## [Portal Guide](accent://)
+## [Portal-Anleitung](accent://)
 
-This guide will teach you on how to use Portal.
+Diese Anleitung zeigt Ihnen, wie Sie Portal verwenden.
 
-### [Part [1/2] Setting up Portal](accent://)
+### [Teil [1/2] Portal einrichten](accent://)
 
-1. Go to the Downloads tab in Portal and click on Certificates
+1. Gehen Sie zum Downloads-Tab in Portal und klicken Sie auf Zertifikate.
 
-2. Portal will then download the Certificates.zip
+2. Portal lädt dann die Certificates.zip herunter.
 
-3. Go into Files and navigate to On My iPhone > Portal > Downloads
+3. Gehen Sie in Dateien und navigieren Sie zu Auf meinem iPhone > Portal > Downloads.
 
-4. Tap on the Certificates.zip once, you should now see a Certificates folder
+4. Tippen Sie einmal auf die Certificates.zip, Sie sollten nun einen Ordner namens Certificates sehen.
 
-5. Go into Portal's Guides tab and find the Sources, then copy the URLs
+5. Gehen Sie zum Guides-Tab in Portal und finden Sie die Quellen, dann kopieren Sie die URLs.
 
-6. Go to Sources in Portal and click on the plus icon on the top right
+6. Gehen Sie zu Quellen in Portal und klicken Sie auf das Plus-Symbol oben rechts.
 
-7. Then press the the clipboard icon on the top right and select Paste and allow the paste
+7. Drücken Sie dann auf das Zwischenablage-Symbol oben rechts, wählen Sie Einfügen und erlauben Sie das Einfügen.
 
-8. Save and then go back to the sources screen, you may need to pull down to refresh the page
+8. Speichern Sie und gehen Sie dann zurück zum Quellen-Bildschirm, Sie müssen möglicherweise die Seite nach unten ziehen, um sie zu aktualisieren.
 
 
-### [Part [2/2] Using Portal](accent://)
+### [Teil [2/2] Portal verwenden](accent://)
 
-1. Download any app using the sources in Portal
+1. Laden Sie eine beliebige App mit den Quellen in Portal herunter.
 
-2. Go to the Signing tab in Portal
+2. Gehen Sie zum Signieren-Tab in Portal.
 
-3. Input your .ipa, which is the app you just downloaded
+3. Geben Sie Ihre .ipa ein, das ist die App, die Sie gerade heruntergeladen haben.
 
-4. Input your .p12 and .mobileprovision from On My iPhone > Portal > Downloads > Certificates, the password is "WSF"
+4. Geben Sie Ihre .p12 und .mobileprovision von Auf meinem iPhone > Portal > Downloads > Certificates ein, das Passwort ist "WSF".
 
-5. Click on Sign, after the process is complete, click on the link which shows up in the pop-up
+5. Klicken Sie auf Signieren, nach Abschluss des Vorgangs klicken Sie auf den Link, der im Popup angezeigt wird.
 
-6. Now read the Post Install Notes to prevent revokes
+6. Lesen Sie nun die Post-Installationshinweise, um Widerrufe zu verhindern.
