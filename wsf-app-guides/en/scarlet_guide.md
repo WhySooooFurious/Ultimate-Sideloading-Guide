@@ -8,24 +8,25 @@ This guide will teach you on how to install and use Scarlet.
 
 2. Click on install once the popup comes up
 
-3. Go to the Downloads tab in Portal and click on Certificates
-
-4. After being redirected to Safari, click on Download
-
-5. Go into Files and tap on the Certificates.zip once, you should now see a Certificates folder
-
 ### [Part [2/3] Setting up Scarlet](accent://)
 
-1. Open Scarlet and click on the Download icon on the tab bar
+1. Go to the Downloads tab in Portal and click on Certificates
 
-2. Hold down the Download button on the top right and click on Manage Certs
+2. Portal will then download the Certificates.zip
 
-3. Import the .mobileprovision and .p12 from the Certificates folder, find the certificate you used for Portal, the password is WSF
+3. Go into Files and navigate to On My iPhone > Portal > Downloads
 
-4. Go into Portal's Guides tab and find the Sources, then copy the URLs
+4. Tap on the Certificates.zip once, you should now see a Certificates folder
 
-5. Close the sheet, go back and hold down the Downloads button again, now add your sources
+5. Open Scarlet and click on the Download icon on the tab bar
 
+6. Hold down the Download button on the top right and click on Manage Certs
+
+7. Import the .mobileprovision and .p12 from the Certificates folder, find the certificate you used for Portal, the password is WSF
+
+8. Go into Portal's Guides tab and find the Sources, then copy the URLs
+
+9. Close the sheet, go back and hold down the Downloads button again, now add your sources
 
 ### [Part [3/3] Using Scarlet](accent://)
 
