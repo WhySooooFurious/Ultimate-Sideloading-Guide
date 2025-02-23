@@ -10,9 +10,11 @@ This guide will teach you on how to install and use GBox.
 
 3. Go to the Downloads tab in Portal and click on Certificates
 
-4. After being redirected to Safari, click on Download
+4. Portal will then download the Certificates.zip
 
-5. Go into Files and tap on the Certificates.zip once, you should now see a Certificates folder
+5. Go into Files and navigate to On My iPhone > Portal > Downloads
+
+7. Tap on the Certificates.zip once, you should now see a Certificates folder
 
 ### [Part [2/3] Setting up GBox](accent://)
 
@@ -20,13 +22,13 @@ This guide will teach you on how to install and use GBox.
 
 2. Get your UDID, after being redirected to Safari, click on Allow
 
-3. Go to Settings > General > VPN and Device Management and click on Box UDID
+3. Go to Settings > General > VPN and Device Management and click on GBox UDID
 
 4. Install the profile and you should automatically get redirected to Safari with a prompt
 
 5. Click on Open, then select Import Certificate
 
-6. Import the .p12 from the Certificates folder, find the certificate you used for Portal, the password is WSF
+6. Import the .p12 from On My iPhone > Portal > Downloads > Certificates folder, find the certificate you used for GBox, the password is "WSF"
 
 7. Then click on Import Certificate again, this time selecting the .mobileprovision
 
