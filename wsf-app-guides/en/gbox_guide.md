@@ -8,33 +8,33 @@ This guide will teach you on how to install and use GBox.
 
 2. Click on install once the popup comes up
 
-3. Go to the Downloads tab in Portal and click on Certificates
-
-4. Portal will then download the Certificates.zip
-
-5. Go into Files and navigate to On My iPhone > Portal > Downloads
-
-7. Tap on the Certificates.zip once, you should now see a Certificates folder
-
 ### [Part [2/3] Setting up GBox](accent://)
 
-1. Open GBox and go to Settings, then Cert Management
+1. Go to the Downloads tab in Portal and click on Certificates
 
-2. Get your UDID, after being redirected to Safari, click on Allow
+2. Portal will then download the Certificates.zip
 
-3. Go to Settings > General > VPN and Device Management and click on GBox UDID
+3. Go into Files and navigate to On My iPhone > Portal > Downloads
 
-4. Install the profile and you should automatically get redirected to Safari with a prompt
+4. Tap on the Certificates.zip once, you should now see a Certificates folder
 
-5. Click on Open, then select Import Certificate
+5. Open GBox and go to Settings, then Cert Management
 
-6. Import the .p12 from On My iPhone > Portal > Downloads > Certificates folder, find the certificate you used for GBox, the password is "WSF"
+6. Get your UDID, after being redirected to Safari, click on Allow
 
-7. Then click on Import Certificate again, this time selecting the .mobileprovision
+7. Go to Settings > General > VPN and Device Management and click on GBox UDID
 
-8. Go into Portal's Guides tab and find the Sources, then copy the URLs
+8. Install the profile and you should automatically get redirected to Safari with a prompt
 
-9. Go back to Sources in GBox and select Add App Source, now add your sources
+9. Click on Open, then select Import Certificate
+
+10. Import the .p12 from On My iPhone > Portal > Downloads > Certificates folder, find the certificate you used for GBox, the password is "WSF"
+
+11. Then click on Import Certificate again, this time selecting the .mobileprovision
+
+12. Go into Portal's Guides tab and find the Sources, then copy the URLs
+
+13. Go back to Sources in GBox and select Add App Source, now add your sources
 
 ### [Part [3/3] Using GBox](accent://)
 
