@@ -1,1 +1,1 @@
-PUT ANNOUNCEMENTS HERE :3
+Join our [Discord](https://whysoooofurious.netlify.app/discord)
