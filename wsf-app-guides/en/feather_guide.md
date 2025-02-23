@@ -12,25 +12,25 @@ This guide will teach you on how to install and use Feather.
 
 2. Click on install once the popup comes up
 
-3. Go to the Downloads tab in Portal and click on Certificates
-
-4. Portal will then download the Certificates.zip
-
-5. Go into Files and navigate to On My iPhone > Portal > Downloads
-
-7. Tap on the Certificates.zip once, you should now see a Certificates folder
-
 ### [Part [2/3] Setting up Feather](accent://)
 
-1. Open Feather and click on continue
+1. Go to the Downloads tab in Portal and click on Certificates
 
-2. Go to Settings and click on Add Certificate
+2. Portal will then download the Certificates.zip
 
-3. Click on the plus icon and import the .mobileprovision and .p12 from On My iPhone > Portal > Downloads > Certificates, find the certificate you used to download Feather, the password is "WSF"
+3. Go into Files and navigate to On My iPhone > Portal > Downloads
 
-4. Go into Portal's Guides tab and find the Sources, then copy the URLs
+4. Tap on the Certificates.zip once, you should now see a Certificates folder
 
-5. Click on Add Repo and select Import Repositories
+5. Open Feather and click on continue
+
+6. Go to Settings and click on Add Certificate
+
+7. Click on the plus icon and import the .mobileprovision and .p12 from On My iPhone > Portal > Downloads > Certificates, find the certificate you used to download Feather, the password is "WSF"
+
+8. Go into Portal's Guides tab and find the Sources, then copy the URLs
+
+9. Click on Add Repo and select Import Repositories
 
 ### [Part [3/3] Using Feather](accent://)
 
