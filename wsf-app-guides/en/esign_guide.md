@@ -14,11 +14,11 @@ This guide will teach you on how to install and use ESign.
 
 3. Go to the Downloads tab in Portal and click on Certificates
 
-4. After being redirected to Safari, click on Download
+4. Portal will then download the Certificates.zip
 
 ### [Part [2/3] Setting up ESign](accent://)
 
-1. Open ESign, go to Settings, click on Import Resources and import the Certificates.zip you just downloaded
+1. Open ESign, go to Settings, click on Import Resources and import the Certificates.zip from On My iPhone > Portal > Downloads
 
 2. Go to the File tab in ESign, click on the Certificates.zip then click on unzip
 
