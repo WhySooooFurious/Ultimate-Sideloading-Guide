@@ -113,7 +113,7 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 
 ## Downloads
 
-Download Link is in the #links channel in the Discord [Server](https://whysoooofurious.netlify.app/discord)
+Download Link is in the #links channel in the Discord [Server](https://wsfteam.xyz/discord)
 
 ## Troubleshooting
 
