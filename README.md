@@ -54,17 +54,19 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 **Video Guides by TechJunkieAman:**
 
-[AIO Guide V2](https://www.youtube.com/watch?v=OysjLfxNu_)
-
-[AIO Guide V1](https://www.youtube.com/watch?v=OysjLfxNu_) (Outdated)
+[AIO Portal + Sideloaders Guide](https://www.youtube.com/watch?v=OysjLfxNu_g)
 
 [ESign Guide](https://www.youtube.com/watch?v=MwKJjGlXni0)
 
 [Feather Guide](https://www.youtube.com/watch?v=8DiBMAdLMiY)
 
-**Interactive Guides by Frizzle:**
+**Video Guides by Erdi:**
 
-[AIO Guide](https://routinehub.co/shortcut/21677/)
+[Portal Guide](https://youtu.be/nni_DNix490?feature=shared)
+
+**Interactive Shortcut Guides by Frizzle:**
+
+[AIO Portal + Sideloaders Shortcut Guide](https://routinehub.co/shortcut/21677/)
 
 ## Which Config Profile do I choose?
 
