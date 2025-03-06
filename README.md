@@ -66,8 +66,6 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 [AIO Guide](https://routinehub.co/shortcut/21677/)
 
-# Main Guide!
-
 ## Which Config Profile do I choose?
 
 ### WSF Config Profile
@@ -93,13 +91,13 @@ Cons:
 
 - None
 
-### What does Update Blocker or Ad-Blocker mean?
+### What does the code mean in the Config Profiles?
 
-Update Blocker: Blocks Apple OTA Updates
+UB: Blocks Apple OTA Updates
 
-Ad-Blocker: Blocks Ads and Trackers
+AB: Blocks Ads and Trackers
 
-Don't use VPNs while installing unless you've set it up using the VPN Setup Guide
+Don't use VPNs while installing unless you've set it up using the VPN Setup Guide.
 
 ## Installation Guide
 
@@ -149,9 +147,9 @@ Try other downloads links, if they don't work, then follow this [guide](#fixing-
 
 Method 1 has a low success rate and doesn't require a computer
 
-Method 2 has a high success rate and requires a computer
+Method 2 has a medium-high success rate and requires a computer
 
-Method 3 has a medium-high success rate and requires a computer
+Method 3 has a high success rate and requires a computer
 
 Method 4 will work, requires a computer and it will erase your data.
 
@@ -167,7 +165,16 @@ Method 4 will work, requires a computer and it will erase your data.
 
 5. Now, follow the guide again
 
+
 ### Method 2
+
+1. Remove the Config Profile and uninstall every sideloaded app you've installed
+  
+2. After backing up, put your device in recovery mode and click on update in Finder or iTunes
+  
+3. Now, follow the guide again
+
+### Method 3
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
@@ -179,13 +186,6 @@ Method 4 will work, requires a computer and it will erase your data.
   
 5. Now, follow the guide again
 
-### Method 3
-
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
-  
-2. After backing up, put your device in recovery mode and click on update in Finder or iTunes
-  
-3. Now, follow the guide again
 
 ### Method 4
 
