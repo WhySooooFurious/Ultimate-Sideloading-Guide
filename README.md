@@ -52,7 +52,7 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ## Tutorials
 
-Video Guides by TechJunkieAman:
+**Video Guides by TechJunkieAman:**
 
 [AIO Guide V2](https://www.youtube.com/watch?v=OysjLfxNu_)
 
@@ -62,7 +62,7 @@ Video Guides by TechJunkieAman:
 
 [Feather Guide](https://www.youtube.com/watch?v=8DiBMAdLMiY)
 
-Interactive Guides by Frizzle:
+**Interactive Guides by Frizzle:**
 
 [AIO Guide](https://routinehub.co/shortcut/21677/)
 
