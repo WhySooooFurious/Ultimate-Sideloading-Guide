@@ -99,6 +99,8 @@ UB: Blocks Apple OTA Updates
 
 AB: Blocks Ads and Trackers
 
+EXP: For testing and fixing issues, this particular variant does NOT block logs
+
 Don't use VPNs while installing unless you've set it up using the VPN Setup Guide.
 
 ## Installation Guide
