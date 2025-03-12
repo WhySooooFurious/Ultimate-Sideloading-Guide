@@ -36,16 +36,6 @@ Push Notifications: 🟢
 
 03/04/2025: ✅
 
-### [NetworkTech:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🟢
-
-**Expiration**:
-
-12/03/2025: ✅
-
 ### [SunLife:](accent://)
 
 **Permissions**:
