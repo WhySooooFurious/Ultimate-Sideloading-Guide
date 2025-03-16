@@ -174,7 +174,7 @@ Method 4 will work, requires a computer and it will erase your data.
 
 1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
-2. After backing up, put your device in recovery mode and click on update in Finder or iTunes
+2. Put your device in recovery mode and click on update in Finder or iTunes
   
 3. Now, follow the guide again
 
