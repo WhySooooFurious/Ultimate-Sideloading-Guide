@@ -36,16 +36,6 @@ Push-Benachrichtigungen: 🟢
 
 03/04/2025: ✅
 
-### [NetworkTech:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🟢
-
-**Ablaufdatum**:
-
-12/03/2025: ✅
-
 ### [SunLife:](accent://)
 
 **Berechtigungen**:
