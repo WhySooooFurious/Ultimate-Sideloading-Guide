@@ -1,0 +1,29 @@
+{
+  "apps" : [
+    {
+      "image" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/67\/App_Store_%28iOS%29.svg\/512px-App_Store_%28iOS%29.svg.png?20201023145313",
+      "certs" : [
+        {
+          "certName" : "CertName1",
+          "downloadURL" : "https:\/\/google.com"
+        },
+        {
+          "certName" : "CertName2",
+          "downloadURL" : "https:\/\/google.com"
+        }
+      ],
+      "name" : "TestApp2"
+    }
+  ],
+  "files" : [
+    {
+      "downloadURL" : "https:\/\/google.com",
+      "name" : "File1"
+    },
+    {
+      "downloadURL" : "https:\/\/google.com",
+      "name" : "File1",
+      "note" : "This is a test note"
+    }
+  ]
+}
