@@ -60,9 +60,13 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 [Feather Guide](https://www.youtube.com/watch?v=8DiBMAdLMiY)
 
+**Video Guides by ESMANDAU**
+
+[Portal Guide](https://www.youtube.com/watch?v=kCenM3LgSGA)
+
 **Video Guides by Erdi:**
 
-[Portal Guide](https://youtu.be/nni_DNix490?feature=shared)
+[Portal Guide](https://www.youtube.com/watch?v=nni_DNix490)
 
 **Interactive Shortcut Guides by Frizzle:**
 
