@@ -1,4 +1,11 @@
 {
+  "files" : [
+    {
+      "note" : "NOTE: Certificates will be moved to the WSF Source soon",
+      "downloadURL" : "https:\/\/wsfteam.xyz\/files\/Certificates\/Certificates.zip",
+      "name" : "Certificates"
+    }
+  ],
   "apps" : [
     {
       "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/esign.png",
@@ -9,61 +16,62 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Avex\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist",
-          "certName" : "Continent"
+          "certName" : "Continent",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist",
-          "certName" : "Mahindra"
+          "certName" : "Mahindra",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist"
         },
         {
           "certName" : "Ministere",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Ministere\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/NetworkTech\/manifest.plist",
-          "certName" : "NetworkTech"
+          "certName" : "NetworkTech",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/NetworkTech\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/SunLife\/manifest.plist",
-          "certName" : "SunLife"
+          "certName" : "SunLife",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/SunLife\/manifest.plist"
         },
         {
           "certName" : "Sunshine1",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine1\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist",
-          "certName" : "Sunshine2"
+          "certName" : "Sunshine2",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine3\/manifest.plist",
-          "certName" : "Sunshine3"
+          "certName" : "Sunshine3",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine3\/manifest.plist"
         }
       ]
     },
     {
       "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/feather.png",
+      "name" : "Feather",
       "certs" : [
         {
-          "certName" : "Avex",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Avex\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Avex\/manifest.plist",
+          "certName" : "Avex"
         },
         {
-          "certName" : "Continent",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist",
+          "certName" : "Continent"
         },
         {
-          "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist",
+          "certName" : "Mahindra"
         },
         {
-          "certName" : "Ministere",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Ministere\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Ministere\/manifest.plist",
+          "certName" : "Ministere"
         },
         {
-          "certName" : "NetworkTech",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/NetworkTech\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/NetworkTech\/manifest.plist",
+          "certName" : "NetworkTech"
         },
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/SunLife\/manifest.plist",
@@ -78,102 +86,10 @@
           "certName" : "Sunshine2"
         },
         {
-          "certName" : "Sunshine3",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine3\/manifest.plist"
-        }
-      ],
-      "name" : "Feather"
-    },
-    {
-      "name" : "GBox",
-      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/gbox.png",
-      "certs" : [
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Avex\/manifest.plist",
-          "certName" : "Avex"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Continent\/manifest.plist",
-          "certName" : "Continent"
-        },
-        {
-          "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Mahindra\/manifest.plist"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Ministere\/manifest.plist",
-          "certName" : "Ministere"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/NetworkTech\/manifest.plist",
-          "certName" : "NetworkTech"
-        },
-        {
-          "certName" : "SunLife",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/SunLife\/manifest.plist"
-        },
-        {
-          "certName" : "Sunshine1",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Sunshine1\/manifest.plist"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Sunshine2\/manifest.plist",
-          "certName" : "Sunshine2"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/GBox\/Sunshine3\/manifest.plist",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine3\/manifest.plist",
           "certName" : "Sunshine3"
         }
       ]
-    },
-    {
-      "name" : "Scarlet",
-      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/scarlet.png",
-      "certs" : [
-        {
-          "certName" : "Avex",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Avex\/manifest.plist"
-        },
-        {
-          "certName" : "Continent",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Continent\/manifest.plist"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Mahindra\/manifest.plist",
-          "certName" : "Mahindra"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Ministere\/manifest.plist",
-          "certName" : "Ministere"
-        },
-        {
-          "certName" : "NetworkTech",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/NetworkTech\/manifest.plist"
-        },
-        {
-          "certName" : "SunLife",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/SunLife\/manifest.plist"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Sunshine1\/manifest.plist",
-          "certName" : "Sunshine1"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Sunshine2\/manifest.plist",
-          "certName" : "Sunshine2"
-        },
-        {
-          "certName" : "Sunshine3",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Scarlet\/Sunshine3\/manifest.plist"
-        }
-      ]
-    }
-  ],
-  "files" : [
-    {
-      "name" : "Certificates",
-      "downloadURL" : "https:\/\/wsfteam.xyz\/files\/Certificates\/Certificates.zip",
-      "note" : "NOTE: Certificates will be moved to the WSF Source soon"
     }
   ]
 }
