@@ -32,8 +32,8 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/SunLife\/manifest.plist"
         },
         {
-          "certName" : "Sunshine1",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine1\/manifest.plist"
+          "certName" : "Sunshine",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
         {
           "certName" : "Sunshine2",
@@ -70,8 +70,8 @@
           "certName" : "SunLife"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine1\/manifest.plist",
-          "certName" : "Sunshine1"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist",
+          "certName" : "Sunshine"
         },
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist",
