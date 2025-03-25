@@ -58,10 +58,6 @@
       "name" : "Feather",
       "certs" : [
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Avex\/manifest.plist",
-          "certName" : "Avex"
-        },
-        {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist",
           "certName" : "Continent"
         },
@@ -92,10 +88,6 @@
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine3\/manifest.plist",
           "certName" : "Sunshine3"
-        },
-        {
-          "certName" : "VietnamElec",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/VietnamElec\/manifest.plist"
         }
       ]
     }
