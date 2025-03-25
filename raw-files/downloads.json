@@ -46,6 +46,10 @@
         {
           "certName" : "Sunshine3",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine3\/manifest.plist"
+        },
+        {
+          "certName" : "VietnamElec",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist"
         }
       ]
     },
@@ -88,6 +92,10 @@
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine3\/manifest.plist",
           "certName" : "Sunshine3"
+        },
+        {
+          "certName" : "VietnamElec",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/VietnamElec\/manifest.plist"
         }
       ]
     }
