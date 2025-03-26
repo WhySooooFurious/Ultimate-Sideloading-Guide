@@ -66,12 +66,3 @@ Push-Benachrichtigungen: 🟢
 
 6/06/2025: ✅
 
-### [Sunshine 3:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🔴
-
-**Ablaufdatum**:
-
-26/03/2025: ✅
