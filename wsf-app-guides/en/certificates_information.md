@@ -65,13 +65,3 @@ Push Notifications: 🟢
 **Expiration**: 
 
 6/06/2025: ✅
-
-### [Sunshine 3:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🔴
-
-**Expiration**:
-
-26/03/2025: ✅ 
