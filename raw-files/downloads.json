@@ -19,6 +19,10 @@
           "certName" : "Continent",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist"
         },
+                {
+          "certName" : "Mahindra",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist"
+        },
         {
           "certName" : "Ministere",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Ministere\/manifest.plist"
@@ -56,6 +60,10 @@
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Continent\/manifest.plist",
           "certName" : "Continent"
+        },
+                {
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist",
+          "certName" : "Mahindra"
         },
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Ministere\/manifest.plist",
