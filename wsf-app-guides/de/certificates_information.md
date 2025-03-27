@@ -66,3 +66,17 @@ Push-Benachrichtigungen: 🟢
 
 6/06/2025: ✅
 
+### [VietnamElec:](accent://)
+
+**Berechtigungen**:
+
+Push-Benachrichtingungen: Unbekannt
+
+**Ablaufdatum**:
+
+25/05/2025✅
+
+**Hinweis**:
+
+Nur Mit Esign Kompatibel
+
