@@ -14,7 +14,7 @@ Push Notifications: Unknown
 
 **Notes**:
 
-Only compatible with ESign as of now
+Only compatible with ESign.
 
 ### [Continent:](accent://)
 
@@ -25,6 +25,17 @@ Push Notifications: 🟢
 **Expiration**: 
 
 13/06/2025: ✅
+
+### [Mahindra:](accent://)
+
+**Permissions**:
+
+Push Notifications: 🟢
+
+**Expiration**: 
+
+28/05/2025: ✅
+
 
 ### [Ministere:](accent://)
 
@@ -65,3 +76,17 @@ Push Notifications: 🟢
 **Expiration**: 
 
 6/06/2025: ✅
+
+### [VietnamElec:](accent://)
+
+**Permissions**:
+
+Push Notifications: Unknown
+
+**Expiration**: 
+
+23/05/2025: ✅
+
+**Notes**:
+
+Only compatible with ESign.
