@@ -26,6 +26,16 @@ Push-Benachrichtigungen: 🟢
 
 13/06/2025: ✅
 
+### [Mahindra:](accent://)
+
+**Berechtigungen**:
+
+Push-Benachrichtigungen:🟢
+
+**Ablaufdatum**:
+
+28/05/2025✅
+
 ### [Ministere:](accent://)
 
 **Berechtigungen**:
