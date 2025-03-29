@@ -1,4 +1,4 @@
-## [Zertifikatsstatus](accent://)
+## [Zertifikatstatus](accent://)
 
 Informationen zu allen Zertifikaten.
 
@@ -10,11 +10,11 @@ Push-Benachrichtigungen: Unbekannt
 
 **Ablaufdatum**:
 
-31/03/2025: ✅
+31.03.2025: ✅
 
 **Hinweise**:
 
-Nur kompatibel mit ESign derzeit
+Nur mit ESign kompatibel.
 
 ### [Continent:](accent://)
 
@@ -22,9 +22,19 @@ Nur kompatibel mit ESign derzeit
 
 Push-Benachrichtigungen: 🟢
 
-**Ablaufdatum**: 
+**Ablauf**:
 
-13/06/2025: ✅
+13.06.2025: ✅
+
+### [Mahindra:](accent://)
+
+**Berechtigungen**:
+
+Push-Benachrichtigungen: 🟢
+
+**Ablauf**:
+
+28.05.2025: ✅
 
 ### [Ministere:](accent://)
 
@@ -32,19 +42,9 @@ Push-Benachrichtigungen: 🟢
 
 Push-Benachrichtigungen: 🟢
 
-**Ablaufdatum**: 
+**Ablauf**:
 
-03/04/2025: ✅
-
-### [SunLife:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🔴
-
-**Ablaufdatum**:
-
-27/03/2025: ✅
+03.04.2025: ✅
 
 ### [Sunshine 1:](accent://)
 
@@ -52,9 +52,9 @@ Push-Benachrichtigungen: 🔴
 
 Push-Benachrichtigungen: 🟢
 
-**Ablaufdatum**: 
+**Ablauf**:
 
-13/09/2025: ✅
+13.09.2025: ✅
 
 ### [Sunshine 2:](accent://)
 
@@ -62,16 +62,20 @@ Push-Benachrichtigungen: 🟢
 
 Push-Benachrichtigungen: 🟢
 
-**Ablaufdatum**: 
+**Ablauf**:
 
-6/06/2025: ✅
+06.06.2025: ✅
 
-### [Sunshine 3:](accent://)
+### [VietnamElec:](accent://)
 
 **Berechtigungen**:
 
-Push-Benachrichtigungen: 🔴
+Push-Benachrichtigungen: Unbekannt
 
-**Ablaufdatum**:
+**Ablauf**:
 
-26/03/2025: ✅
+23.05.2025: ✅
+
+**Hinweise**:
+
+Nur mit ESign kompatibel.
