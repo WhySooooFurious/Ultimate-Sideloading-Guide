@@ -32,20 +32,12 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/NetworkTech\/manifest.plist"
         },
         {
-          "certName" : "SunLife",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/SunLife\/manifest.plist"
-        },
-        {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
         {
           "certName" : "Sunshine2",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist"
-        },
-        {
-          "certName" : "Sunshine3",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine3\/manifest.plist"
         },
         {
           "certName" : "VietnamElec",
@@ -74,20 +66,12 @@
           "certName" : "NetworkTech"
         },
         {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/SunLife\/manifest.plist",
-          "certName" : "SunLife"
-        },
-        {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist",
           "certName" : "Sunshine"
         },
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist",
           "certName" : "Sunshine2"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine3\/manifest.plist",
-          "certName" : "Sunshine3"
         }
       ]
     }
