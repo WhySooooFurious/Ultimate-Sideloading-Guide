@@ -32,10 +32,6 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/NetworkTech\/manifest.plist"
         },
         {
-          "certName" : "SunLife",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/SunLife\/manifest.plist"
-        },
-        {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
@@ -72,10 +68,6 @@
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/NetworkTech\/manifest.plist",
           "certName" : "NetworkTech"
-        },
-        {
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/SunLife\/manifest.plist",
-          "certName" : "SunLife"
         },
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist",
