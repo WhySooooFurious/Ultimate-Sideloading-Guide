@@ -46,16 +46,6 @@ Push-Benachrichtigungen: 🟢
 
 03/04/2025: ✅
 
-### [SunLife:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🔴
-
-**Ablaufdatum**:
-
-27/03/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
 **Berechtigungen**:
