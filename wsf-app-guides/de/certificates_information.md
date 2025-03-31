@@ -26,6 +26,16 @@ Push-Benachrichtigungen: 🟢
 
 13/06/2025: ✅
 
+### [Mahindra:](accent://)
+
+**Berechtigungen**:
+
+Push-Benachrichtigungen:🟢
+
+**Ablaufdatum**:
+
+28/05/2025✅
+
 ### [Ministere:](accent://)
 
 **Berechtigungen**:
@@ -35,16 +45,6 @@ Push-Benachrichtigungen: 🟢
 **Ablaufdatum**: 
 
 03/04/2025: ✅
-
-### [SunLife:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🔴
-
-**Ablaufdatum**:
-
-27/03/2025: ✅
 
 ### [Sunshine 1:](accent://)
 
@@ -66,12 +66,17 @@ Push-Benachrichtigungen: 🟢
 
 6/06/2025: ✅
 
-### [Sunshine 3:](accent://)
+### [VietnamElec:](accent://)
 
 **Berechtigungen**:
 
-Push-Benachrichtigungen: 🔴
+Push-Benachrichtingungen: Unbekannt
 
 **Ablaufdatum**:
 
-26/03/2025: ✅
+25/05/2025✅
+
+**Hinweis**:
+
+Nur Mit Esign Kompatibel
+
