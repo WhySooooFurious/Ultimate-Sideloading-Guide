@@ -12,10 +12,6 @@
       "name" : "ESign",
       "certs" : [
         {
-          "certName" : "Avex",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Avex\/manifest.plist"
-        },
-        {
           "certName" : "Continent",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist"
         },
