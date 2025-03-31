@@ -131,7 +131,7 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 
 5. If your device was restarted, swipe up and click on install profile
 
-6. Now, open Portal and continue the installation
+6. Now, open Portal and read the Post Install Notes
 
 ## Downloads
 
