@@ -1,41 +1,56 @@
-## [Certificate Status](accent://)
+## [Status do certificado](accent://)
 
-Informações sobre all certificates.
+Informações para todos os certificados.
+
+### [Avex:](accent://)
+
+**Permissões**:
+
+Notificações push: Desconhecido
+
+**Expiração**:
+
+31/03/2025: ✅
+
+**Observações**:
+
+Compatível apenas com ESign.
+
 ### [Continent:](accent://)
 
 **Permissões**:
 
-Notificações por push: 🟢
+Notificações Push: 🟢
 
 **Expiração**:
 
 13/06/2025: ✅
 
+### [Mahindra:](accent://)
+
+**Permissões**:
+
+Notificações Push: 🟢
+
+**Expiração**:
+
+28/05/2025: ✅
+
 ### [Ministere:](accent://)
 
 **Permissões**:
 
-Notificações por push: 🟢
+Notificações Push: 🟢
 
 **Expiração**:
 
 03/04/2025: ✅
 
-### [NetworkTech:](accent://)
-
-**Permissões**:
-
-Notificações por push: 🟢
-
-**Expiração**:
-
-12/03/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
 **Permissões**:
 
-Notificações por push: 🟢
+Notificações Push: 🟢
 
 **Expiração**:
 
@@ -45,28 +60,22 @@ Notificações por push: 🟢
 
 **Permissões**:
 
-Notificações por push: 🟢
+Notificações Push: 🟢
 
 **Expiração**:
 
-06/06/2025: ✅
+6/06/2025: ✅
 
-### [Sunshine 3:](accent://)
+### [VietnamElec:](accent://)
 
 **Permissões**:
 
-Notificações por push: 🔴
+Notificações Push: Desconhecido
 
 **Expiração**:
 
-26/03/2025: ✅
+23/05/2025: ✅
 
-### [SunLife:](accent://)
+**Observações**:
 
-**Permissões**:
-
-Notificações por push: 🔴
-
-**Expiração**:
-
-27/03/2025: ✅
+Compatível apenas com ESign.

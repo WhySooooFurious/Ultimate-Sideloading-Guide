@@ -1,12 +1,12 @@
-## [Stato dei Certificati](accent://)
+## [Stato del certificato](accent://)
 
-Informazioni per tutti i Certificati.
+Informazioni per tutti i certificati.
 
 ### [Avex:](accent://)
 
-**Permessi**:
+**Autorizzazioni**:
 
-Notifiche Push: Unknown
+Notifiche push: Sconosciuto
 
 **Scadenza**:
 
@@ -14,74 +14,68 @@ Notifiche Push: Unknown
 
 **Note**:
 
-Compatibile solo con ESign per ora
+Compatibile solo con ESign.
 
 ### [Continent:](accent://)
 
-**Permessi**:
+**Autorizzazioni**:
 
-Notifiche Push: 🟢
+Notifiche push: 🟢
 
-**Scadenza**: 
+**Scadenza**:
 
 13/06/2025: ✅
 
+### [Mahindra:](accent://)
+
+**Autorizzazioni**:
+
+Notifiche push: 🟢
+
+**Scadenza**:
+
+28/05/2025: ✅
+
 ### [Ministere:](accent://)
 
-**Permessi**:
+**Autorizzazioni**:
 
-Notifiche Push: 🟢
+Notifiche push: 🟢
 
-**Scadenza**: 
+**Scadenza**:
 
 03/04/2025: ✅
 
-### [NetworkTech:](accent://)
-
-**Permessi**:
-
-Notifiche Push: 🟢
-
-**Scadenza**:
-
-12/03/2025: ✅
-
-### [SunLife:](accent://)
-
-**Permessi**:
-
-Notifiche Push: 🔴
-
-**Scadenza**:
-
-27/03/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
-**Permessi**:
+**Autorizzazioni**:
 
-Notifiche Push: 🟢
+Notifiche push: 🟢
 
-**Scadenza**: 
+**Scadenza**:
 
 13/09/2025: ✅
 
 ### [Sunshine 2:](accent://)
 
-**Permessi**:
+**Autorizzazioni**:
 
-Notifiche Push: 🟢
-
-**Scadenza**: 
-
-6/06/2025: ✅
-
-### [Sunshine 3:](accent://)
-
-**Permessi**:
-
-Notifiche Push: 🔴
+Notifiche push: 🟢
 
 **Scadenza**:
 
-26/03/2025: ✅ 
+06/06/2025: ✅
+
+### [VietnamElec:](accent://)
+
+**Autorizzazioni**:
+
+Notifiche push: Sconosciuto
+
+**Scadenza**:
+
+23/05/2025: ✅
+
+**Note**:
+
+Compatibile solo con ESign.
