@@ -31,6 +31,10 @@
           "certName" : "Sunshine2",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist"
         },
+                {
+          "certName" : "Toyota",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist"
+        },
         {
           "certName" : "VietnamElec",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist"
@@ -60,6 +64,10 @@
         {
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist",
           "certName" : "Sunshine2"
+        },
+        {
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Toyota\/manifest.plist",
+          "certName" : "Toyota"
         }
       ]
     }
