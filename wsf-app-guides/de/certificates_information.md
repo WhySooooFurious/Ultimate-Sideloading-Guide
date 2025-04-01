@@ -2,20 +2,6 @@
 
 Informationen zu allen Zertifikaten.
 
-### [Avex:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: Unbekannt
-
-**Ablaufdatum**:
-
-31/03/2025: ✅
-
-**Hinweise**:
-
-Nur kompatibel mit ESign derzeit
-
 ### [Continent:](accent://)
 
 **Berechtigungen**:
@@ -65,6 +51,16 @@ Push-Benachrichtigungen: 🟢
 **Ablaufdatum**: 
 
 6/06/2025: ✅
+
+## [Toyota:](accent://)
+
+**Berchtigungen**:
+
+Push-Benachrichtigungen:
+
+**Ablaufdatum**:🟢
+
+7/10/2025: ✅
 
 ### [VietnamElec:](accent://)
 
