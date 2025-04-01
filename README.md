@@ -76,9 +76,11 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ### WSF Config Profile
 
+This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
+
 Pros:
 
-- Privacy Oriented
+- Privacy oriented
 
 Cons:
 
@@ -87,15 +89,32 @@ Cons:
 
 ### madNS Config Profile
 
+This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an Ad-Blocker and an OTA Update Blocker.
+
 Pros:
 
 - Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
 
-- Privacy Oriented as can be
+- Privacy oriented as can be
 
 Cons:
 
 - None
+
+### Generic Config Profile
+
+This configuration profile doesn't prevent revokes. It contains an Ad-Blocker and OTA Update Blocker.
+
+Pros:
+
+- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
+
+- Privacy oriented as can be
+
+Cons:
+
+- None
+
 
 ### What does the code mean in the Config Profiles?
 
@@ -131,7 +150,7 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 
 5. If your device was restarted, swipe up and click on install profile
 
-6. Now, open Portal and read the Post Install Notes
+6. Now, open Portal and read the Post Install Notes and other guides
 
 ## Downloads
 
