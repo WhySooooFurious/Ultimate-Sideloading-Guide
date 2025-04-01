@@ -66,6 +66,16 @@ Push-Benachrichtigungen: 🟢
 
 6/06/2025: ✅
 
+## [Toyota:](accent://)
+
+**Berchtigungen**:
+
+Push-Benachrichtigungen:
+
+**Ablaufdatum**:🟢
+
+7/10/2025: ✅
+
 ### [VietnamElec:](accent://)
 
 **Berechtigungen**:
