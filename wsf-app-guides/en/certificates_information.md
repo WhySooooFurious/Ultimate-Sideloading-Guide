@@ -2,20 +2,6 @@
 
 Information for all Certificates.
 
-### [Avex:](accent://)
-
-**Permissions**:
-
-Push Notifications: Unknown
-
-**Expiration**:
-
-31/03/2025: ✅
-
-**Notes**:
-
-Only compatible with ESign.
-
 ### [Continent:](accent://)
 
 **Permissions**:
@@ -66,6 +52,16 @@ Push Notifications: 🟢
 **Expiration**: 
 
 6/06/2025: ✅
+
+### [Toyota:](accent://)
+
+**Permissions**:
+
+Push Notifications: 🟢
+
+**Expiration**: 
+
+7/10/2025: ✅
 
 ### [VietnamElec:](accent://)
 
