@@ -40,7 +40,7 @@ Portal is easy to use, stable and offers a great user experience for everyone.
 
 Q - Can I use a VPN?
 
-A - You can if you're utilising the madNS Config Profile, make sure to set it up by using the VPN Guide which is in the Portal app and Discord!
+A - You can if you're using the madNS Config Profile, set it up by using the VPN Guide which is in the Portal app and Discord.
 
 ---
 
