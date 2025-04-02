@@ -106,7 +106,7 @@ This configuration profile doesn't prevent revokes. It contains an Ad-Blocker an
 
 Pros:
 
-- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
+- Supports Feather, Apple Relay, Push Notifications and ChatGPT
 
 - Privacy oriented as can be
 
