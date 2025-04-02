@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to our guide on how to sideload on Apple Devices!
+Welcome to our guide on how to sideload on iDevices!
 
 Advantages:
 
@@ -74,19 +74,6 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ## Which Config Profile do I choose?
 
-### WSF Config Profile
-
-This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
-
-Pros:
-
-- Privacy oriented
-
-Cons:
-
-- No VPN, Feather, Apple Relay, Push Notifications or ChatGPT support
-
-
 ### madNS Config Profile
 
 This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an Ad-Blocker and an OTA Update Blocker.
@@ -100,6 +87,18 @@ Pros:
 Cons:
 
 - None
+
+### WSF Config Profile
+
+This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
+
+Pros:
+
+- Privacy oriented
+
+Cons:
+
+- No VPN, Feather, Apple Relay, Push Notifications or ChatGPT support
 
 ### Generic Config Profile
 
@@ -140,9 +139,9 @@ Don't use VPNs while installing unless you've set it up using the VPN Setup Guid
 
 ### Part [2/2] Installing Portal
 
-1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links, keep in mind if none of them install you need to follow this [guide](#fixing-revokes)
+1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links
   
-2. Click on install once the popup comes up
+2. Click on install
 
 3. Open settings and go to General > VPN & Device Management > Certificate you selected
 
@@ -162,8 +161,6 @@ Download Link is in the #links channel in the Discord [Server](https://wsfteam.x
 
 - Crashing Apps? 
 
-- App is not available? 
-
 - Integrity could not be verified? 
 
 Try other downloads links, if they don't work, then follow this [guide](#fixing-revokes).
@@ -182,36 +179,30 @@ Method 4 will work, requires a computer and it will erase your data.
 
 ### Method 1
 
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
+1. Back up your device using iCloud
 
-2. Back up your device using iCloud
+2. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
 
-3. Reset your device from Settings > General > Transfer or Reset iPhone > Erase All Content and Settings
+3. Restore your iCloud backup
 
-4. Restore your iCloud backup
-
-5. Now, follow the guide again
+4. Now, follow the guide again
 
 
 ### Method 2
-
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
-2. Put your device in recovery mode and click on update in Finder or iTunes
+1. Put your device in recovery mode and click on update in Finder or iTunes
   
-3. Now, follow the guide again
+2. Now, follow the guide again
 
 ### Method 3
-
-1. Remove the Config Profile and uninstall every sideloaded app you've installed
   
-2. Back up your device with iTunes or Finder
+1. Back up your device with iTunes or Finder
   
-3. After backing up, restore your device in DFU mode
+2. After backing up, restore your device in DFU mode
   
-4. Then all you need to do is plug your phone in, go on either Finder or iTunes and click on restore backup from your device's menu
+3. Then all you need to do is plug your phone in, go on either Finder or iTunes and click on restore backup from your device's menu
   
-5. Now, follow the guide again
+4. Now, follow the guide again
 
 
 ### Method 4
