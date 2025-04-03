@@ -22,17 +22,6 @@ Push Notifications: 🟢
 
 28/05/2025: ✅
 
-
-### [Ministere:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🟢
-
-**Expiration**: 
-
-03/04/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
 **Permissions**:
