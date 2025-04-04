@@ -1,3 +1,3 @@
 ## [Sources](accent://)
 
-Sources are available in the Discord Server, in the #sources channel!
+Sources are available in the [Discord Server](https://wsfteam.xyz/discord), in the #sources channel!
