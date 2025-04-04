@@ -2,9 +2,7 @@
 
 This will show you how you can setup your VPN to be compatible with the madNS Config Profile
 
-Notes:
-
-Most free VPNs won't work with this and you'll need to find out what type of DNS your VPN supports and replace them with the listings below.
+Most VPNs won't work with this and you'll need to find out what type of DNS your VPN supports and replace them with the listings below.
 
 ### [Part [1/1] Using VPNs](accent://)
 
@@ -22,7 +20,7 @@ DNS over HTTPS:
 
 https://dns.nextdns.io/8bf6c6
 
-### madNS Config Profile + Update Blocker:
+### madNS Config Profile + UB:
 
 DNS Servers:
 
@@ -34,7 +32,7 @@ DNS over HTTPS:
 
 https://dns.nextdns.io/595d8c
 
-### madNS Config Profile + Ad-Blocker:
+### madNS Config Profile + AB:
 
 DNS Servers:
 
@@ -46,7 +44,7 @@ DNS over HTTPS:
 
 https://dns.nextdns.io/335179
 
-### madNS Config Profile + Update Blocker + Ad-Blocker:
+### madNS Config Profile + UB + AB:
 
 DNS Servers:
 
