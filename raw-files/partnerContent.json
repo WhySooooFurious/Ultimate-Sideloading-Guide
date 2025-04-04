@@ -1,10 +1,10 @@
-{
-  [
-  "url":"https://google.com",
-  "title":"Title"
-  ],
-  [
-  "url":"https://google.com",
-  "title":"Title2"
-  ]
-}
+[
+  {
+    "title": "1",
+    "url": "https://example.com"
+  },
+  {
+    "title": "2",
+    "url": "https://example.com"
+  }
+]
