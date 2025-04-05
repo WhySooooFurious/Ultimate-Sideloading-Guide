@@ -22,16 +22,6 @@ Push-Benachrichtigungen:🟢
 
 28/05/2025✅
 
-### [Ministere:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🟢
-
-**Ablaufdatum**: 
-
-03/04/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
 **Berechtigungen**:
