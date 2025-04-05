@@ -1,4 +1,4 @@
-## [Certificate Status](accent://)
+## [Certificate Information](accent://)
 
 Information for all Certificates.
 
