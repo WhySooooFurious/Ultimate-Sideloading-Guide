@@ -1,24 +1,7 @@
 {
   "iconURL" : "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/Portal.png?raw=true",
   "apps" : [
-    {
-      "beta" : false,
-      "bundleIdentifier" : "timi2506.actuallyaridan.NeoFreeBird-New",
-      "developerName" : "actuallyaridan and timi2506",
-      "downloadURL" : "https://github.com/actuallyaridan/NeoFreeBird/releases/download/testbuild-1/NeoFreeBird-10.76-new.ipa",
-      "iconURL" : "https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/Icon.jpg?raw=true",
-      "localizedDescription" : "NeoFreeBird is a modified Twitter app, with branding reverts, BHTwitter and similar Tweaks.",
-      "name" : "NeoFreeBird",
-      "screenshotURLs" : [
-        "https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/new-Screenshots/1.png?raw=true"
-      ],
-      "size" : 142606336,
-      "subtitle" : "A modified Twitter app, with branding reverts, BHTwitter and similar.",
-      "tintColor" : "1DA1F2",
-      "version" : "10.76b1",
-      "versionDate" : "2025-01-12",
-      "versionDescription" : "Based on Twitter Version 10.76"
-    },
+
     {
       "beta" : false,
       "bundleIdentifier" : "com.timi2506.Portal-Mini",
@@ -86,24 +69,6 @@
       "version" : "1.0",
       "versionDate" : "unknown",
       "versionDescription" : "Release :D"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "com.timi2506.YT-TV",
-      "developerName" : "timi2506",
-      "downloadURL" : "https://github.com/timi2506/YT-TV-SwiftUI/releases/download/1.0/YT-TV-iOS.ipa",
-      "iconURL" : "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/YT-TV.png?raw=true",
-      "localizedDescription" : "The YouTube TV UI for iOS, \nMade possible with the Help of WebView and a custom User Agent",
-      "name" : "YT-TV",
-      "screenshotURLs" : [
-        "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/YT-TV/1.png?raw=true"
-      ],
-      "size" : 169,
-      "subtitle" : "YouTube TV UI for iOS with the Help of WebView and a custom User Agent",
-      "tintColor" : "FF0000",
-      "version" : "1.0",
-      "versionDate" : "unknown",
-      "versionDescription" : "Nothing - 1.0"
     },
     {
       "beta" : false,
