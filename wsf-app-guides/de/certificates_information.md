@@ -2,6 +2,16 @@
 
 Informationen zu allen Zertifikaten.
 
+## [HDFC Bank Limited:](accent://)
+
+**Berchtigungen**:
+
+Push-Benachrichtigungen: 🟢
+
+**Ablaufdatum**:
+
+01/03/2028: ✅
+
 ### [Continent:](accent://)
 
 **Berechtigungen**:
