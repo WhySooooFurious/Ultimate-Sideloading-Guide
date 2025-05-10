@@ -56,7 +56,7 @@ Push Notifications: 🟢
 
 **Permissions**:
 
-Push Notifications: Unknown
+Push Notifications: 🟢
 
 **Expiration**: 
 
