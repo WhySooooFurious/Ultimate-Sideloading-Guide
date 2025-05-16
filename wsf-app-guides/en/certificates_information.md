@@ -12,6 +12,16 @@ Push Notifications: 🟢
 
 13/06/2025: ✅
 
+### [HDFC:](accent://)
+
+**Permissions**:
+
+Push Notifications: 🟢
+
+**Expiration**: 
+
+03/01/2026: ✅
+
 ### [Mahindra:](accent://)
 
 **Permissions**:
@@ -62,6 +72,3 @@ Push Notifications: 🟢
 
 23/05/2025: ✅
 
-**Notes**:
-
-Only compatible with ESign.
