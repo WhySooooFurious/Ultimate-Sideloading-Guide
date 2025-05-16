@@ -28,27 +28,27 @@
       "certs" : [
         {
           "certName" : "Continent",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Continent\/manifest.plist",
         },
                 {
           "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist",
         },
         {
           "certName" : "Sunshine",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist",
         },
         {
           "certName" : "Sunshine2",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist",
         },
                 {
           "certName" : "Toyota",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist",
         },
         {
           "certName" : "VietnamElec",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist"
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/VietnamElec\/manifest.plist",
         }
       ]
     },
