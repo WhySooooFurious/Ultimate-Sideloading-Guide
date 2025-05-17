@@ -67,7 +67,7 @@
         {
           "certName" : "HDFC",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/HDFC\/manifest.plist"
-        }
+        },
         {
           "certName" : "Mahindra",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist"
