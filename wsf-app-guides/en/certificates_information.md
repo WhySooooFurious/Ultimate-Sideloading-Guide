@@ -22,16 +22,6 @@ Push Notifications: 🟢
 
 03/01/2026: ✅
 
-### [Mahindra:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🟢
-
-**Expiration**: 
-
-28/05/2025: ✅
-
 ### [Sunshine 1:](accent://)
 
 **Permissions**:
