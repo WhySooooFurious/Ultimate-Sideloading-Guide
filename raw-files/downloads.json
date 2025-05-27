@@ -35,10 +35,6 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/HDFC\/manifest.plist"
         },
         {
-          "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Mahindra\/manifest.plist"
-        },
-        {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
@@ -67,10 +63,6 @@
         {
           "certName" : "HDFC",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/HDFC\/manifest.plist"
-        },
-        {
-          "certName" : "Mahindra",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Mahindra\/manifest.plist"
         },
         {
           "certName" : "Sunshine",
