@@ -52,13 +52,3 @@ Push Notifications: 🟢
 
 7/10/2025: ✅
 
-### [VietnamElec:](accent://)
-
-**Permissions**:
-
-Push Notifications: 🟢
-
-**Expiration**: 
-
-23/05/2025: ✅
-
