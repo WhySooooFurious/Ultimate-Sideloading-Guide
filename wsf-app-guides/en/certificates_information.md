@@ -22,6 +22,16 @@ Push Notifications: Yes
 
 03/01/2026
 
+### [National:](accent://)
+
+**Permissions**:
+
+Push Notifications: No
+
+**Expiration**: 
+
+08/07/2025
+
 ### [Sunshine 1:](accent://)
 
 **Permissions**:
