@@ -35,6 +35,10 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/HDFC\/manifest.plist"
         },
         {
+          "certName" : "National",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/National\/manifest.plist"
+        },
+        {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
@@ -59,6 +63,10 @@
         {
           "certName" : "HDFC",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/HDFC\/manifest.plist"
+        },
+        {
+          "certName" : "National",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/National\/manifest.plist"
         },
         {
           "certName" : "Sunshine",
