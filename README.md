@@ -106,7 +106,7 @@ Cons:
 
 ### CFDNS Config Profile
 
-This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an Ad-Blocker and an OTA Update Blocker.
+This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
 
 Pros:
 
