@@ -64,6 +64,10 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 [Portal Guide](https://www.youtube.com/watch?v=kCenM3LgSGA)
 
+**Video Guides by AppleJR**
+
+[Portal + ESign Guide](https://www.youtube.com/watch?v=m-C3Blafp_M)
+
 **Video Guides by Erdi:**
 
 [Portal Guide](https://www.youtube.com/watch?v=nni_DNix490)
