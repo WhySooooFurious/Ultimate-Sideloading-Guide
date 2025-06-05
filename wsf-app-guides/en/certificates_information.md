@@ -4,19 +4,11 @@ Information for all Certificates.
 
 ### [Continent:](accent://)
 
-**Permissions**:
-
-Push Notifications: Yes
-
 **Expiration**: 
 
 13/06/2025
 
 ### [HDFC:](accent://)
-
-**Permissions**:
-
-Push Notifications: Yes
 
 **Expiration**: 
 
@@ -24,19 +16,11 @@ Push Notifications: Yes
 
 ### [National:](accent://)
 
-**Permissions**:
-
-Push Notifications: No
-
 **Expiration**: 
 
 08/07/2025
 
 ### [Sunshine 1:](accent://)
-
-**Permissions**:
-
-Push Notifications: Yes
 
 **Expiration**: 
 
@@ -50,7 +34,7 @@ Push Notifications: Yes
 
 **Expiration**: 
 
-6/06/2025
+06/06/2025
 
 ### [Toyota:](accent://)
 
@@ -60,5 +44,15 @@ Push Notifications: Yes
 
 **Expiration**: 
 
-7/10/2025
+07/10/2025
+
+### [Viettel:](accent://)
+
+**Permissions**:
+
+Push Notifications: No
+
+**Expiration**: 
+
+07/11/2025
 
