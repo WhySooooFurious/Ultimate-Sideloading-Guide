@@ -43,10 +43,6 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine\/manifest.plist"
         },
         {
-          "certName" : "Sunshine2",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Sunshine2\/manifest.plist"
-        },
-        {
           "certName" : "Toyota",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist"
         },
@@ -75,10 +71,6 @@
         {
           "certName" : "Sunshine",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine\/manifest.plist"
-        },
-        {
-          "certName" : "Sunshine2",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Sunshine2\/manifest.plist"
         },
         {
           "certName" : "Toyota",
