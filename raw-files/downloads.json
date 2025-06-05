@@ -49,6 +49,10 @@
         {
           "certName" : "Toyota",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Toyota\/manifest.plist"
+        },
+        {
+          "certName" : "Viettel",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/ESign\/Viettel\/manifest.plist"
         }
       ]
     },
@@ -79,6 +83,10 @@
         {
           "certName" : "Toyota",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Toyota\/manifest.plist"
+        },
+        {
+          "certName" : "Viettel",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/Feather\/Viettel\/manifest.plist"
         }
       ]
     }
