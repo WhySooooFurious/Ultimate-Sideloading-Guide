@@ -80,7 +80,23 @@ A - No, You will however need to setup the Sideloadly's WireGuard using the VPN 
 
 ### madNS Config Profile
 
+Notice: Doesn't currently support VPNs.
+
 This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an Ad-Blocker and an OTA Update Blocker.
+
+Pros:
+
+- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
+
+- Privacy oriented as can be
+
+Cons:
+
+- None
+
+### CFDNS Config Profile
+
+This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
 
 Pros:
 
@@ -103,20 +119,6 @@ Pros:
 Cons:
 
 - No VPN, Feather, Apple Relay, Push Notifications or ChatGPT support
-
-### CFDNS Config Profile
-
-This configuration profile prevents revokes by blocking Apple's Certificate Servers. It also contains optional bonus features, including an OTA Update Blocker.
-
-Pros:
-
-- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
-
-- Privacy oriented as can be
-
-Cons:
-
-- None
 
 ### What does the code mean in the Config Profiles?
 
