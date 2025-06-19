@@ -2,12 +2,6 @@
 
 Information for all Certificates.
 
-### [Continent:](accent://)
-
-**Expiration**: 
-
-13/06/2025
-
 ### [HDFC:](accent://)
 
 **Expiration**: 
@@ -19,12 +13,6 @@ Information for all Certificates.
 **Expiration**: 
 
 08/07/2025
-
-### [Sunshine 1:](accent://)
-
-**Expiration**: 
-
-13/09/2025
 
 **Expiration**: 
 
