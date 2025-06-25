@@ -54,6 +54,10 @@
           "certName" : "Viettel",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/viettel\/manifest.plist"
         }
+        {
+          "certName" : "Wuling",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
+        }
       ]
     },
     {
@@ -87,6 +91,10 @@
         {
           "certName" : "Viettel",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/viettel\/manifest.plist"
+        },
+        {
+          "certName" : "Wuling",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/wuling\/manifest.plist"
         }
       ]
     }
