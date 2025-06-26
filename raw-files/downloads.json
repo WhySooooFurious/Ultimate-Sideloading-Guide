@@ -53,7 +53,7 @@
         {
           "certName" : "Viettel",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/viettel\/manifest.plist"
-        }
+        },
         {
           "certName" : "Wuling",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
