@@ -26,6 +26,12 @@ Information for all Certificates.
 
 08/07/2025
 
+### [TCL:](accent://)
+
+**Expiration**: 
+
+20/02/2026
+
 ### [Toyota:](accent://)
 
 **Expiration**: 
