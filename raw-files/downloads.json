@@ -43,6 +43,10 @@
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/national\/manifest.plist"
         },
         {
+          "certName" : "TCL",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/tcl\/manifest.plist"
+        },
+        {
           "certName" : "Toyota",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/toyota\/manifest.plist"
         },
@@ -79,6 +83,10 @@
         {
           "certName" : "National",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/national\/manifest.plist"
+        },
+        {
+          "certName" : "TCL",
+          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/tcl\/manifest.plist"
         },
         {
           "certName" : "Toyota",
