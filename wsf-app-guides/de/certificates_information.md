@@ -2,77 +2,56 @@
 
 Informationen zu allen Zertifikaten.
 
-## [HDFC Bank Limited:](accent://)
-
-**Berchtigungen**:
-
-Push-Benachrichtigungen: 🟢
+### [Central](accent://)
 
 **Ablaufdatum**:
 
-01/03/2028: ✅
+23/10/2025
 
-### [Continent:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🟢
-
-**Ablaufdatum**: 
-
-13/06/2025: ✅
-
-### [Mahindra:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen:🟢
+### [Education:](accent://)
 
 **Ablaufdatum**:
 
-28/05/2025✅
+22/03/2026
 
-### [Sunshine 1:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🟢
-
-**Ablaufdatum**: 
-
-13/09/2025: ✅
-
-### [Sunshine 2:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtigungen: 🟢
-
-**Ablaufdatum**: 
-
-6/06/2025: ✅
-
-## [Toyota:](accent://)
-
-**Berchtigungen**:
-
-Push-Benachrichtigungen:
-
-**Ablaufdatum**:🟢
-
-7/10/2025: ✅
-
-### [VietnamElec:](accent://)
-
-**Berechtigungen**:
-
-Push-Benachrichtingungen: Unbekannt
+### [HDFC:](accent://)
 
 **Ablaufdatum**:
 
-25/05/2025✅
+03/01/2026
 
-**Hinweis**:
+### [National:](accent://)
 
-Nur Mit Esign Kompatibel
+**Ablaufdatum**:
 
+08/07/2025
+
+### [TCL:](accent://)
+
+**Ablaufdatum**:
+
+20/02/2026
+
+### [Toyota:](accent://)
+
+**Ablaufdatum**:
+
+07/10/2025
+
+### [VietnamTech:](accent://)
+
+**Ablaufdatum**:
+
+07/11/2025
+
+### [Viettel:](accent://)
+
+**Ablaufdatum**:
+
+07/11/2025
+
+### [Wuling:](accent://)
+
+**Ablaufdatum**:
+
+14/05/2026

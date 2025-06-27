@@ -34,18 +34,6 @@
 	</dict>
 	<dict>
 		<key>file_title</key>
-		<string>GBox Guide</string>
-		<key>file_name</key>
-		<string>gbox_guide.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
-		<string>Scarlet Guide</string>
-		<key>file_name</key>
-		<string>scarlet_guide.md</string>
-	</dict>
-	<dict>
-		<key>file_title</key>
 		<string>Post Install Notes</string>
 		<key>file_name</key>
 		<string>post_install_notes.md</string>
