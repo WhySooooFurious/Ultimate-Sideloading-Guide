@@ -28,7 +28,7 @@
       "certs" : [
         {
           "certName" : "ESign IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/ESign.ipa"
         }
       ]
     },
@@ -38,7 +38,7 @@
       "certs" : [
         {
           "certName" : "Feather IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/wuling\/manifest.plist"
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/Feather.ipa"
         }
       ]
     }
