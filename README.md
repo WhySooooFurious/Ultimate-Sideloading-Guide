@@ -50,32 +50,6 @@ A - No. You will, however, need to set up Sideloadly's WireGuard using the VPN G
 
 ---
 
-## Tutorials
-
-**Video Guides by TechJunkieAman:**
-
-[AIO Portal + Sideloaders Guide](https://www.youtube.com/watch?v=OysjLfxNu_g)
-
-[ESign Guide](https://www.youtube.com/watch?v=MwKJjGlXni0)
-
-[Feather Guide](https://www.youtube.com/watch?v=8DiBMAdLMiY)
-
-**Video Guides by ESMANDAU:**
-
-[Portal Guide](https://www.youtube.com/watch?v=kCenM3LgSGA)
-
-**Video Guides by AppleJR:**
-
-[Portal + ESign Guide](https://www.youtube.com/watch?v=m-C3Blafp_M)
-
-**Video Guides by Erdi:**
-
-[Portal Guide](https://www.youtube.com/watch?v=nni_DNix490)
-
-**Interactive Shortcut Guides by Frizzle:**
-
-[AIO Portal + Sideloaders Shortcut Guide](https://routinehub.co/shortcut/21677/)
-
 ## Which Config Profile do I choose?
 
 ### madNS Config Profile
@@ -174,7 +148,7 @@ Try other download links. If they don't work, then follow this [guide](#fixing-r
 
 Method 1 has a low success rate and doesn't require a computer.
 
-Method 2 has a medium-high success rate and requires a computer.
+Method 2 has a medium success rate and requires a computer.
 
 Method 3 has a high success rate and requires a computer.
 
