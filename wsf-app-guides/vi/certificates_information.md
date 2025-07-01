@@ -1,81 +1,63 @@
-## [Trạng thái chứng chỉ](accent://)
+## [Certificate Information](accent://)
 
-Thông tin cho tất cả các chứng chỉ.
+Thông tin về tất cả các chứng chỉ.
 
-### [Avex:](accent://)
-
-**Quyền**:
-
-Thông báo đẩy: Không xác định
+### [NRHE:](accent://)
 
 **Hết hạn**:
 
-31/03/2025: ✅
+22/01/2027
 
-**Ghi chú**:
+### [Central:](accent://)
 
-Chỉ tương thích với ESign.
+**Hết hạn**: 
 
-### [Continent:](accent://)
+23/10/2025
 
-**Quyền**:
+### [Education:](accent://)
 
-Thông báo đẩy: 🟢
+**Hết hạn**: 
 
-**Hết hạn**:
+22/03/2026
 
-13/06/2025: ✅
+### [HDFC:](accent://)
 
-### [Mahindra:](accent://)
+**Hết hạn**: 
 
-**Quyền**:
+03/01/2026
 
-Thông báo đẩy: 🟢
+### [National:](accent://)
 
-**Hết hạn**:
+**Hết hạn**: 
 
-28/05/2025: ✅
+08/07/2025
 
-### [Ministere:](accent://)
+### [TCL:](accent://)
 
-**Quyền**:
+**Hết hạn**: 
 
-Thông báo đẩy: 🟢
+20/02/2026
 
-**Hết hạn**:
+### [Toyota:](accent://)
 
-03/04/2025: ✅
+**Hết hạn**: 
 
-### [Sunshine 1:](accent://)
+07/10/2025
 
-**Quyền**:
+### [VietnamTech:](accent://)
 
-Thông báo đẩy: 🟢
+**Hết hạn**: 
 
-**Hết hạn**:
+13/09/2025
 
-13/09/2025: ✅
+### [Viettel:](accent://)
 
-### [Sunshine 2:](accent://)
+**Hết hạn**: 
 
-**Quyền**:
+07/11/2025
 
-Thông báo đẩy: 🟢
+### [Wuling:](accent://)
 
-**Hết hạn**:
+**Hết hạn**: 
 
-6/06/2025: ✅
-
-### [VietnamElec:](accent://)
-
-**Quyền**:
-
-Thông báo đẩy: Không xác định
-
-**Hết hạn**:
-
-23/05/2025: ✅
-
-**Lưu ý**:
-
-Chỉ tương thích với ESign.
+14/05/2026

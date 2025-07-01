@@ -1,81 +1,63 @@
-## [Estado del Certificado](accent://)
+## [Certificate Information](accent://)
 
 Información de todos los certificados.
 
-### [Avex:](accent://)
-
-**Permisos**:
-
-Notificaciones push: Desconocidas
+### [NRHE:](accent://)
 
 **Caducidad**:
 
-31/03/2025: ✅
+22/01/2027
 
-**Notas**:
+### [Central:](accent://)
 
-Solo compatible con e-sign.
+**Caducidad**: 
 
-### [Continent:](accent://)
+23/10/2025
 
-**Permisos**:
+### [Education:](accent://)
 
-Notificaciones push: 🟢
+**Caducidad**: 
 
-**Caducidad**:
+22/03/2026
 
-13/06/2025: ✅
+### [HDFC:](accent://)
 
-### [Mahindra:](accent://)
+**Caducidad**: 
 
-**Permisos**:
+03/01/2026
 
-Notificaciones push: 🟢
+### [National:](accent://)
 
-**Caducidad**:
+**Caducidad**: 
 
-28/05/2025: ✅
+08/07/2025
 
-### [Ministere:](accent://)
+### [TCL:](accent://)
 
-**Permisos**:
+**Caducidad**: 
 
-Notificaciones push: 🟢
+20/02/2026
 
-**Caducidad**:
+### [Toyota:](accent://)
 
-03/04/2025: ✅
+**Caducidad**: 
 
-### [Sunshine 1:](accent://)
+07/10/2025
 
-**Permisos**:
+### [VietnamTech:](accent://)
 
-Notificaciones push: 🟢
+**Caducidad**: 
 
-**Caducidad**:
+13/09/2025
 
-13/09/2025: ✅
+### [Viettel:](accent://)
 
-### [Sunshine 2:](accent://)
+**Caducidad**: 
 
-**Permisos**:
+07/11/2025
 
-Notificaciones push: 🟢
+### [Wuling:](accent://)
 
-**Caducidad**:
+**Caducidad**: 
 
-6/06/2025: ✅
-
-### [VietnamElec:](accent://)
-
-**Permisos**:
-
-Notificaciones push: Desconocidas
-
-**Caducidad**:
-
-23/05/2025: ✅
-
-**Notas**:
-
-Solo compatible con eSign.
+14/05/2026

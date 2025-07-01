@@ -1,81 +1,63 @@
-## [Status do certificado](accent://)
+## [Certificate Information](accent://)
 
-Informações para todos os certificados.
+Informações de todos os certificados.
 
-### [Avex:](accent://)
+### [NRHE:](accent://)
 
-**Permissões**:
+**Expiration**:
 
-Notificações push: Desconhecido
+22/01/2027
 
-**Expiração**:
+### [Central:](accent://)
 
-31/03/2025: ✅
+**Expiração**: 
 
-**Observações**:
+23/10/2025
 
-Compatível apenas com ESign.
+### [Education:](accent://)
 
-### [Continent:](accent://)
+**Expiração**: 
 
-**Permissões**:
+22/03/2026
 
-Notificações Push: 🟢
+### [HDFC:](accent://)
 
-**Expiração**:
+**Expiração**: 
 
-13/06/2025: ✅
+03/01/2026
 
-### [Mahindra:](accent://)
+### [National:](accent://)
 
-**Permissões**:
+**Expiração**: 
 
-Notificações Push: 🟢
+08/07/2025
 
-**Expiração**:
+### [TCL:](accent://)
 
-28/05/2025: ✅
+**Expiração**: 
 
-### [Ministere:](accent://)
+20/02/2026
 
-**Permissões**:
+### [Toyota:](accent://)
 
-Notificações Push: 🟢
+**Expiração**: 
 
-**Expiração**:
+07/10/2025
 
-03/04/2025: ✅
+### [VietnamTech:](accent://)
 
-### [Sunshine 1:](accent://)
+**Expiração**: 
 
-**Permissões**:
+13/09/2025
 
-Notificações Push: 🟢
+### [Viettel:](accent://)
 
-**Expiração**:
+**Expiração**: 
 
-13/09/2025: ✅
+07/11/2025
 
-### [Sunshine 2:](accent://)
+### [Wuling:](accent://)
 
-**Permissões**:
+**Expiração**: 
 
-Notificações Push: 🟢
-
-**Expiração**:
-
-6/06/2025: ✅
-
-### [VietnamElec:](accent://)
-
-**Permissões**:
-
-Notificações Push: Desconhecido
-
-**Expiração**:
-
-23/05/2025: ✅
-
-**Observações**:
-
-Compatível apenas com ESign.
+14/05/2026
