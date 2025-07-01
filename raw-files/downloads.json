@@ -2,16 +2,11 @@
   "files" : [
     {
       "note" : "NOTE: Certificates will be moved to the WSF Source soon",
-      "downloadURL" : "https:\/\/wsfteam.xyz\/files\/Certificates\/Certificates.zip",
+      "downloadURL" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/certificates.zip",
       "name" : "Certificates"
     },
-        {
-      "note" : "IPA for 3.3.0",
-      "downloadURL" : "https:\/\/files.catbox.moe\/gotf6z.ipa",
-      "name" : "Portal Beta"
-    },
     {
-      "note" : "Useful Dynamic Libaries",
+      "note" : "Useful Dylibs",
       "downloadURL" : "https:\/\/wsfteam.xyz\/files\/dylibs\/dylibs.zip",
       "name" : "Dylibs"
     },
@@ -28,7 +23,7 @@
       "certs" : [
         {
           "certName" : "ESign IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/ESign.ipa"
         }
       ]
     },
@@ -38,7 +33,7 @@
       "certs" : [
         {
           "certName" : "Feather IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/wuling\/manifest.plist"
+          "downloadURL" : "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/Feather.ipa"
         }
       ]
     }
