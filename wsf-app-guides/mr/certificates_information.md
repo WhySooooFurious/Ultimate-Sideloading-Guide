@@ -1,63 +1,63 @@
 ## [Certificate Information](accent://)
 
-Information for all Certificates.
+सभी प्रमाणपत्रों की जानकारी।
 
 ### [NRHE:](accent://)
 
-**Expiration**:
+**परवानग्या**:
 
 22/01/2027
 
 ### [Central:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 13/09/2025
 
 ### [Viettel:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Expiration**: 
+**परवानग्या**: 
 
 14/05/2026

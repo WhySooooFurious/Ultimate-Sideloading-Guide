@@ -1,63 +1,63 @@
-## [Zertifikatsstatus](accent://)
+## [Certificate Information](accent://)
 
-Informationen zu allen Zertifikaten.
+Informações de todos os certificados.
 
 ### [NRHE:](accent://)
 
-**Ablaufdatum**:
+**Expiration**:
 
 22/01/2027
 
-### [Central](accent://)
+### [Central:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
-07/11/2025
+13/09/2025
 
 ### [Viettel:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Ablaufdatum**:
+**Expiração**: 
 
 14/05/2026

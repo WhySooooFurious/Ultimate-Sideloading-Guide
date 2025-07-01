@@ -4,60 +4,60 @@ Information for all Certificates.
 
 ### [NRHE:](accent://)
 
-**Expiration**:
+**Истекание**:
 
 22/01/2027
 
 ### [Central:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 13/09/2025
 
 ### [Viettel:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Expiration**: 
+**Истекание**: 
 
 14/05/2026

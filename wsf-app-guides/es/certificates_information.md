@@ -1,63 +1,63 @@
-## [Zertifikatsstatus](accent://)
+## [Certificate Information](accent://)
 
-Informationen zu allen Zertifikaten.
+Información de todos los certificados.
 
 ### [NRHE:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**:
 
 22/01/2027
 
-### [Central](accent://)
+### [Central:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
-07/11/2025
+13/09/2025
 
 ### [Viettel:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Ablaufdatum**:
+**Caducidad**: 
 
 14/05/2026

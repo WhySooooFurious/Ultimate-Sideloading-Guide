@@ -1,63 +1,63 @@
-## [Zertifikatsstatus](accent://)
+## [Certificate Information](accent://)
 
-Informationen zu allen Zertifikaten.
+Thông tin về tất cả các chứng chỉ.
 
 ### [NRHE:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**:
 
 22/01/2027
 
-### [Central](accent://)
+### [Central:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
-07/11/2025
+13/09/2025
 
 ### [Viettel:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Ablaufdatum**:
+**Hết hạn**: 
 
 14/05/2026

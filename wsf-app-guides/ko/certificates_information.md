@@ -1,63 +1,63 @@
-## [Zertifikatsstatus](accent://)
+## [Certificate Information](accent://)
 
-Informationen zu allen Zertifikaten.
+모든 인증서 정보.
 
 ### [NRHE:](accent://)
 
-**Ablaufdatum**:
+**권한**:
 
 22/01/2027
 
-### [Central](accent://)
+### [Central:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 23/10/2025
 
 ### [Education:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 22/03/2026
 
 ### [HDFC:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 03/01/2026
 
 ### [National:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 08/07/2025
 
 ### [TCL:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 20/02/2026
 
 ### [Toyota:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 07/10/2025
 
 ### [VietnamTech:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
-07/11/2025
+13/09/2025
 
 ### [Viettel:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 07/11/2025
 
 ### [Wuling:](accent://)
 
-**Ablaufdatum**:
+**권한**: 
 
 14/05/2026
