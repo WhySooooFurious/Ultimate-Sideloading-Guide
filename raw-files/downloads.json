@@ -27,39 +27,7 @@
       "name" : "ESign",
       "certs" : [
         {
-          "certName" : "Central",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/central\/manifest.plist"
-        },
-        {
-          "certName" : "Education",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/education\/manifest.plist"
-        },
-        {
-          "certName" : "HDFC",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/hdfc\/manifest.plist"
-        },
-        {
-          "certName" : "National",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/national\/manifest.plist"
-        },
-        {
-          "certName" : "TCL",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/tcl\/manifest.plist"
-        },
-        {
-          "certName" : "Toyota",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/toyota\/manifest.plist"
-        },
-        {
-          "certName" : "VietnamTech",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/vietnamtech\/manifest.plist"
-        },
-        {
-          "certName" : "Viettel",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/viettel\/manifest.plist"
-        },
-        {
-          "certName" : "Wuling",
+          "certName" : "ESign IPA",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
         }
       ]
@@ -69,39 +37,7 @@
       "name" : "Feather",
       "certs" : [
         {
-          "certName" : "Central",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/central\/manifest.plist"
-        },
-        {
-          "certName" : "Education",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/education\/manifest.plist"
-        },
-        {
-          "certName" : "HDFC",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/hdfc\/manifest.plist"
-        },
-        {
-          "certName" : "National",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/national\/manifest.plist"
-        },
-        {
-          "certName" : "TCL",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/tcl\/manifest.plist"
-        },
-        {
-          "certName" : "Toyota",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/toyota\/manifest.plist"
-        },
-        {
-          "certName" : "VietnamTech",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/vietnamtech\/manifest.plist"
-        },
-        {
-          "certName" : "Viettel",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/viettel\/manifest.plist"
-        },
-        {
-          "certName" : "Wuling",
+          "certName" : "Feather IPA",
           "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/wuling\/manifest.plist"
         }
       ]
