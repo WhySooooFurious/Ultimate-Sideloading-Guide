@@ -12,11 +12,11 @@ Advantages:
 
 - No App Limits!
 
-- On Device Signing!
+- On-Device Signing!
 
 - No Privacy Concerns!
 
-- Takes 5 Minutes to Setup!
+- Takes 5 Minutes to Set Up!
 
 - Compatible with ESign/Feather/GBox/Scarlet
 
@@ -24,7 +24,7 @@ Advantages:
 
 You can view the privacy report [here](https://nch.pl/s/rKBAY59pNcX5bpJ/download?path=%2F&files=maDNS%20Config%20Profile%20Privacy%20Report.pdf&downloadStartSecret=5en4k2r6yuv).
 
-If you still have privacy concerns about the madNS Config Profile, make an issue on github with your email and i'll send you a viewing invite so you can see for yourself.
+If you still have privacy concerns about the madNS Config Profile, make an issue on GitHub with your email and I'll send you a viewing invite so you can see for yourself.
 
 If you still have privacy concerns, use the WSF Config Profile, it uses a native iOS Configuration Profile method to redirect Apple Certificate Servers to https://localhost.direct, which is your own local network.
 
@@ -44,37 +44,11 @@ A - You can if you're using the CFDNS Config Profile, set it up by using the VPN
 
 ---
 
-Q - Will services such as AltStore, Sideloadly and Sidestore affect this guide at all?
+Q - Will services such as AltStore, Sideloadly, and Sidestore affect this guide at all?
 
-A - No, You will however need to setup the Sideloadly's WireGuard using the VPN Guide which is in the Portal app and Discord.
+A - No. You will, however, need to set up Sideloadly's WireGuard using the VPN Guide which is in the Portal app and Discord.
 
 ---
-
-## Tutorials
-
-**Video Guides by TechJunkieAman:**
-
-[AIO Portal + Sideloaders Guide](https://www.youtube.com/watch?v=OysjLfxNu_g)
-
-[ESign Guide](https://www.youtube.com/watch?v=MwKJjGlXni0)
-
-[Feather Guide](https://www.youtube.com/watch?v=8DiBMAdLMiY)
-
-**Video Guides by ESMANDAU**
-
-[Portal Guide](https://www.youtube.com/watch?v=kCenM3LgSGA)
-
-**Video Guides by AppleJR**
-
-[Portal + ESign Guide](https://www.youtube.com/watch?v=m-C3Blafp_M)
-
-**Video Guides by Erdi:**
-
-[Portal Guide](https://www.youtube.com/watch?v=nni_DNix490)
-
-**Interactive Shortcut Guides by Frizzle:**
-
-[AIO Portal + Sideloaders Shortcut Guide](https://routinehub.co/shortcut/21677/)
 
 ## Which Config Profile do I choose?
 
@@ -86,9 +60,9 @@ This configuration profile prevents revokes by blocking Apple's Certificate Serv
 
 Pros:
 
-- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
+- Supports VPNs, Feather, Apple Relay, Push Notifications, and ChatGPT
 
-- Privacy oriented as can be
+- Privacy-oriented as can be
 
 Cons:
 
@@ -100,9 +74,9 @@ This configuration profile prevents revokes by blocking Apple's Certificate Serv
 
 Pros:
 
-- Supports VPNs, Feather, Apple Relay, Push Notifications and ChatGPT
+- Supports VPNs, Feather, Apple Relay, Push Notifications, and ChatGPT
 
-- Privacy oriented as can be
+- Privacy-oriented as can be
 
 Cons:
 
@@ -114,7 +88,7 @@ This configuration profile prevents revokes by blocking Apple's Certificate Serv
 
 Pros:
 
-- Privacy oriented
+- Privacy-oriented
 
 Cons:
 
@@ -126,33 +100,33 @@ UB: Blocks Apple OTA Updates
 
 AB: Blocks Ads and Trackers
 
-Don't use VPNs while installing unless you've set it up using the VPN Setup Guide.
+Don't use VPNs while installing unless you've set them up using the VPN Setup Guide.
 
 ## Installation Guide
 
 ### Part [1/2] Installing the Config Profile
 
-1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles and then select the Config Profile you would like to install
+1. Go down to [Downloads](#downloads) and click on the link, then Config Profiles, and then select the Config Profile you would like to install
 
 2. Click on Download, and the profile should be imported into settings automatically
   
-3. Now, open settings and go to General > VPN & Device Management and install the downloaded profile
+3. Now, open Settings and go to General > VPN & Device Management and install the downloaded profile
   
-4. Continue onto [Part 2](#part-22-installing-portal) to install Portal
+4. Continue on to [Part 2](#part-22-installing-portal) to install Portal
 
 ### Part [2/2] Installing Portal
 
-1. Go down to [Downloads](#downloads) and click on the link, then Portal and then select any of the links
+1. Go down to [Downloads](#downloads) and click on the link, then Portal, and then select any of the links
   
-2. Click on install
+2. Click on Install
 
-3. Open settings and go to General > VPN & Device Management > Certificate you selected
+3. Open Settings and go to General > VPN & Device Management > Certificate you selected
 
-4. Click on Trust at the top then click on allow, after this your device might need to be restarted
+4. Click on Trust at the top, then click on Allow. After this, your device might need to be restarted
 
-5. If your device was restarted, swipe up and click on install profile
+5. If your device was restarted, swipe up and click on Install Profile
 
-6. Now, open Portal and read the Post Install Notes and other guides
+6. Now, open Portal and read the Post-Install Notes and other guides
 
 ## Downloads
 
@@ -166,19 +140,19 @@ Download Link is in the #links channel in the Discord [Server](https://wsfteam.x
 
 - Integrity could not be verified? 
 
-Try other downloads links, if they don't work, then follow this [guide](#fixing-revokes).
+Try other download links. If they don't work, then follow this [guide](#fixing-revokes).
 
 ---
 
 ## Fixing Revokes
 
-Method 1 has a low success rate and doesn't require a computer
+Method 1 has a low success rate and doesn't require a computer.
 
-Method 2 has a medium-high success rate and requires a computer
+Method 2 has a medium success rate and requires a computer.
 
-Method 3 has a high success rate and requires a computer
+Method 3 has a high success rate and requires a computer.
 
-Method 4 will work, requires a computer and it will erase your data.
+Method 4 will work, requires a computer, and it will erase your data.
 
 ### Method 1
 
@@ -203,7 +177,7 @@ Method 4 will work, requires a computer and it will erase your data.
   
 2. After backing up, restore your device in DFU mode
   
-3. Then all you need to do is plug your phone in, go on either Finder or iTunes and click on restore backup from your device's menu
+3. Then all you need to do is plug your phone in, go on either Finder or iTunes, and click on Restore Backup from your device's menu
   
 4. Now, follow the guide again
 
