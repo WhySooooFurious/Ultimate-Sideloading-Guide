@@ -20,27 +20,5 @@
       "downloadURL" : "https:\/\/files.catbox.moe\/ue31ly.zip",
       "name" : "Bully V1"
     }
-  ],
-  "apps" : [
-    {
-      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/esign.png",
-      "name" : "ESign",
-      "certs" : [
-        {
-          "certName" : "ESign IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/esign\/wuling\/manifest.plist"
-        }
-      ]
-    },
-    {
-      "image" : "https:\/\/raw.githubusercontent.com\/WhySooooFurious\/Ultimate-Sideloading-Guide\/refs\/heads\/main\/raw-files\/Portal-In-App-Icons\/feather.png",
-      "name" : "Feather",
-      "certs" : [
-        {
-          "certName" : "Feather IPA",
-          "downloadURL" : "itms-services:\/\/?action=download-manifest&url=https:\/\/wsfteam.xyz\/files\/feather\/wuling\/manifest.plist"
-        }
-      ]
-    }
   ]
 }
