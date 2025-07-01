@@ -5,13 +5,8 @@
       "downloadURL" : "https:\/\/wsfteam.xyz\/files\/Certificates\/Certificates.zip",
       "name" : "Certificates"
     },
-        {
-      "note" : "IPA for 3.3.0",
-      "downloadURL" : "https:\/\/files.catbox.moe\/gotf6z.ipa",
-      "name" : "Portal Beta"
-    },
     {
-      "note" : "Useful Dynamic Libaries",
+      "note" : "Useful Dylibs",
       "downloadURL" : "https:\/\/wsfteam.xyz\/files\/dylibs\/dylibs.zip",
       "name" : "Dylibs"
     },
