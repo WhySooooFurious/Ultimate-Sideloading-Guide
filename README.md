@@ -1,4 +1,4 @@
-The GitHub guide is now depreciated.
+The GitHub guide is now depreciated but will be active in terms of us uploading content here to make this as open as possible, make sure to star the repo :)
 
 Please use this [website](https://wsfteam.xyz) to have a look at the guides or downloads.
 
