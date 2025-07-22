@@ -8,6 +8,12 @@ Information for all Certificates.
 
 23/10/2025
 
+### [Chiba:](accent://)
+
+**Expiration**: 
+
+27/04/2026
+
 ### [Education:](accent://)
 
 **Expiration**: 
@@ -55,6 +61,12 @@ Information for all Certificates.
 **Expiration**: 
 
 07/10/2025
+
+### [VietnamBank:](accent://)
+
+**Expiration**: 
+
+19/03/2026
 
 ### [VietnamTech:](accent://)
 
