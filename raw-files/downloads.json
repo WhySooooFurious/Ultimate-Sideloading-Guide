@@ -6,7 +6,7 @@
       "name" : "Certificates"
     },
     {
-      "note" : "Useful Dylibs",
+      "note" : "NOTE: Dylibs will be moved to the WSF Source soon",
       "downloadURL" : "https:\/\/wsfteam.xyz\/files\/dylibs\/dylibs.zip",
       "name" : "Dylibs"
     },
