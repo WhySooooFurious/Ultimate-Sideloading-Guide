@@ -62,6 +62,12 @@ Information for all Certificates.
 
 07/10/2025
 
+### [Tianjin:](accent://)
+
+**Expiration**: 
+
+17/03/2026
+
 ### [VietnamBank:](accent://)
 
 **Expiration**: 
