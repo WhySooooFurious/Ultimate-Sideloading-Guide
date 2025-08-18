@@ -5,7 +5,7 @@ This document lists common problems when sideloading apps on iOS and how to fix 
 ## 1. “Unable to verify” error
 
 - **Problem**: PPQ is blocked by the DNS at the initial set up 
-- **Fix**: Go to **Settings → General → VPN & Device Management** → **DNS  **Change that to „INSTALL ONLY“ and then try again it may take a few seconds to apply 
+- **Fix**: Go to **Settings → General → VPN & Device Management** → **DNS** Change that to „INSTALL ONLY“ and then try again it may take a few seconds to apply 
 
 ## 2. App crashes immediately after opening
 
