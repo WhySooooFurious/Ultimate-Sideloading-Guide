@@ -12,7 +12,7 @@ Dieses Dokument listet häufige Probleme beim Sideloaden von Apps auf iOS und de
 - Wird oft durch abgelaufene Zertifikate/defekte .ipa verursacht
 - **Lösung**: Entweder das Zertifikat auf ein anderes umstellen oder versuchen, eine andere .ipa zu installieren
 
-## 3. Portal-Sänger sagt etwas anderes
+## 3. Portal-Signer zeigt eine Fehlermeldung
 
 - Kann durch ein Problem mit der API oder eine instabile WLAN-Verbindung verursacht werden
 - **Lösung**: Du kannst 3 Optionen nutzen 
