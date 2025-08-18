@@ -12,7 +12,7 @@ This document lists common problems when sideloading apps on iOS and how to fix 
 - Often caused by expired certificates/broken .ipa 
 - **Fix**: Either switch the certificate to a other one or try to get a other .ipa you try to install 
 
-## 3. Portal singer says any other 
+## 3. Portal singer says a error 
 
 - It can happen because of a problem with the API or your WiFi connection isn’t stable 
 - **Fix**: You can use 3 options
