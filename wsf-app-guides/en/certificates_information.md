@@ -50,6 +50,12 @@ Information for all Certificates.
 
 08/07/2025
 
+### [Takeoff:](accent://)
+
+**Expiration**: 
+
+04/06/2026
+
 ### [TCL:](accent://)
 
 **Expiration**: 
