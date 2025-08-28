@@ -44,12 +44,6 @@ Information for all Certificates.
 
 03/01/2026
 
-### [National:](accent://)
-
-**Expiration**: 
-
-08/07/2025
-
 ### [Takeoff:](accent://)
 
 **Expiration**: 
