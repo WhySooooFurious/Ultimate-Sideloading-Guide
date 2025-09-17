@@ -13,15 +13,8 @@ ocsp.digicert.cn
 ocsp.digicert.com
 ocsp2-lb.apple.com.akadns.net
 gdmf.apple.com
-gsas.apple.com
-gsas.idms-apple.com.akadns.net
-ma-gsa-hb-prod.apple.com
-aidc.apple.com
-init.ess.apple.com
-iphone-ld.origin-apple.com
 crl5.digicert.com
 crl2.digicert.com
 crl.digicert.com
 crl2.apple.com
 crl3.apple.com
-mesu.apple.com
