@@ -48,7 +48,7 @@ Information for all Certificates.
 
 **Expiration**:
 
-
+24/01/2026
 
 ### [Takeoff:](accent://)
 
