@@ -2,17 +2,17 @@
 
 Information for all Certificates.
 
-### [Central:](accent://)
-
-**Expiration**: 
-
-23/10/2025
-
 ### [Chiba:](accent://)
 
 **Expiration**: 
 
 27/04/2026
+
+### [ChinaTelecom:](accent://)
+
+**Expiration**: 
+
+22/03/2026
 
 ### [Education:](accent://)
 
@@ -44,6 +44,12 @@ Information for all Certificates.
 
 03/01/2026
 
+### [Huahan:](accent://)
+
+**Expiration**:
+
+
+
 ### [Takeoff:](accent://)
 
 **Expiration**: 
@@ -56,12 +62,6 @@ Information for all Certificates.
 
 20/02/2026
 
-### [Toyota:](accent://)
-
-**Expiration**: 
-
-07/10/2025
-
 ### [Tianjin:](accent://)
 
 **Expiration**: 
@@ -73,12 +73,6 @@ Information for all Certificates.
 **Expiration**: 
 
 19/03/2026
-
-### [VietnamTech:](accent://)
-
-**Expiration**: 
-
-13/09/2025
 
 ### [Viettel:](accent://)
 
