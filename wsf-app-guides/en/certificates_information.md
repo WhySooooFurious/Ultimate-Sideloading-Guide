@@ -56,6 +56,12 @@ Information for all Certificates.
 
 17/03/2026
 
+### [Truck:](accent://)
+
+**Expiration**: 
+
+11/04/2026
+
 ### [VietnamBank:](accent://)
 
 **Expiration**: 
