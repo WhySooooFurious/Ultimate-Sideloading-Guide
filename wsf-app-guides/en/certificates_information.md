@@ -26,18 +26,6 @@ Information for all Certificates.
 
 27/04/2026
 
-### [Esensoft:](accent://)
-
-**Expiration**: 
-
-19/11/2025
-
-### [Estate:](accent://)
-
-**Expiration**: 
-
-27/11/2025
-
 ### [HDFC:](accent://)
 
 **Expiration**: 
@@ -73,12 +61,6 @@ Information for all Certificates.
 **Expiration**: 
 
 19/03/2026
-
-### [Viettel:](accent://)
-
-**Expiration**: 
-
-07/11/2025
 
 ### [Wuling:](accent://)
 
